@@ -453,5 +453,12 @@
     "estilo": "De Siempre",
     "categoria": "carnes",
     "imagen": "costillas_guisadas.webp"
+  },
+    {
+    "id": "sopa_de_ajo",
+    "nombre": "Sopa de Ajo",
+    "estilo": "De Siempre",
+    "categoria": "sopas",
+    "imagen": "sopa_de_ajo.webp"
   }
 ]
