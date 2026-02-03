@@ -5,25 +5,10 @@
   "categoria": "Sopas",
   "imagen": "sopa_de_ajo.webp",
   "ingredientes": [
-    "4 unidades de Cebolla blanca",
-    "250 ml de Vino blanco",
-    "1 l de Agua",
-    "50 g de Mantequilla",
-    "15 ml de Aceite de girasol",
-    "10 g de Harina de trigo",
-    "100 g de Queso Emmental rallado",
-    "1 unidad de Pan baguette",
-    "Sal al gusto",
-    "Pimienta negra al gusto"
+
   ],
   "pasos": [
-    "Comienza cortando las cebollas blancas en juliana fina. En una olla, calienta el aceite y derrite 30 gramos de mantequilla. Añade las cebollas cortadas, salpimienta al gusto y cocina a fuego lento durante unos 20 minutos. Remueve ocasionalmente.",
-    "Incorpora la harina a la cebolla pochada y remueve bien para que se integre por completo. Cocina por un par de minutos más para tostar la harina.",
-    "Vierte el vino blanco y el litro de agua a la olla sin dejar de remover. Ajusta el punto de sal y pimienta si es necesario. Cocina a fuego bajo durante unos 30 minutos más.",
-    "Mientras la sopa se cocina, prepara el pan para gratinar. Corta el pan baguette en rodajas de unos tres o cuatro centímetros de grosor. Unta cada rebanada con la mantequilla restante por ambos lados. Coloca las rebanadas en una bandeja de horno y hornea a 180°C durante unos 10 minutos. Luego, voltéalas y hornea otros 10 minutos para que se doren por ambos lados y queden bien crujientes.",
-    "Si tienes queso Emmental entero, rállalo.",
-    "Para servir, vierte cada porción de sopa caliente en cuencos individuales aptos para horno. Acomoda una o dos rodajas del pan tostado sobre la sopa y espolvorea el queso rallado sobre el pan y la superficie de la sopa.",
-    "Introduce los cuencos en el horno precalentado a 220°C por unos tres a cinco minutos, o hasta que el queso se gratine. Sirve inmediatamente."
+
   ],
   "origen": "Francesa",
   "recomendaciones": null,
@@ -31,6 +16,6 @@
   "dificultad": "Fácil",
   "duracion_aproximada": "1h 5min",
   "comensales": 2,
-  "observaciones": "Una reconfortante sopa de cebolla con raíces francesas, perfecta para calentar el alma. Este plato clásico destaca por el dulzor caramelizado de la cebolla, un caldo sabroso y una irresistible capa gratinada de queso y pan.",
+  "observaciones": "",
   "ocasion": ["Invierno / Cena Ligera / Entrada"]
 }
