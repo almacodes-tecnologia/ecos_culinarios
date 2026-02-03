@@ -1,0 +1,21 @@
+{
+  "id": "sopa_de_ajo",
+  "nombre": "Sopa de Ajo",
+  "estilo": "Tradicional",
+  "categoria": "Sopas",
+  "imagen": "sopa_de_ajo.webp",
+  "ingredientes": [
+
+  ],
+  "pasos": [
+
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 5min",
+  "comensales": 2,
+  "observaciones": "Una reconfortante sopa de ajo.",
+  "ocasion": ["Invierno / Cena Ligera / Entrada"]
+}
