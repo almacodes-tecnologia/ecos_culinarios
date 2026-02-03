@@ -1,0 +1,19 @@
+{
+  "id": "estofado",
+  "nombre": "Estofado",
+  "categoria": "coccion",
+  "descripcion": "Técnica de cocción lenta y prolongada realizada en un recipiente cerrado (tradicionalmente una olla) con una cantidad moderada de líquido. A diferencia del hervido, los alimentos se cocinan en su propio jugo mezclado con un caldo o vino, lo que resulta en carnes extremadamente tiernas y salsas espesas y concentradas.",
+  "imagen": "estofado.webp",
+  "ingredientesRecomendados": [
+    "Carnes duras (rabo de toro, carrilleras, morcillo)",
+    "Legumbres (lentejas, alubias)",
+    "Patatas y zanahorias",
+    "Vino tinto o caldos oscuros",
+    "Hierbas aromáticas (laurel, tomillo)"
+  ],
+  "precauciones": [
+    "Mantén la tapa bien ajustada para evitar la evaporación excesiva del líquido y mantener una temperatura constante.",
+    "No permitas que el líquido hierva a borbotones; un fuego suave y constante (chup-chup) es la clave para que el colágeno de la carne se deshaga.",
+    "Es recomendable sellar la carne previamente para añadir una capa extra de sabor (reacción de Maillard) al guiso final."
+  ]
+}

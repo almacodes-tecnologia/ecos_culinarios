@@ -1,0 +1,35 @@
+{
+  "id": "rancho",
+  "nombre": "Rancho",
+  "estilo": "Tradicional",
+  "categoria": "Arroces",
+  "imagen": "rancho.webp",
+  "ingredientes": [
+    "Carne",
+    "Sal",
+    "1/4 de Cebolla",
+    "Tomate pelado",
+    "Agua",
+    "Cúrcuma",
+    "1/2 Pastilla Avecrem",
+    "Patatas",
+    "1 cucharada de Arroz"
+  ],
+  "pasos": [
+    "Comenzar friendo la carne en una sartén a fuego medio. Es importante que la sartén esté tapada y que la carne haya sido previamente sazonada con sal. Se cocina hasta que esté a medio hacer, buscando ese punto donde los jugos se sellan y comienza a dorarse.",
+    "Mientras la carne se sella, en una olla amplia, sofreír la cebolla (aproximadamente un cuarto de una unidad mediana) finamente picada, junto con tomate pelado y troceado.",
+    "Una vez el sofrito esté listo, añadir la carne (la cantidad será al gusto, adaptando a los comensales) a la olla. Remover bien, integrando la carne con el sofrito para que todos los sabores empiecen a fusionarse.",
+    "Verter agua hirviendo hasta cubrir por completo la carne y el sofrito.",
+    "Sazonar el conjunto con sal (se puede añadir una pizca de cúrcuma para realzar el color y el sabor), e incorporar media pastilla de Avecrem (o un caldo concentrado similar) para intensificar el gusto. Cocinar a fuego suave durante 10 a 15 minutos.",
+    "En este punto, añadir las patatas peladas y troceadas al guiso. Cocinar durante aproximadamente 10 minutos, o hasta que comiencen a ablandarse.",
+    "Finalmente, incorporar una cucharada de arroz. Cocinar el guiso durante unos 20 minutos adicionales. Es fundamental ir añadiendo agua caliente según sea necesario para mantener la consistencia deseada del guiso y asegurar que el arroz se cocine perfectamente, quedando meloso y tierno."
+  ],
+  "origen": "Tradicional Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 15min",
+  "comensales": 2,
+  "observaciones": "Un rancho casero y reconfortante, perfecto para una comida nutritiva y sencilla. Con carne, patatas y un toque de arroz, ideal para los días fríos.",
+  "ocasion": ["Comida Diaria"]
+}

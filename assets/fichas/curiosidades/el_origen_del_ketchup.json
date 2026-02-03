@@ -1,0 +1,32 @@
+{
+    "id": "el_origen_del_ketchup",
+    "titulo": "El origen del ketchup: de China a tu mesa",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "El ketchup moderno tiene sus raíces en una salsa fermentada llamada 'kê-tsiap', originaria del sur de China, hecha con pescado y especias.",
+      "Durante el siglo XIX, los marineros y comerciantes europeos adaptaron la receta con tomates, azúcar y vinagre, creando la versión que conocemos hoy."
+    ],
+    "fecha_aproximada": "Siglo XIX (adaptación occidental)",
+    "origen": "China (original), popularizado en Occidente por comerciantes europeos",
+    "nota_divertida": "En algunos libros antiguos de cocina, la salsa ketchup todavía se preparaba con anchoas, ¡no con tomate!",
+    "datos_adicionales": {
+      "uso_actual": "Hoy es una de las salsas más populares del mundo, especialmente en hamburguesas, papas fritas y comidas rápidas.",
+      "materiales": [
+        "tomates",
+        "azúcar",
+        "vinagre",
+        "especias"
+      ],
+      "funcionamiento": "La combinación de tomates maduros, azúcar y vinagre se cocina hasta obtener una salsa homogénea y sabrosa, lista para conservar y consumir.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Libros de historia de la gastronomía",
+      "Estudios sobre salsas tradicionales"
+    ]
+  }
+  

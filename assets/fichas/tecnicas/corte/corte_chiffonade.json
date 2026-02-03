@@ -1,0 +1,19 @@
+{
+  "id": "corte_chiffonade",
+  "nombre": "Corte Chiffonade",
+  "categoria": "corte",
+  "descripcion": "Técnica de corte francesa aplicada a vegetales de hoja grande y hierbas aromáticas. Consiste en apilar las hojas, enrollarlas firmemente y cortarlas en tiras muy finas y transversales, obteniendo cintas delicadas.",
+  "imagen": "corte_chiffonade.webp",
+  "ingredientesRecomendados": [
+    "Albahaca fresca",
+    "Espinacas",
+    "Lechuga",
+    "Hojas de col o repollo",
+    "Menta"
+  ],
+  "precauciones": [
+    "No presiones demasiado el rollo de hojas para no magullarlas ni oxidarlas.",
+    "Utiliza un cuchillo de chef muy afilado para que el corte sea limpio y no machaque la fibra.",
+    "Corta las hojas justo antes de servir, ya que al ser tiras tan finas se marchitan y oscurecen rápidamente."
+  ]
+}

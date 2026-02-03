@@ -1,0 +1,29 @@
+{
+  "id": "sabor_umami",
+  "titulo": "Umami: el quinto sabor que lo cambia todo",
+  "categoria": "Ciencia de los alimentos",
+  "descripcion": [
+    "El umami es el quinto sabor básico, junto al dulce, salado, ácido y amargo. Fue identificado y nombrado por el profesor Kikunae Ikeda en Japón en 1908.",
+    "Su nombre significa 'sabor delicioso' en japonés y está asociado especialmente al glutamato monosódico (MSG), aunque también se percibe gracias a compuestos como el inosinato y el guanilato."
+  ],
+  "fecha_aproximada": "Principios del siglo XX (1908)",
+  "origen": "Japón",
+  "datos_adicionales": {
+    "uso_actual": "El umami se ha convertido en un pilar de la alta cocina para aportar profundidad y complejidad a los platos.",
+    "materiales": [
+      "glutamato monosódico (MSG)",
+      "inosinato",
+      "guanilato"
+    ],
+    "funcionamiento": "Estimula receptores específicos de la lengua, proporcionando una sensación de sabor profundo, prolongado y sabroso.",
+    "relacionados": [
+      "glutamato",
+      "sabor_basico",
+      "gastronomia_molecular"
+    ]
+  },
+  "referencias": [
+    "Investigación del Dr. Kikunae Ikeda",
+    "Estudios científicos sobre el sabor"
+  ]
+}

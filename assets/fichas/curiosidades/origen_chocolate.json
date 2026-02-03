@@ -1,0 +1,31 @@
+{
+  "id": "origen_chocolate",
+  "titulo": "El chocolate, un tesoro amargo de la antigüedad",
+  "categoria": "Historia culinaria",
+  "imagen": "origen_chocolate.webp",
+  "descripcion": [
+    "El chocolate se originó en Mesoamérica, donde las civilizaciones como los mayas y aztecas cultivaban el cacao.",
+    "Lejos de ser un dulce sólido, lo consumían como una bebida amarga y espumosa, a menudo mezclada con chiles y especias."
+  ],
+  "fecha_aproximada": "Antigüedad (2000 a.C. - 1000 a.C.)",
+  "origen": "Mesoamérica (lo que hoy es México y Centroamérica)",
+  "nota_divertida": "Los mayas y los aztecas consideraban el cacao tan valioso que a menudo lo utilizaban como forma de moneda y para pagar tributos.",
+  "datos_adicionales": {
+    "uso_actual": "Se consume principalmente como un dulce o en repostería. La bebida original es hoy un sabor exótico y de nicho.",
+    "materiales": [
+      "semillas de cacao",
+      "chile",
+      "vainilla",
+      "maíz"
+    ],
+    "funcionamiento": "Las semillas de cacao se fermentaban, se tostaban y se molían hasta obtener una pasta que luego se disolvía en agua y se batía.",
+    "relacionados": [
+      "cacao",
+      "mayas_aztecas",
+      "bebidas_tradicionales"
+    ]
+  },
+  "referencias": [
+    "Fuentes históricas y antropológicas"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fabada_de_judias",
+  "nombre": "Fabada de judías",
+  "estilo": "Tradicional",
+  "categoria": "Legumbres",
+  "imagen": "fabada_de_judias.webp",
+  "ingredientes": [
+    "1200 gr de Judías blancas",
+    "Agua",
+    "1 cucharada de Sal",
+    "1/4 cucharada (sopera) de Bicarbonato",
+    "Papada",
+    "Chorizo",
+    "1/4 de Cebolla",
+    "4 cucharadas (de sopa) de Aceite",
+    "Morcilla"
+  ],
+  "pasos": [
+    "Pon 1200 gramos de judías a remojar en un bol grande con abundante agua. Añade una cucharada de sal y un cuarto de cucharadita de bicarbonato. Déjalas en remojo durante al menos 12 horas.",
+    "Escurre las judías y lávalas con cuidado tres veces bajo el grifo. Pásalas a una olla grande, preferiblemente de fondo grueso.",
+    "Junto a las judías, incorpora la papada, el chorizo (puedes dejarlos enteros o en trozos grandes), un cuarto de cebolla entera y unas cuatro cucharadas de aceite de oliva.",
+    "Cubre todo con agua, asegurándote de que el líquido sobrepase los ingredientes unos tres dedos.",
+    "Lleva la olla a fuego fuerte. Cuando rompa a hervir, baja el fuego a una potencia media.",
+    "A medida que hierva, verás que se forma una espuma en la superficie. Con una espumadera, retírala con cuidado. Una vez la espuma haya desaparecido (en los primeros 10 minutos aproximadamente), tapa la olla y deja que la fabada se cocine durante 1 hora. Es importante que el hervor sea suave y constante.",
+    "Pasada la hora, añade la sal, la morcilla y, si ves que el caldo ha reducido mucho y las judías no están cubiertas, añade un poco más de agua caliente. Cocina todo junto durante 30 minutos más, o hasta que las judías estén tiernas y la salsa haya espesado ligeramente."
+  ],
+  "origen": "Asturiana",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "1h 45min",
+  "comensales": 8,
+  "observaciones": "Muy similar al plato más emblemático de la gastronomía asturiana, una fabada contundente y llena de sabor, perfecta para combatir el frío y disfrutar en buena compañía.",
+  "ocasion": ["Invierno / Comida Tradicional"]
+}

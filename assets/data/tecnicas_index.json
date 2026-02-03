@@ -1,0 +1,212 @@
+[
+  {
+    "id": "corte_juliana",
+    "nombre": "Corte Juliana",
+    "categoria": "corte",
+    "descripcion": "Técnica de corte en tiras finas y alargadas.",
+    "imagen": "corte_juliana.webp"
+  },
+  {
+    "id": "fritura_profunda",
+    "nombre": "Fritura Profunda",
+    "categoria": "coccion",
+    "descripcion": "Cocción rápida sumergiendo los alimentos en aceite caliente.",
+    "imagen": "fritura_profunda.webp"
+  },
+  {
+    "id": "salteado",
+    "nombre": "Salteado",
+    "categoria": "coccion",
+    "descripcion": "Cocinar alimentos rápidamente en una sartén con poca grasa.",
+    "imagen": "salteado.webp"
+  },
+  {
+    "id": "corte_brunoise",
+    "nombre": "Corte Brunoise",
+    "categoria": "corte",
+    "descripcion": "Técnica de corte en dados muy pequeños y uniformes.",
+    "imagen": "corte_brunoise.webp"
+  },
+  {
+    "id": "hervir",
+    "nombre": "Hervir",
+    "categoria": "coccion",
+    "descripcion": "Llevar un líquido, generalmente agua, a su punto de ebullición para cocinar alimentos.",
+    "imagen": "hervir.webp"
+  },
+  {
+    "id": "corte_mirepoix",
+    "nombre": "Corte Mirepoix",
+    "categoria": "corte",
+    "descripcion": "Corte de vegetales en dados medianos, utilizado como base aromática para caldos y guisos.",
+    "imagen": "corte_mirepoix.webp"
+  },
+  {
+    "id": "coccion_vapor",
+    "nombre": "Cocción al Vapor",
+    "categoria": "coccion",
+    "descripcion": "Método de cocción saludable que utiliza el vapor de un líquido hirviendo para cocinar los alimentos.",
+    "imagen": "coccion_vapor.webp"
+  },
+  {
+    "id": "escalfado",
+    "nombre": "Escalfado",
+    "categoria": "coccion",
+    "descripcion": "Cocinar un alimento sumergiéndolo suavemente en un líquido (agua, leche, caldo) a una temperatura controlada por debajo del punto de ebullición.",
+    "imagen": "escalfado.webp"
+  },
+  {
+    "id": "horneado",
+    "nombre": "Horneado",
+    "categoria": "coccion",
+    "descripcion": "Cocinar alimentos por medio de calor seco en un horno.",
+    "imagen": "horneado.webp"
+  },
+  {
+    "id": "marinado",
+    "nombre": "Marinado",
+    "categoria": "preparacion",
+    "descripcion": "Sumergir un alimento en un líquido aromático (marinada) para ablandarlo, darle sabor o conservarlo.",
+    "imagen": "marinado.webp"
+  },
+  {
+    "id": "emulsionar",
+    "nombre": "Emulsionar",
+    "categoria": "preparacion",
+    "descripcion": "Mezclar dos líquidos que no se combinan entre sí (como aceite y vinagre) para crear una mezcla estable, como una vinagreta o mayonesa.",
+    "imagen": "emulsionar.webp"
+  },
+  {
+    "id": "corte_chiffonade",
+    "nombre": "Corte Chiffonade",
+    "categoria": "corte",
+    "descripcion": "Técnica de corte para vegetales de hoja, enrollándolos y cortándolos en tiras muy finas.",
+    "imagen": "corte_chiffonade.webp"
+  },
+  {
+    "id": "torneado",
+    "nombre": "Torneado",
+    "categoria": "corte",
+    "descripcion": "Técnica de corte para dar forma ovalada y regular a hortalizas, tradicionalmente con siete caras.",
+    "imagen": "torneado.webp"
+  },
+  {
+    "id": "filetear",
+    "nombre": "Filetear",
+    "categoria": "corte",
+    "descripcion": "Cortar carne o pescado en láminas delgadas, uniformes y alargadas.",
+    "imagen": "filetear.webp"
+  },
+  {
+    "id": "sellado",
+    "nombre": "Sellado",
+    "categoria": "coccion",
+    "descripcion": "Cocinar la superficie de una proteína a alta temperatura para crear una costra sabrosa.",
+    "imagen": "sellado.webp"
+  },
+  {
+    "id": "bano_maria",
+    "nombre": "Baño María",
+    "categoria": "coccion",
+    "descripcion": "Método de cocción indirecto y suave dentro de un recipiente que flota en otro con agua caliente.",
+    "imagen": "bano_maria.webp"
+  },
+  {
+    "id": "estofado",
+    "nombre": "Estofado",
+    "categoria": "coccion",
+    "descripcion": "Cocción lenta y prolongada en un recipiente cerrado con poco líquido.",
+    "imagen": "estofado.webp"
+  },
+  {
+    "id": "blanqueado",
+    "nombre": "Blanquear",
+    "categoria": "coccion",
+    "descripcion": "Cocción muy breve en agua hirviendo seguida de un choque térmico en agua con hielo.",
+    "imagen": "blanqueado.webp"
+  },
+  {
+    "id": "reduccion",
+    "nombre": "Reducción",
+    "categoria": "preparacion",
+    "descripcion": "Proceso de espesar un líquido y concentrar su sabor mediante la evaporación lenta.",
+    "imagen": "reduccion.webp"
+  },
+  {
+    "id": "desglasar",
+    "nombre": "Desglasar",
+    "categoria": "preparacion",
+    "descripcion": "Añadir líquido a una sartén caliente para recuperar los jugos caramelizados del fondo.",
+    "imagen": "desglasar.webp"
+  },
+  {
+    "id": "amasado",
+    "nombre": "Amasado",
+    "categoria": "preparacion",
+    "descripcion": "Trabajar una mezcla de harina y líquido para desarrollar el gluten y dar estructura.",
+    "imagen": "amasado.webp"
+  },
+  {
+    "id": "confitar",
+    "nombre": "Confitar",
+    "categoria": "coccion",
+    "descripcion": "Cocinar un alimento sumergido en grasa a baja temperatura para lograr una textura tierna.",
+    "imagen": "confitar.webp"
+  },
+  {
+    "id": "sous_vide",
+    "nombre": "Sous-vide",
+    "categoria": "coccion",
+    "descripcion": "Cocción al vacío a baja temperatura controlada con precisión.",
+    "imagen": "sous_vide.webp"
+  },
+  {
+    "id": "infusionar",
+    "nombre": "Infusionar",
+    "categoria": "preparacion",
+    "descripcion": "Extraer sustancias aromáticas de un ingrediente en un líquido caliente sin que este llegue a hervir.",
+    "imagen": "infusionar.webp"
+  },
+  {
+    "id": "gratinar",
+    "nombre": "Gratinar",
+    "categoria": "coccion",
+    "descripcion": "Aplicar calor intenso superior a un plato para formar una costra dorada y crujiente.",
+    "imagen": "gratinar.webp"
+  },
+  {
+    "id": "encurtir",
+    "nombre": "Encurtir",
+    "categoria": "conservacion",
+    "descripcion": "Preservar alimentos en una solución de vinagre y sal para modificar su sabor y textura.",
+    "imagen": "encurtir.webp"
+  },
+  {
+    "id": "curar",
+    "nombre": "Curar",
+    "categoria": "conservacion",
+    "descripcion": "Extraer la humedad de un alimento mediante sal o azúcar para potenciar su sabor y conservarlo.",
+    "imagen": "curar.webp"
+  },
+  {
+    "id": "roux",
+    "nombre": "Roux",
+    "categoria": "preparacion",
+    "descripcion": "Mezcla de harina y grasa cocida para ligar y dar cuerpo a las salsas.",
+    "imagen": "roux.webp"
+  },
+  {
+    "id": "montar",
+    "nombre": "Montar",
+    "categoria": "preparacion",
+    "descripcion": "Batir un ingrediente para introducir aire y lograr una textura ligera y voluminosa.",
+    "imagen": "montar.webp"
+  },
+  {
+    "id": "flambear",
+    "nombre": "Flambear",
+    "categoria": "coccion",
+    "descripcion": "Prender fuego al alcohol de un licor para aromatizar una preparación.",
+    "imagen": "flambear.webp"
+  }
+]

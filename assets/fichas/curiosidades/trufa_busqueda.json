@@ -1,0 +1,31 @@
+{
+    "id": "trufa_busqueda",
+    "titulo": "La trufa: el diamante negro de la cocina",
+    "categoria": "Curiosidades del mundo",
+    "descripcion": [
+      "La trufa es un hongo subterráneo altamente valorado por su aroma y sabor intensos, conocido como 'el diamante negro' de la gastronomía.",
+      "Su recolección requiere perros o cerdos entrenados para detectar su aroma, y se considera un ingrediente gourmet exclusivo."
+    ],
+    "fecha_aproximada": "Desde la antigüedad hasta hoy",
+    "origen": "Europa (principalmente Francia e Italia)",
+    "nota_divertida": "El uso de cerdos para buscar trufas se redujo porque tienden a comérselas, así que los perros son los mejores amigos del truficultor.",
+    "datos_adicionales": {
+      "uso_actual": "Se utiliza en alta cocina para enriquecer salsas, pastas, huevos y carnes con su aroma único.",
+      "materiales": [
+        "trufa",
+        "herramientas de recolección",
+        "perros o cerdos entrenados"
+      ],
+      "funcionamiento": "El aroma de la trufa, compuesto por compuestos sulfurados, guía a los animales hacia ella para su recolección.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Libros sobre trufas y gastronomía gourmet",
+      "Estudios sobre cultivo y recolección de trufas"
+    ]
+  }
+  

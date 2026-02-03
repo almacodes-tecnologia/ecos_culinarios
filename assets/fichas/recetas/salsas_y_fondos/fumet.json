@@ -1,0 +1,39 @@
+{
+  "id": "fumet",
+  "nombre": "Fumet",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "fumet.webp",
+  "ingredientes": [
+    "5 l de Agua",
+    "2 kg de Espinas y cabezas de pescado blanco/semi blanco",
+    "200 gr de Puerros",
+    "200 gr de Cebollas",
+    "200 gr de Zanahorias",
+    "500 ml de Vino blanco",
+    "Aceite de oliva"
+  ],
+  "pasos": [
+    "Para el primer fumet (ligero):",
+    "Para empezar, coloca las raspas de pescado (pueden ser de pescado blanco como merluza, lenguado o rape) en una olla grande. Cubre con agua fría.",
+    "Limpia y corta en trozos las zanahorias, los puerros y las cebollas. Añade estas verduras a la olla con las raspas.",
+    "Lleva la olla a fuego medio y cocina durante 1 hora.",
+    "Durante la cocción, verás que se forma una espuma en la superficie. Ve retirándola con una espumadera con regularidad.",
+    "Después de la hora, deja cocinar 10 minutos más. Luego, retira la olla del fuego y cuela el fumet con cuidado.",
+    "Para el segundo fumet (concentrado):",
+    "En una olla amplia, calienta un buen chorro de aceite de oliva. Añade las espinas y cabezas de pescado (si quieres un fumet mas fuerte, puedes usar pescado azul o marisco) junto con trozos de verduras (cebolla, puerro, zanahoria).",
+    "Rehógalo todo a fuego medio, con la olla tapada, durante unos minutos.",
+    "Vierte un buen chorro de vino blanco y deja que reduzca por completo.",
+    "Cubre los ingredientes con agua y cocina durante 20 minutos.",
+    "Desespuma la superficie del caldo con frecuencia.",
+    "Deja cocinar 10 minutos más, luego retira del fuego y cuela el fumet."
+  ],
+  "origen": "Bases Culinarias",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 10min",
+  "comensales": 0,
+  "observaciones": "Un caldo de pescado ligero y aromático, fundamental en la cocina para potenciar el sabor de arroces, sopas, salsas y guisos de pescado y marisco.",
+  "ocasion": ["Base de Cocina"]
+}

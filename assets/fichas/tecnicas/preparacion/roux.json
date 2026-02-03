@@ -1,0 +1,19 @@
+{
+  "id": "roux",
+  "nombre": "Roux",
+  "categoria": "preparacion",
+  "descripcion": "Mezcla de harina y una materia grasa (generalmente mantequilla) cocinada a fuego lento. Es la base fundamental para ligar y espesar salsas. Dependiendo del tiempo de cocción, puede ser blanco, rubio u oscuro, aportando desde un sabor neutro hasta matices de nuez tostada.",
+  "imagen": "roux.webp",
+  "ingredientesRecomendados": [
+    "Mantequilla",
+    "Harina de trigo",
+    "Leche (para Bechamel)",
+    "Caldo (para Velouté)",
+    "Grasa de pato"
+  ],
+  "precauciones": [
+    "Cocina la harina al menos 2 minutos para eliminar el sabor a 'harina cruda'.",
+    "Para evitar grumos, añade el líquido frío al roux caliente, o el líquido caliente al roux frío, batiendo constantemente.",
+    "No descuides el fuego; un roux oscuro se quema con facilidad y puede volverse amargo."
+  ]
+}

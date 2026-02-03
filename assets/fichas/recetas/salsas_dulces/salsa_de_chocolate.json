@@ -1,0 +1,29 @@
+{
+  "id": "salsa_de_chocolate",
+  "nombre": "Salsa de chocolate",
+  "estilo": "Básico",
+  "categoria": "Salsas dulces",
+  "imagen": "salsa_de_chocolate.webp",
+  "ingredientes": [
+    "150 gr de Cacao en polvo",
+    "200 ml de Leche",
+    "60 gr de Azúcar",
+    "20 gr de Almidón"
+  ],
+  "pasos": [
+    "Poner todos los alimentos en un cazo en frío.",
+    "Mezclar con varillas.",
+    "Llevar a ebullición, removiendo constantemente.",
+    "Cocinar hasta que esté fundido y homogéneo."
+  ],
+  "origen": "Internacional / Básica",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "10min",
+  "comensales": 4,
+  "observaciones": "Una salsa de chocolate casera, rica y brillante, ideal para acompañar helados, frutas, churros o cualquier postre que necesite un toque dulce y chocolatoso.",
+  "ocasion": [
+    "Postre / Acompañamiento Dulce"
+  ]
+}

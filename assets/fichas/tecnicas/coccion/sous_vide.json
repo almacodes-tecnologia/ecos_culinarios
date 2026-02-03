@@ -1,0 +1,19 @@
+{
+  "id": "sous_vide",
+  "nombre": "Sous-vide",
+  "categoria": "coccion",
+  "descripcion": "Técnica de cocina de precisión que consiste en cocinar alimentos sellados al vacío en bolsas plásticas, sumergiéndolos en un baño de agua a una temperatura controlada y constante (generalmente baja). Al no haber contacto con el aire ni con el agua de forma directa, los alimentos mantienen todos sus jugos, aromas y nutrientes, logrando puntos de cocción perfectos de borde a borde.",
+  "imagen": "sous_vide.webp",
+  "ingredientesRecomendados": [
+    "Entrecot o solomillo de ternera",
+    "Salmón",
+    "Pechugas de pollo",
+    "Huevos (huevo a baja temperatura)",
+    "Espárragos trigueros"
+  ],
+  "precauciones": [
+    "Es fundamental utilizar bolsas aptas para cocción que no liberen tóxicos al calentarse (libres de BPA).",
+    "Asegúrate de que el sellado sea total; si entra agua en la bolsa, el alimento se hervirá y perderá la textura deseada.",
+    "Para carnes, es recomendable realizar un 'sellado' rápido en sartén después del sous-vide para aportar el color y sabor de la costra exterior."
+  ]
+}

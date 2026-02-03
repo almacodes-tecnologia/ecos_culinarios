@@ -1,0 +1,38 @@
+{
+  "id": "pollo_al_chilindron",
+  "nombre": "Pollo al Chilindrón",
+  "estilo": "Tradicional",
+  "categoria": "Carnes",
+  "imagen": "pollo_al_chilindron.webp",
+  "ingredientes": [
+    "2 kg de Pollo",
+    "2 Cebollas",
+    "3 Pimientos verdes",
+    "2 Pimientos rojos",
+    "3 Dientes de ajo",
+    "2 Hojas de laurel",
+    "150 g de Jamón con tocino",
+    "4 Tomates",
+    "Pimienta blanca",
+    "Sal",
+    "Aceite de oliva",
+    "Caldo",
+    "Azúcar",
+    "Perejil"
+  ],
+  "pasos": [
+    "Empezamos por limpiar bien el pollo y cortarlo en trozos medianos. Lo sazonamos con sal y pimienta al gusto y lo freímos en un recipiente de barro (si no tienes, una cazuela amplia de fondo grueso funciona igual de bien) con un buen chorro de aceite de oliva.",
+    "Cuando el pollo empiece a coger un bonito color dorado, añadimos el jamón con tocino cortado en dados pequeños, el pimiento verde picado, la cebolla también picada finamente y los dientes de ajo laminados. Rehogamos bien todo el conjunto junto con el pollo.",
+    "A continuación, incorporamos el tomate pelado, sin pepitas y bien picado. Añadimos también una pizca de azúcar para corregir la acidez del tomate. Dejamos que el tomate se consuma lentamente.",
+    "Cuando el sofrito esté en su punto, vertemos un poco de caldo (puede ser de pollo o de verduras), solo lo justo para cubrir el conjunto. Añadimos también el pimiento rojo asado y pelado cortado en tiras y unas ramitas de perejil fresco. Comprobamos el punto de sal y rectificamos si es necesario.",
+    "Finalmente, dejamos que todo el guiso cueza lentamente a fuego suave durante unos veinte minutos aproximadamente."
+  ],
+  "origen": "Aragonesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "20min",
+  "comensales": 5,
+  "observaciones": "Un plato tradicional aragonés, el Pollo al Chilindrón es un guiso vibrante y lleno de sabor, con pollo tierno, jamón y una rica salsa de pimientos y tomate.",
+  "ocasion": ["Comida Familiar"]
+}

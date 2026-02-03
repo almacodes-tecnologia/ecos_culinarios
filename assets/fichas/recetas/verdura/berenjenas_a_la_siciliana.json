@@ -1,0 +1,35 @@
+{
+  "id": "berenjenas_a_la_siciliana",
+  "nombre": "Berenjenas a la Siciliana",
+  "estilo": "Tradicional",
+  "categoria": "Verdura",
+  "imagen": "berenjenas_a_la_siciliana.webp",
+  "ingredientes": [
+    "3 unidades de Berenjena",
+    "3 unidades de Tomate",
+    "1 unidad de Cabeza de ajos",
+    "1 lata pequeña de Anchoas en aceite",
+    "3 cucharadas de Alcaparras",
+    "Cantidad necesaria de Aceite de oliva virgen extra",
+    "Al gusto de Orégano seco",
+    "Al gusto de Perejil fresco",
+    "Al gusto de Sal"
+  ],
+  "pasos": [
+    "Comienza precalentando el horno a 160°C. Para preparar los ajos, pícalos muy menudos. En un cazo pequeño, confita los ajos en abundante aceite a temperatura muy baja. Cocínalos hasta que estén muy tiernos, sin dejar que cojan color. Este paso se puede adelantar el día anterior. Reserva los ajos junto con su aceite.",
+    "Lava las berenjenas, retira las puntas y córtalas por la mitad a lo largo. Haz unos cortes diagonales en la pulpa de cada mitad (sin llegar a la piel). Coloca las mitades de berenjena en una bandeja de horno que ya esté engrasada, con la piel hacia abajo.",
+    "Corta los tomates en rodajas y distribúyelas de manera uniforme sobre las mitades de berenjena en la bandeja.",
+    "Sobre los tomates, reparte las anchoas, las alcaparras escurridas y el orégano seco al gusto. Añade los ajos confitados que tenías reservados y un chorrito de su propio aceite.",
+    "Vierte agua en la bandeja del horno, justo la cantidad suficiente para cubrir las berenjenas hasta la mitad. Añade también un buen chorro de aceite y una pizca de sal.",
+    "Hornea las berenjenas durante una hora y media. Durante este tiempo.",
+    "Sirve las berenjenas calientes, espolvoreadas con perejil fresco picado al gusto."
+  ],
+  "origen": "Siciliana (Italia)",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 50min",
+  "comensales": 6,
+  "observaciones": "Un clásico mediterráneo que te transportará a la soleada Sicilia. Estas berenjenas, cocinadas lentamente con ajo confitado, tomate, anchoas y alcaparras, se convierten en un plato lleno de sabor, ideal como guarnición, entrante o incluso plato principal ligero.",
+  "ocasion": ["Comida Principal / Vegetariano / Cena Ligera"]
+}

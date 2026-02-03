@@ -1,0 +1,17 @@
+{
+  "id": "emulsionar",
+  "nombre": "Emulsionar",
+  "categoria": "preparacion",
+  "descripcion": "Mezclar dos líquidos que no se combinan naturalmente, como el aceite y el agua. Se hace batiendo enérgicamente para crear una mezcla homogénea y estable, como en el caso de la mayonesa o las vinagretas.",
+  "imagen": "emulsionar.webp",
+  "ingredientesRecomendados": [
+    "Aceite de oliva",
+    "Vinagre",
+    "Huevo",
+    "Mostaza"
+  ],
+  "precauciones": [
+    "Añadir el aceite en un hilo muy fino y de forma constante mientras se bate la mezcla.",
+    "Los ingredientes deben estar a temperatura ambiente para facilitar el proceso."
+  ]
+}

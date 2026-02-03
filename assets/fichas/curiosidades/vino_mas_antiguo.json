@@ -1,0 +1,30 @@
+{
+    "id": "vino_mas_antiguo",
+    "titulo": "El vino más antiguo del mundo",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "Se han encontrado restos de vino en jarras de hace aproximadamente 6000 años en Georgia, evidenciando la producción de vino en la prehistoria.",
+      "Estos hallazgos muestran que el vino era una bebida ceremonial y socialmente importante en las primeras culturas agrícolas."
+    ],
+    "fecha_aproximada": "Alrededor del 4000 a.C.",
+    "origen": "Región de Georgia, Caucaso",
+    "nota_divertida": "Los arqueólogos encontraron restos de vino en jarras selladas con barro, ¡como si fueran botellas prehistóricas!",
+    "datos_adicionales": {
+      "uso_actual": "El vino sigue siendo una bebida cultural y gastronómica clave en todo el mundo.",
+      "materiales": [
+        "uvas silvestres",
+        "jarra de barro"
+      ],
+      "funcionamiento": "El vino se obtiene por fermentación alcohólica natural del jugo de uvas, proceso descubierto de manera ancestral.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Estudios arqueológicos sobre viticultura en Georgia",
+      "Investigaciones sobre fermentación antigua"
+    ]
+  }
+  

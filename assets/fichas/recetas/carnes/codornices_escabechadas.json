@@ -1,0 +1,35 @@
+{
+  "id": "codornices_escabechadas",
+  "nombre": "Codornices escabechadas",
+  "estilo": "Tradicional",
+  "categoria": "Carnes",
+  "imagen": "codornices_escabechadas.webp",
+  "ingredientes": [
+    "4 Codornices",
+    "300 ml de Aceite de oliva",
+    "150 ml de Vinagre blanco",
+    "1 Zanahoria",
+    "1 diente de Ajo",
+    "2 Cebolletas",
+    "Tomillo",
+    "Romero",
+    "unos granos de Pimienta negra",
+    "Sal"
+  ],
+  "pasos": [
+    "En una cazuela amplia y a fuego suave, comienzo por sofreír la cebolla (cortada en juliana), unos dientes de ajo (enteros o laminados), la zanahoria (en rodajas o bastones), unas ramitas de romero y tomillo, y una pizca de sal.",
+    "Una vez que las verduras están tiernas y aromáticas, es el momento de añadir la base líquida del escabeche: el aceite de oliva y el vinagre.",
+    "En paralelo, preparamos las codornices. Bridalas (atarlas con hilo de cocina) para que mantengan su forma durante la cocción. Luego, se sazonan con sal y se marcan rápidamente en una plancha o sartén con un hilo de aceite hasta que estén ligeramente doradas por fuera.",
+    "Con las codornices selladas, las incorporamos con cuidado al escabeche que teníamos preparado en la cazuela. Asegúrate de que queden bien sumergidas en el líquido.",
+    "Cocinamos todo el conjunto a fuego muy lento durante aproximadamente 30 minutos",
+    "Finalmente, retiramos la cazuela del fuego y dejamos que las codornices escabechadas se enfríen."
+  ],
+  "origen": "Tradicional Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "50min",
+  "comensales": 4,
+  "observaciones": "Un clásico de la cocina tradicional, las codornices escabechadas son un plato sabroso y aromático, perfecto para disfrutar frío como entrante o plato principal.",
+  "ocasion": ["Comida Especial / Entrante"]
+}

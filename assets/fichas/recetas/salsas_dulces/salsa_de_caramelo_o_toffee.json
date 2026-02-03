@@ -1,0 +1,30 @@
+{
+  "id": "salsa_de_caramelo_o_toffee",
+  "nombre": "Salsa de caramelo o toffee",
+  "estilo": "Básica",
+  "categoria": "Salsas dulces",
+  "imagen": "toffee.webp",
+  "ingredientes": [
+    "500 gr de Azúcar",
+    "100 ml de Agua",
+    "750 gr de Nata",
+    "4-5 gotas de Limón"
+  ],
+  "pasos": [
+    "En un cazo de fondo grueso, haz un caramelo rubio (oscuro). Para ello, pon el azúcar, un poco de agua y las gotas de limón a fuego lento. No remuevas con cuchara, solo inclina el cazo suavemente para que el azúcar se disuelva y tome color. Busca un tono ámbar intenso, pero ten cuidado de que no se queme, ya que amargaría.",
+    "Una vez que el caramelo tenga el color deseado, retíralo del fuego y déjalo atemperar ligeramente durante un par de minutos.",
+    "Calienta la nata líquida en otro cazo, sin que llegue a hervir. Viértela con cuidado sobre el caramelo, removiendo. Al principio puede que se formen algunos grumos o que el caramelo se endurezca, pero sigue removiendo a fuego bajo hasta que se disuelva por completo y la mezcla quede homogénea.",
+    "Continúa hirviendo la mezcla suavemente, sin dejar de remover, hasta que alcance la densidad deseada. Recuerda que el toffee espesará bastante al enfriarse. Si quieres un toffee más espeso, déjalo un poco más; si lo prefieres más líquido, retíralo antes.",
+    "Retira del fuego y deja enfriar completamente. A medida que se enfríe, el toffee adquirirá su textura final y más espesa."
+  ],
+  "origen": "Internacional / Básica",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "20min",
+  "comensales": 8,
+  "observaciones": "Una deliciosa y versátil salsa de caramelo casera, perfecta para acompañar postres, helados, tartas o para dar un toque dulce a tus creaciones de repostería.",
+  "ocasion": [
+    "Postre / Acompañamiento Dulce"
+  ]
+}

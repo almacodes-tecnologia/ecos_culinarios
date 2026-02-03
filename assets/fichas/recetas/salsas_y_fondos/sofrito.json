@@ -1,0 +1,29 @@
+{
+  "id": "sofrito",
+  "nombre": "Sofrito",
+  "estilo": "Básico",
+  "categoria": "Técnicas Culinarias",
+  "imagen": "sofrito.webp",
+  "ingredientes": [
+    "Aceite de oliva",
+    "7 unidades de Ajo",
+    "600 gr de Cebolla",
+    "600 gr de Tomate",
+    "al gusto de Sal"
+  ],
+  "pasos": [
+    "Comienza por picar finamente el ajo. Calienta aceite de oliva y añade el ajo picado.",
+    "Inmediatamente después, incorpora la cebolla picada. Dora la cebolla a fuego suave.",
+    "Añade una pizca de sal. Tapa la cazuela y cocina a fuego muy lento.",
+    "Prepara el tomate. Escáldalo en agua hirviendo durante unos segundos, luego pásalo a agua fría. Así podrás pelarlo fácilmente. Después, retira las semillas y pica el tomate en trozos pequeños.",
+    "Incorpora el tomate picado al sofrito de cebolla y ajo. Vuelve a tapar la cazuela y cocina a fuego muy lento durante unos 90 minutos."
+  ],
+  "origen": "Mediterránea / Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 30min",
+  "comensales": 0,
+  "observaciones": "Una base aromática y fundamental de la cocina mediterránea, el sofrito es esencial para dar sabor a innumerables guisos, arroces, salsas y estofados.",
+  "ocasion": ["Base de Cocina"]
+}

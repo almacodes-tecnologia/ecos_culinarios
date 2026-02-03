@@ -1,0 +1,42 @@
+{
+  "id": "costillas_guisadas",
+  "nombre": "Costillas Guisadas",
+  "estilo": "Casero / Guiso",
+  "categoria": "Carnes",
+  "imagen": "costillas_guisadas.webp",
+  "ingredientes": [
+    "1 kg de Costillas de cerdo troceadas",
+    "500 g de Patatas",
+    "1 Cebolla",
+    "1 Pimiento rojo",
+    "2 Dientes de ajo",
+    "2 Tomates maduros",
+    "150 ml de Vino blanco",
+    "75 g de Guisantes cocidos o congelados",
+    "Agua",
+    "Aceite de oliva",
+    "Sal",
+    "Pimienta negra"
+  ],
+  "pasos": [
+    "Comienza salpimentando las costillas troceadas. En una cazuela con un buen chorro de aceite caliente, séllalas a fuego fuerte hasta que luzcan un tono dorado. Una vez listas, retíralas y resérvalas para que conserven sus jugos.",
+    "En el mismo aceite, baja el fuego y añade la cebolla y el pimiento picado finamente con una pizca de sal. Deja que se pochen con calma hasta que reduzcan. Acto seguido, incorpora los ajos picaditos, cocinando el conjunto hasta que las verduras estén cocinadas.",
+    "Agrega los tomates triturados al sofrito y mantén la cocción hasta que el tomate haya perdido su agua y la salsa esté concentrada. Es el momento de añadir las patatas, que deben ir peladas y 'chascadas' (rompiéndolas con el cuchillo para que suelten el almidón), mezclándolas bien con el resto de ingredientes.",
+    "Devuelve las costillas a la cazuela y vierte el vino blanco. Sube el fuego al máximo durante un par de minutos para que el alcohol se evapore y los aromas se integren.",
+    "Cubre todo con agua, ajustando el punto de sal. Cocina a fuego lento, retirando la espuma que pueda surgir en la superficie. Mantén el hervor suave durante unos 20 minutos o hasta que notes que la patata empieza a estar blanda.",
+    "Para terminar, añade los guisantes y cocina 10 minutos más. Una vez que la carne esté tierna y la salsa haya espesado a tu gusto."
+  ],
+  "origen": "Española",
+  "recomendaciones": "Es fundamental chascar las patatas al cortarlas para que la salsa espese de forma natural gracias al almidón.",
+  "variantes": [
+    "Añadir una hoja de laurel durante la cocción",
+    "Incorporar una pizca de pimentón de la Vera al sofrito",
+    "Sustituir los guisantes por alcachofas troceadas",
+    "Se puede sustituir el pimiento por alguna otra hortaliza o añadirla para cambiar el toque"
+  ],
+  "dificultad": "Media",
+  "duracion_aproximada": "50min",
+  "comensales": 4,
+  "observaciones": "Un guiso reconfortante y tradicional, de los que saben a hogar. La clave está en el reposo final, que permite que el caldo gane cuerpo y la carne esté mucho más sabrosa.",
+  "ocasion": ["Comida Familiar / Almuerzo"]
+}

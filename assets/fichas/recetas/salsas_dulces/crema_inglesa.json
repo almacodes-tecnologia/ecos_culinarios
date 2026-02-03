@@ -1,0 +1,32 @@
+{
+  "id": "crema_inglesa",
+  "nombre": "Crema inglesa",
+  "estilo": "Tradicional",
+  "categoria": "Salsas dulces",
+  "imagen": "crema_inglesa.webp",
+  "ingredientes": [
+    "1 litro de Leche",
+    "300 gr de Azúcar",
+    "8 de Yemas de huevo",
+    "1 de Canela en rama"
+  ],
+  "pasos": [
+    "Infusionar la leche con la canela en una olla hasta que hierva.",
+    "Mezclar las yemas y el azúcar en un bol.",
+    "Retirar la leche hervida y añadirla al bol en chorro fino, removiendo constantemente.",
+    "Colar la mezcla para eliminar restos.",
+    "Volver a poner al fuego hasta 80°C.",
+    "Retirar y poner en baño María con agua helada, batiendo constantemente.",
+    "Dejar de remover al atemperar y meter a la nevera mínimo media hora."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "25min",
+  "comensales": 6,
+  "observaciones": "Una delicada y clásica crema francesa a base de yemas de huevo, azúcar y leche aromatizada con canela. Perfecta como salsa para acompañar postres o para disfrutar sola.",
+  "ocasion": [
+    "Postre / Acompañamiento Dulce"
+  ]
+}

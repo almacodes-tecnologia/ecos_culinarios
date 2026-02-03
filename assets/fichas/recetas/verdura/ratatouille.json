@@ -1,0 +1,38 @@
+{
+  "id": "ratatouille",
+  "nombre": "Ratatouille",
+  "estilo": "Tradicional",
+  "categoria": "Verdura",
+  "imagen": "ratatouille.webp",
+  "ingredientes": [
+    "500 g de Berenjena",
+    "375 g de Calabacín",
+    "125 ml de Aceite de oliva virgen extra",
+    "2 unidades de Cebolla",
+    "1 unidad de Pimiento rojo",
+    "5 unidades de Diente de ajo",
+    "750 g de Tomate",
+    "Picado al gusto de Perejil fresco",
+    "Al gusto de Tomillo fresco",
+    "Al gusto de Albahaca",
+    "Al gusto de Sal",
+    "Al gusto de Pimienta negra molida"
+  ],
+  "pasos": [
+    "Para empezar, corta la berenjena en rodajas o trozos pequeños. Colócala en un cuenco con sal para que \"sude\" y pierda su amargor durante media hora. Mientras la berenjena reposa, pica el resto de las hortalizas: la cebolla en tiras finas, los pimientos rojos en trozos y el calabacín en rodajas que, si son muy grandes, puedes cortar después en cuartos.",
+    "En una cacerola, calienta tres cucharadas de aceite. Sofríe la cebolla lentamente durante unos cinco minutos.",
+    "Añade los pimientos y tres dientes de ajo enteros. Baja un poco el fuego y deja que estas verduras se cocinen durante otros siete minutos. Salpimenta al gusto. Una vez listas, pasa estas verduras a una bandeja y resérvalas.",
+    "Vuelve a añadir dos cucharadas de aceite a la cacerola. Incorpora la berenjena (previamente enjuagada y seca) y cocínala durante unos seis o siete minutos por cada lado si la cortaste en rodajas, o hasta que esté tierna y dorada. Cuando esté cocinada, añádela a la bandeja donde tienes la cebolla y los pimientos.",
+    "Vierte el aceite restante en la cacerola. Añade el calabacín y cocínalo durante unos cinco minutos. Retira el calabacín y añádelo a la bandeja con el resto de los vegetales.",
+    "En la misma cacerola, sin añadir más aceite, incorpora los tomates pelados, sin semillas y cortados en cubos. Añade las finas hierbas (perejil, tomillo, albahaca) y los dientes de ajo restantes (pueden ser picados o enteros). Cocina los tomates a fuego medio, aplastándolos con un cucharón a medida que se cocinan, hasta que formen una salsa espesa y homogénea.",
+    "Finalmente, añade todas las hortalizas que tenías reservadas a la cacerola con la salsa de tomate. Mezcla cuidadosamente para que se impregnen bien con la salsa. Tapa la cacerola y cocina a fuego medio durante diez minutos. Pasado este tiempo, destapa la cacerola y baja el fuego, dejándola otros veinte minutos."
+  ],
+  "origen": "Francesa (Provenza)",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 15min",
+  "comensales": 4,
+  "observaciones": "Un clásico provenzal, el ratatouille es un estofado de verduras colorido y lleno de sabor. Las hortalizas cocinadas lentamente en una rica salsa de tomate crean un plato aromático y saludable, perfecto como guarnición o plato principal.",
+  "ocasion": ["Comida diaria / Vegetariano / Verano"]
+}

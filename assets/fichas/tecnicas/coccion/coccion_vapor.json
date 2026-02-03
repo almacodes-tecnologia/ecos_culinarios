@@ -1,0 +1,18 @@
+{
+  "id": "coccion_vapor",
+  "nombre": "Cocción al Vapor",
+  "categoria": "coccion",
+  "descripcion": "Método de cocción que utiliza el vapor de un líquido hirviendo. Es una técnica muy saludable que ayuda a conservar los nutrientes, el color y la textura de los alimentos.",
+  "imagen": "coccion_vapor.webp",
+  "ingredientesRecomendados": [
+    "Brócoli",
+    "Pescado blanco (merluza)",
+    "Verduras de hoja (espinacas)",
+    "Dumplings"
+  ],
+  "precauciones": [
+    "Usa una cesta o vaporera que no toque el agua.",
+    "Asegúrate de que la tapa esté bien sellada para no perder vapor.",
+    "Ten cuidado con el vapor al levantar la tapa para evitar quemaduras."
+  ]
+}

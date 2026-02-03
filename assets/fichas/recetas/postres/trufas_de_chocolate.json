@@ -1,0 +1,39 @@
+{
+  "id": "trufas_de_chocolate",
+  "nombre": "Trufas de chocolate",
+  "estilo": "Clásico",
+  "categoria": "Postres",
+  "imagen": "trufas_de_chocolate.webp",
+  "ingredientes": [
+    "500 ml de Nata líquida",
+    "500 gr de Cobertura negra",
+    "60 gr de Azúcar",
+    "25 gr de Mantequilla",
+    "al gusto (toppings) de Azúcar glas",
+    "al gusto (toppings) de Fideos de chocolate",
+    "al gusto (toppings) de Coco rallado",
+    "al gusto (toppings) de Cacao",
+    "al gusto (opcional) de Licores",
+    "al gusto (opcional) de Vainilla",
+    "al gusto (opcional) de Canela"
+  ],
+  "pasos": [
+    "En una olla, calienta la nata líquida con el azúcar. Remueve constantemente con unas varillas.",
+    "Cuando la nata comience a hervir, retira la olla del fuego. Inmediatamente, añade la cobertura de chocolate troceada, la mantequilla y aromatizantes (opcional).",
+    "Remueve con suavidad de forma constante hasta que la cobertura de chocolate y la mantequilla se disuelvan por completo, formando una ganache.",
+    "Cubre la ganache con papel film transparente, pegándolo a la superficie para evitar que se forme una costra. Refrigera en la nevera durante al menos 4 horas, o hasta que adquiera una textura maleable y firme.",
+    "Una vez que la ganache esté bien fría y firme, es el momento de bolear las trufas. Puedes usar dos cucharas para darles forma o, si lo prefieres, tus propias manos (manteniéndolas frías, puedes mojarlas un poco en agua helada). Forma bolitas del tamaño que desees.",
+    "Pasa las trufas por el topping de fideos de chocolate, aunque si quieres, las opciones son infinitas: cacao en polvo puro, coco rallado, azúcar glas, frutos secos picados...",
+    "Guarda las trufas en un recipiente hermético en la nevera. Están deliciosas al momento, pero su sabor se asienta aún más con el reposo."
+  ],
+  "origen": "Europea / Internacional",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "30min",
+  "comensales": 10,
+  "observaciones": "Un clásico irresistible de la repostería, estas trufas de chocolate son cremosas, intensas y se deshacen en la boca. Perfectas para regalar, compartir o darte un capricho dulce.",
+  "ocasion": [
+    "Postre / Regalo Comestible / Celebración"
+  ]
+}

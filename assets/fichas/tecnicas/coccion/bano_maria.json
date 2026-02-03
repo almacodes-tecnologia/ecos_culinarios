@@ -1,0 +1,19 @@
+{
+  "id": "baño_maria",
+  "nombre": "Baño María",
+  "categoria": "coccion",
+  "descripcion": "Método de cocción indirecto que utiliza el agua caliente como transmisor de calor suave y uniforme. Consiste en introducir un recipiente con el alimento dentro de otro más grande que contiene agua caliente (o hirviendo), evitando que el alimento reciba el calor directo del fuego o la placa.",
+  "imagen": "bano_maria.webp",
+  "ingredientesRecomendados": [
+    "Chocolate (para fundir)",
+    "Huevo (para cuajar flanes o pudines)",
+    "Salsas emulsionadas (holandesa, bernesa)",
+    "Mermeladas (para esterilizar botes)",
+    "Cremas delicadas"
+  ],
+  "precauciones": [
+    "El recipiente superior no debe tocar directamente el fondo del recipiente con agua para evitar picos de temperatura.",
+    "Si se usa para fundir chocolate, evita que entre cualquier gota de agua en el recipiente superior, ya que arruinaría la textura.",
+    "Controla el nivel de agua para que no se evapore por completo durante cocciones largas y vigila que al hervir no salpique dentro del alimento."
+  ]
+}

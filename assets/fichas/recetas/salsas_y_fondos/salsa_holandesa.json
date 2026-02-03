@@ -1,0 +1,29 @@
+{
+  "id": "salsa_holandesa",
+  "nombre": "Salsa holandesa",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "salsa_holandesa.webp",
+  "ingredientes": [
+    "2 Yemas de huevo",
+    "300 gr de Mantequilla clarificada",
+    "al gusto de Zumo de limón",
+    "al gusto de Sal"
+  ],
+  "pasos": [
+    "Primero, con mucho cuidado, separa las yemas de los huevos.",
+    "Ahora, clarifica la mantequilla. Para hacerlo, fúndela a fuego muy suave. Verás que se forman tres capas: una espuma en la superficie, la grasa amarilla clarificada en el centro y los sólidos lácteos en el fondo. Retira la espuma con una cuchara y luego vierte con cuidado la parte central (la grasa amarilla) en otro recipiente, descartando los sólidos del fondo.",
+    "En una olla, calienta un poco de agua sin que llegue a hervir, y asegúrate de que no supere los 60°C.",
+    "Bate las yemas con zumo de limón hasta que cambien de tono y aumenten de volumen.",
+    "Retira la olla del fuego y colocar el bol encima.",
+    "Continúa batiendo las yemas sin parar. Poco a poco, añade una pizca de sal y, en un hilo muy fino y constante, ve incorporando la mantequilla clarificada. Es fundamental no dejar de batir en ningún momento y añadir la mantequilla poco a poco. Verás cómo la salsa empieza a espesar y a tomar esa textura sedosa y brillante tan característica. Sigue añadiendo la mantequilla y batiendo hasta obtener la consistencia deseada."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media-Alta",
+  "duracion_aproximada": "15min",
+  "comensales": 0,
+  "observaciones": "Una de las salsas madre clásicas de la cocina francesa, la salsa holandesa es una emulsión rica y cremosa a base de yemas de huevo y mantequilla clarificada, perfecta para pescados, verduras o huevos Benedict.",
+  "ocasion": ["Condimento / Base de Cocina"]
+}

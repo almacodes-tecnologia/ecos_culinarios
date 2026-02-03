@@ -1,0 +1,42 @@
+{
+  "id": "sopa_de_pescado",
+  "nombre": "Sopa de Pescado",
+  "estilo": "Tradicional",
+  "categoria": "Sopas",
+  "imagen": "sopa_de_pescado.webp",
+  "ingredientes": [
+    "250 gramos de Congrio cerrado",
+    "1-2 Huesos de rape",
+    "Un trozo de Merluza sin piel (puede ser congelada)",
+    "Restos de espinas y cabezas de pescado",
+    "0.25 kg de pan pelado, restos de espinas y cabezas de pescado",
+    "2-3 Puerros",
+    "2 Zanahorias",
+    "1 vaso de Tomate frito",
+    "250 gramos de Gambas (peladas o enteras)",
+    "1 Cebolla",
+    "1-2 Pimientos",
+    "Agua",
+    "Un chorrito de Aceite"
+  ],
+  "pasos": [
+    "Para el caldo base, pon en la olla exprés el congrio, el hueso de rape, y cualquier resto de cabezas y espinas de pescado que tengas. Añade un puerro, una zanahoria y cebolla troceados, junto con un chorrito de aceite de oliva. Cubre con agua fría.",
+    "Pon la olla a fuego y, una vez que empiece a hervir (o desde que sube la válvula en olla exprés), cocina durante 15 minutos.",
+    "Pasado ese tiempo, retira la olla del fuego y, con cuidado (asegurándote de que no queme y haya despresurizado si es olla exprés), abre la tapa. Cuela el caldo y resérvalo.",
+    "En otra olla, cuece la merluza con poca agua. Cuando esté cocida, tritúrala y guárdala.",
+    "Para el sofrito, en una sartén con un poco de aceite, sofríe las gambas restantes (pueden ser las cabezas y cáscaras para dar sabor, y luego retirarlas, o gambas peladas si las vas a incluir en la sopa), una cebolla y uno o dos pimientos (del color que prefieras). Sofríe bien todo el conjunto hasta que las verduras estén tiernas y ligeramente doradas.",
+    "Cuando el sofrito esté en su punto, si lo deseas, puedes retirar parte del aceite para aligerar la sopa. Luego, tritura este sofrito y añádelo directamente al caldo de pescado que tienes reservado.",
+    "Incorpora también tomate frito y cualquier otro aprovechamiento de pescado que tengas y creas conveniente para enriquecer la sopa.",
+    "Finalmente, añade la merluza triturada a la olla. Deja que todo hierva junto a fuego suave durante unos minutos para que los sabores se mezclen y la sopa coja cuerpo.",
+    "Tuesta unas rodajas de pan y tritúralas con un poco del caldo de pescado caliente.",
+    "Añade esta mezcla de pan triturado a la sopa, removiendo constantemente para que no queden grumos."
+  ],
+  "origen": "Mediterránea / Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "1h 00min",
+  "comensales": 4,
+  "observaciones": "Una reconfortante y sabrosa sopa de pescado casera, elaborada con un fumet intenso, trozos de pescado y un sofrito aromático. Ideal para los días fríos o como entrante en cualquier comida.",
+  "ocasion": ["Comida Diaria / Invierno / Entrante"]
+}

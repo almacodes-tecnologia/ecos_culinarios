@@ -1,0 +1,36 @@
+{
+  "id": "huevos_al_salmorrejo",
+  "nombre": "Huevos al Salmorrejo",
+  "estilo": "Tradicional",
+  "categoria": "Huevos",
+  "imagen": "huevos_al_salmorrejo.webp",
+  "ingredientes": [
+    "5 Huevos",
+    "150 g de Longaniza",
+    "300 g de Lomo de cerdo",
+    "5 Lonchas de jamón",
+    "5 Espárragos",
+    "4 Dientes de ajo",
+    "Perejil picado",
+    "Caldo",
+    "Sal",
+    "Harina",
+    "Aceite de oliva"
+  ],
+  "pasos": [
+    "Comienza cortando el lomo y la longaniza en trozos. En una sartén, con un chorro de aceite de oliva, fríe el lomo, la longaniza y el jamón serrano hasta que estén dorados y crujientes. Una vez listos, retira las carnes y resérvalas, pero deja ese aceite en la sartén.",
+    "Mientras, pela los dientes de ajo y córtalos en láminas finas. Pica también el perejil fresco.",
+    "En el mismo aceite donde freíste las carnes, dora las láminas de ajo a fuego suave. Cuando empiecen a tomar color, añade el perejil picado y rehoga rápidamente. Incorpora una cucharada de harina y cocínala por un minuto, removiendo para que no queden grumos. Luego, vierte el caldo (puede ser de carne o verduras) y deja cocer la mezcla unos cinco minutos, hasta que la salsa espese ligeramente.",
+    "Reparte esta sabrosa salsa en tarteras de barro individuales (o una grande si prefieres servir en el centro de la mesa).",
+    "Sobre la salsa, coloca los trozos de lomo, longaniza y jamón serrano que tenías reservados.",
+    "Ahora, con cuidado, incorpora los huevos directamente sobre la salsa y las carnes. Añade también los espárragos (pueden ser trigueros o de conserva, según la temporada y tu preferencia). Seguidamente, mete las tarteras al horno precalentado hasta que los huevos queden escalfados, con la clara cuajada y la yema aún tierna."
+  ],
+  "origen": "Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "30min",
+  "comensales": 3,
+  "observaciones": "Un suculento plato tradicional con huevos escalfados en una sabrosa salsa, acompañado de lomo, longaniza y jamón serrano. Perfecto para un almuerzo contundente o una cena especial.",
+  "ocasion": ["Comida Tradicional / Brunch"]
+}

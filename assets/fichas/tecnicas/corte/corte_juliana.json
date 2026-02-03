@@ -1,0 +1,18 @@
+{
+  "id": "corte_juliana",
+  "nombre": "Corte Juliana",
+  "categoria": "corte",
+  "descripcion": "Consiste en cortar los alimentos en tiras finas y alargadas, uniformes y regulares, ideal para vegetales como zanahorias y pimientos.",
+  "imagen": "corte_juliana.webp",
+  "ingredientesRecomendados": [
+    "Zanahoria",
+    "Pimiento",
+    "Apio",
+    "Pepino"
+  ],
+  "precauciones": [
+    "Usar cuchillo bien afilado para evitar accidentes.",
+    "Mantener los dedos alejados de la hoja al cortar.",
+    "Cortar sobre una tabla estable para mayor seguridad."
+  ]
+}

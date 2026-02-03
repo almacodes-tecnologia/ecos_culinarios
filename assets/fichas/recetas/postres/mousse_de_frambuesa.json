@@ -1,0 +1,36 @@
+{
+  "id": "mousse_de_frambuesa",
+  "nombre": "Mousse de frambuesa",
+  "estilo": "Tradicional",
+  "categoria": "Postres",
+  "imagen": "mousse_de_frambuesa.webp",
+  "ingredientes": [
+    "4 de Yemas",
+    "250 gr de Azúcar",
+    "2 de Láminas de gelatina",
+    "½ kilo de Coulis de frambuesa",
+    "1 litro de Nata para montar",
+    "Agua con hielo"
+  ],
+  "pasos": [
+    "Para empezar, pon las láminas de gelatina en un bol con agua muy fría y hielo. Deja que se hidraten durante unos minutos hasta que estén blandas. Una vez listas, escúrrelas y resérvalas.",
+    "En un bol, bate las yemas de huevo con el azúcar hasta obtener una mezcla pálida, espumosa y con cuerpo. A esta preparación se la conoce como \"pasta bomba\" y es fundamental para la estabilidad y textura de la mousse.",
+    "En un cazo, calienta el coulis de frambuesa hasta que alcance una temperatura de entre 40 y 45 grados.",
+    "Retira el coulis del fuego y añade la gelatina escurrida. Mezcla hasta que la gelatina se disuelva por completo.",
+    "Vierte esta mezcla de coulis y gelatina sobre la pasta bomba. Integra ambas preparaciones con movimientos suaves pero envolventes.",
+    "Deja que la mezcla se enfríe. Es crucial que alcance 36 grados antes de añadir la nata montada.",
+    "Mientras tanto, en un bol bien frío, monta la nata con el azúcar.",
+    "Una vez que la mezcla de frambuesa haya alcanzado la temperatura adecuada, incorpora la nata montada con movimientos suaves y envolventes, de abajo hacia arriba.",
+    "Emplata en copa con coulis de frambuesa al fondo y mousse con manga pastelera."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "30min",
+  "comensales": 6,
+  "observaciones": "Una mousse ligera y aireada con el vibrante sabor de la frambuesa, perfecta para un postre refrescante y elegante. Su textura suave y cremosa la convierte en un final ideal para cualquier comida.",
+  "ocasion": [
+    "Postre / Celebración"
+  ]
+}

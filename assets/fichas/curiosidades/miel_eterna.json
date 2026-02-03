@@ -1,0 +1,30 @@
+{
+    "id": "miel_eterna",
+    "titulo": "La miel: un alimento que nunca se echa a perder",
+    "categoria": "Ciencia de los alimentos",
+    "descripcion": [
+      "La miel es conocida por su capacidad de conservarse indefinidamente sin refrigeración ni conservantes gracias a su baja humedad y alta acidez.",
+      "Se han encontrado frascos de miel en tumbas egipcias de más de 3000 años que todavía eran comestibles."
+    ],
+    "fecha_aproximada": "Uso desde la prehistoria",
+    "origen": "Regiones con colmenas naturales (varias culturas antiguas)",
+    "nota_divertida": "En la antigüedad, la miel se utilizaba como ofrenda a los dioses y como medicina; ¡se consideraba literalmente eterna!",
+    "datos_adicionales": {
+      "uso_actual": "Se utiliza como edulcorante natural, ingrediente en repostería, remedio casero y en cosmética.",
+      "materiales": [
+        "néctar de flores",
+        "enzimas de las abejas"
+      ],
+      "funcionamiento": "La combinación de azúcares, baja humedad y enzimas de las abejas inhibe el crecimiento de bacterias y hongos, permitiendo su conservación.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Estudios sobre conservación de alimentos",
+      "Investigaciones arqueológicas sobre el uso de la miel"
+    ]
+  }
+  

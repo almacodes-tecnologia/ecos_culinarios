@@ -1,0 +1,39 @@
+{
+  "id": "flan_de_turron_jijona",
+  "nombre": "Flan de Turrón de Jijona",
+  "estilo": "Navideño / Tradicional",
+  "categoria": "Postres",
+  "imagen": "flan_de_turron_jijona.webp",
+  "ingredientes": [
+    "1 tableta de Turrón de Jijona (blando)",
+    "500 ml de Nata líquida para postres",
+    "1 Litro de Leche entera",
+    "3 cucharadas de Azúcar",
+    "1 sobre de preparado para Flan (tipo Royal, 8 raciones)",
+    "1 vaso de Agua (para el caramelo)",
+    "3 cucharadas de Azúcar (para el caramelo)"
+  ],
+  "pasos": [
+    "Comenzamos preparando el caramelo artesanal. En un cazo a fuego lento, añadimos el vaso de agua y las 3 cucharadas de azúcar. Dejamos que se haga durante unos 5 minutos sin remover para evitar que cristalice. Cuando tenga un tono dorado, lo vertemos en la flanera cubriendo bien el fondo.",
+    "En otro cazo limpio, vertemos la nata, la leche, las 3 cucharadas de azúcar y el preparado para flan. Llevamos a fuego lento, removiendo suavemente para que todo se disuelva bien.",
+    "Antes de que la mezcla rompa a hervir, añadimos la tableta de turrón de Jijona troceada. Removemos hasta que se integre, apagamos el fuego y dejamos que temple unos minutos.",
+    "Para conseguir una textura sedosa y sin grumos, pasamos la mezcla por la batidora (turmix) hasta que el turrón esté completamente deshecho y la crema sea homogénea.",
+    "Vertemos con cuidado la preparación en la flanera sobre el caramelo ya asentado. Dejamos enfriar a temperatura ambiente antes de llevarlo a la nevera.",
+    "El secreto de este postre es el reposo: déjalo enfriar en el frigorífico al menos 2 horas, aunque lo ideal es dejarlo hasta el día siguiente para que el sabor del turrón se intensifique y la textura sea perfecta."
+  ],
+  "origen": "España (Alicante)",
+  "recomendaciones": "Esta versión utiliza 1L de leche y 500ml de nata para un resultado más equilibrado y ligero. Si prefieres una textura aún menos grasa, puedes sustituir la nata por leche evaporada.",
+  "variantes": [
+    "Puedes decorar con unas almendras picadas por encima para aportar un toque crujiente.",
+    "Si no quieres hacer el caramelo, puedes usar uno comercial para ganar tiempo."
+  ],
+  "dificultad": "Muy Fácil",
+  "duracion_aproximada": "20min (más enfriado)",
+  "comensales": 8,
+  "observaciones": "Un postre estupendo para las fiestas navideñas. Es sencillo de elaborar y permite aprovechar el turrón blando de una forma diferente y refrescante.",
+  "ocasion": [
+    "Navidad",
+    "Celebraciones familiares",
+    "Postre de temporada"
+  ]
+}

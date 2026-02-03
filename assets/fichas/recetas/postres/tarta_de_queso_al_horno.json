@@ -1,0 +1,37 @@
+{
+  "id": "tarta_de_queso_al_horno",
+  "nombre": "Tarta de Queso al Horno",
+  "estilo": "Clásico y Cremoso",
+  "categoria": "Postres",
+  "imagen": "tarta_de_queso_al_horno.webp",
+  "ingredientes": [
+    "500 g de queso de untar (tipo Philadelphia)",
+    "4 huevos",
+    "200 g de azúcar",
+    "250 ml de nata para montar",
+    "1 cucharada de harina de trigo"
+  ],
+  "pasos": [
+    "Precalienta el horno a 200°C (con calor arriba y abajo). Prepara un molde redondo, forrando la base y los laterales con papel de hornear para que no se pegue.",
+    "En un bol grande, combina el queso de untar, el azúcar, la nata para montar y la cucharada de harina. Bate la mezcla con unas varillas eléctricas o manuales hasta que todos los ingredientes estén bien integrados y no queden grumos.",
+    "Incorpora los huevos de uno en uno, batiendo suavemente después de cada adición, solo hasta que se integren por completo en la masa.",
+    "Vierte la mezcla en el molde preparado y alisa la superficie.",
+    "Hornea durante 30-40 minutos, o hasta que la tarta esté dorada por encima y los bordes se vean firmes, pero el centro aún se mueva un poco al agitar el molde. El centro se endurecerá al enfriarse.",
+    "Saca la tarta del horno y déjala enfriar completamente a temperatura ambiente antes de guardarla en la nevera. Es mejor consumirla después de unas horas de reposo en frío."
+  ],
+  "origen": "Clásico Casero",
+  "recomendaciones": "Puedes servir la tarta de queso con mermelada de frutos rojos, un chorrito de miel, o con fresas frescas para un toque de color y sabor. También puedes triturar galletas con mantequilla para crear una base en el molde.",
+  "variantes": [
+    "Usa otros quesos para darle un sabor diferente, como queso mascarpone o requesón. También puedes añadir una cucharadita de extracto de vainilla para aromatizar.",
+    "Para una tarta más ligera, puedes reducir la cantidad de azúcar."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "45min",
+  "comensales": 8,
+  "observaciones": "Esta tarta de queso es un postre clásico que destaca por su increíble sencillez y su resultado cremoso y delicioso. No requiere de una técnica complicada y siempre queda bien.",
+  "ocasion": [
+    "Postre",
+    "Celebración"
+  ],
+  "conservacion": "Guarda la tarta de queso en un recipiente hermético en la nevera. Se mantendrá perfecta durante 3-4 días."
+}

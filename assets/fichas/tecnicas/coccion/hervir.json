@@ -1,0 +1,17 @@
+{
+  "id": "hervir",
+  "nombre": "Hervir",
+  "categoria": "coccion",
+  "descripcion": "Llevar un líquido, generalmente agua, a su punto de ebullición para cocinar alimentos como pasta, huevos o verduras. Es una cocción rápida y uniforme.",
+  "imagen": "hervir.webp",
+  "ingredientesRecomendados": [
+    "Pasta",
+    "Patatas",
+    "Huevos",
+    "Verduras (brócoli, judías verdes)"
+  ],
+  "precauciones": [
+    "Añade los ingredientes cuando el agua ya esté hirviendo.",
+    "Ten cuidado con las salpicaduras de agua caliente para evitar quemaduras."
+  ]
+}

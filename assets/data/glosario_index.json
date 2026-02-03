@@ -1,0 +1,312 @@
+[
+  {
+    "id": "abrillantar",
+    "termino": "Abrillantar",
+    "definicion": "Dar brillo a un alimento o plato, generalmente con una salsa o gelatina."
+  },
+  {
+    "id": "blanquear",
+    "termino": "Blanquear",
+    "definicion": "Sumergir un alimento en agua hirviendo por poco tiempo para limpiarlo o facilitar la cocción."
+  },
+  {
+    "id": "brunoise",
+    "termino": "Brunoise",
+    "definicion": "Corte en cubos muy pequeños, de aproximadamente 2 mm de lado."
+  },
+  {
+    "id": "caramelizar",
+    "termino": "Caramelizar",
+    "definicion": "Cocinar azúcar hasta que se derrite y adquiere un color dorado y sabor característico."
+  },
+  {
+    "id": "concassé",
+    "termino": "Concassé",
+    "definicion": "Tomate pelado, despepitado y picado en cubos pequeños."
+  },
+  {
+    "id": "coulis",
+    "termino": "Coulis",
+    "definicion": "Salsa fina y concentrada hecha a base de frutas o verduras trituradas."
+  },
+  {
+    "id": "deglasear",
+    "termino": "Deglasear",
+    "definicion": "Agregar líquido a una sartén caliente para disolver los residuos de cocción y formar una salsa."
+  },
+  {
+    "id": "escalfar",
+    "termino": "Escalfar",
+    "definicion": "Cocinar un alimento sumergiéndolo en líquido caliente, sin que llegue a hervir."
+  },
+  {
+    "id": "emulsionar",
+    "termino": "Emulsionar",
+    "definicion": "Mezclar dos líquidos que normalmente no se unen, como aceite y vinagre."
+  },
+  {
+    "id": "fondant",
+    "termino": "Fondant",
+    "definicion": "Azúcar cocida y manipulada para formar una pasta lisa usada en repostería."
+  },
+  {
+    "id": "glasear",
+    "termino": "Glasear",
+    "definicion": "Cubrir un alimento con una capa brillante, generalmente de azúcar o gelatina."
+  },
+  {
+    "id": "juliana",
+    "termino": "Juliana",
+    "definicion": "Corte en tiras largas y delgadas, similares a cerillas."
+  },
+  {
+    "id": "marinar",
+    "termino": "Marinar",
+    "definicion": "Dejar reposar un alimento en una mezcla de líquidos y especias para darle sabor."
+  },
+  {
+    "id": "mirepoix",
+    "termino": "Mirepoix",
+    "definicion": "Mezcla de verduras cortadas en dados (cebolla, zanahoria y apio) usada como base para caldos y salsas."
+  },
+  {
+    "id": "napar",
+    "termino": "Napar",
+    "definicion": "Cubrir un alimento con una salsa o cobertura ligera."
+  },
+  {
+    "id": "parrilla",
+    "termino": "Parrilla",
+    "definicion": "Método de cocción directa sobre fuego o brasas, utilizando una rejilla metálica."
+  },
+  {
+    "id": "picar",
+    "termino": "Picar",
+    "definicion": "Cortar un alimento en trozos pequeños."
+  },
+  {
+    "id": "quemar",
+    "termino": "Quemar",
+    "definicion": "Exponer un alimento a fuego o calor intenso hasta oscurecerlo o carbonizarlo."
+  },
+  {
+    "id": "rebozar",
+    "termino": "Rebozar",
+    "definicion": "Cubrir un alimento con harina, huevo y pan rallado para freír."
+  },
+  {
+    "id": "reducir",
+    "termino": "Reducir",
+    "definicion": "Cocinar un líquido para evaporar parte del agua y concentrar sabor y textura."
+  },
+  {
+    "id": "risotto",
+    "termino": "Risotto",
+    "definicion": "Plato italiano hecho con arroz cocido lentamente en caldo y mezclado con mantequilla y queso."
+  },
+  {
+    "id": "saltear",
+    "termino": "Saltear",
+    "definicion": "Cocinar alimentos rápidamente en sartén con poco aceite y alta temperatura."
+  },
+  {
+    "id": "sazonar",
+    "termino": "Sazonar",
+    "definicion": "Agregar sal, pimienta u otros condimentos para dar sabor."
+  },
+  {
+    "id": "soufflé",
+    "termino": "Soufflé",
+    "definicion": "Plato ligero y esponjoso hecho con claras batidas y otros ingredientes."
+  },
+  {
+    "id": "tamizar",
+    "termino": "Tamizar",
+    "definicion": "Pasar un ingrediente seco por un tamiz para eliminar grumos."
+  },
+  {
+    "id": "temperar",
+    "termino": "Temperar",
+    "definicion": "Ajustar la temperatura de un ingrediente para evitar choques térmicos."
+  },
+  {
+    "id": "trinchado",
+    "termino": "Trinchado",
+    "definicion": "Cortar carne cocida en porciones para servir."
+  },
+  {
+    "id": "ventilar",
+    "termino": "Ventilar",
+    "definicion": "Dejar reposar un alimento para que pierda olores o humedad."
+  },
+  {
+    "id": "zeste",
+    "termino": "Zeste",
+    "definicion": "La capa externa de la piel de los cítricos, usada para saborizar."
+  },
+  {
+    "id": "al dente",
+    "termino": "Al dente",
+    "definicion": "Cocción ideal de pasta o arroz, firme al morder pero cocido."
+  },
+  {
+    "id": "baguette",
+    "termino": "Baguette",
+    "definicion": "Pan francés alargado y crujiente por fuera y suave por dentro."
+  },
+  {
+    "id": "brasear",
+    "termino": "Brasear",
+    "definicion": "Cocinar lentamente en líquido y a fuego bajo."
+  },
+  {
+    "id": "chiffonade",
+    "termino": "Chiffonade",
+    "definicion": "Corte en tiras finas, normalmente de hojas como albahaca o lechuga."
+  },
+  {
+    "id": "confit",
+    "termino": "Confit",
+    "definicion": "Cocción lenta en grasa a baja temperatura."
+  },
+  {
+    "id": "crujiente",
+    "termino": "Crujiente",
+    "definicion": "Textura que se rompe fácilmente con un sonido característico."
+  },
+  {
+    "id": "desglasar",
+    "termino": "Desglasar",
+    "definicion": "Ver deglasear."
+  },
+  {
+    "id": "dulce de leche",
+    "termino": "Dulce de leche",
+    "definicion": "Caramelo espeso hecho de leche y azúcar cocidos lentamente."
+  },
+  {
+    "id": "empaque",
+    "termino": "Empaque",
+    "definicion": "Material o envoltorio para conservar alimentos."
+  },
+  {
+    "id": "flambeado",
+    "termino": "Flambeado",
+    "definicion": "Quemar alcohol sobre un plato para darle sabor y presentación."
+  },
+  {
+    "id": "ganache",
+    "termino": "Ganache",
+    "definicion": "Mezcla de chocolate y crema usada para rellenos o coberturas."
+  },
+  {
+    "id": "gelatina",
+    "termino": "Gelatina",
+    "definicion": "Producto que solidifica líquidos, usado en postres y aspics."
+  },
+  {
+    "id": "granulado",
+    "termino": "Granulado",
+    "definicion": "Textura compuesta de pequeños gránulos, como azúcar."
+  },
+  {
+    "id": "impermeabilizar",
+    "termino": "Impermeabilizar",
+    "definicion": "Cubrir un alimento para evitar que absorba humedad."
+  },
+  {
+    "id": "juliana fina",
+    "termino": "Juliana fina",
+    "definicion": "Tiras muy finas y alargadas de verduras."
+  },
+  {
+    "id": "ligar",
+    "termino": "Ligar",
+    "definicion": "Espesar o unir ingredientes con un agente espesante."
+  },
+  {
+    "id": "macerar",
+    "termino": "Macerar",
+    "definicion": "Dejar reposar alimentos en líquido para suavizarlos o aromatizarlos."
+  },
+  {
+    "id": "napar con salsa",
+    "termino": "Napar con salsa",
+    "definicion": "Cubrir un alimento con salsa para darle sabor y presentación."
+  },
+  {
+    "id": "quemar a la plancha",
+    "termino": "Quemar a la plancha",
+    "definicion": "Cocinar un alimento directamente sobre una superficie caliente."
+  },
+  {
+    "id": "rallar",
+    "termino": "Rallar",
+    "definicion": "Desmenuzar un alimento con un rallador."
+  },
+  {
+    "id": "rebozado",
+    "termino": "Rebozado",
+    "definicion": "Capa que recubre un alimento antes de freírlo."
+  },
+  {
+    "id": "rebozar en harina",
+    "termino": "Rebozar en harina",
+    "definicion": "Cubrir un alimento con harina antes de cocinarlo."
+  },
+  {
+    "id": "rellenar",
+    "termino": "Rellenar",
+    "definicion": "Introducir un alimento dentro de otro o con mezcla."
+  },
+  {
+    "id": "rosado",
+    "termino": "Rosado",
+    "definicion": "Color rosáceo, usado para describir carnes poco hechas."
+  },
+  {
+    "id": "sancochar",
+    "termino": "Sancochar",
+    "definicion": "Cocer parcialmente un alimento en agua."
+  },
+  {
+    "id": "semimaduro",
+    "termino": "Semimaduro",
+    "definicion": "Estado de maduración intermedio en frutas o quesos."
+  },
+  {
+    "id": "soplete",
+    "termino": "Soplete",
+    "definicion": "Herramienta para quemar o dorar la superficie de un alimento."
+  },
+  {
+    "id": "soufflé frío",
+    "termino": "Soufflé frío",
+    "definicion": "Postre frío y ligero, diferente del soufflé horneado."
+  },
+  {
+    "id": "temple",
+    "termino": "Temple",
+    "definicion": "Proceso de calentar y enfriar chocolate para obtener brillo."
+  },
+  {
+    "id": "tierno",
+    "termino": "Tierno",
+    "definicion": "Textura suave y fácil de masticar."
+  },
+  {
+    "id": "tiramisú",
+    "termino": "Tiramisú",
+    "definicion": "Postre italiano con capas de bizcocho, café y mascarpone."
+  },
+  {
+    "id": "triturar",
+    "termino": "Triturar",
+    "definicion": "Deshacer un alimento en pedazos muy pequeños o puré."
+  },
+  {
+    "id": "volteado",
+    "termino": "Volteado",
+    "definicion": "Plato que se cocina y se sirve dando la vuelta, como pasteles."
+  }
+]

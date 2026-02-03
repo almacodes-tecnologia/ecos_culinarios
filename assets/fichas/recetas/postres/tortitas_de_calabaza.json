@@ -1,0 +1,44 @@
+{
+  "id": "tortitas_de_calabaza",
+  "nombre": "Tortitas de Calabaza",
+  "estilo": "Tradicional / Carnaval",
+  "categoria": "Postres",
+  "imagen": "tortitas_de_calabaza.webp",
+  "ingredientes": [
+    "200 gr de Calabaza",
+    "200 gr de Harina de trigo",
+    "2 Huevos",
+    "100 gr de Azúcar",
+    "125 ml de Leche",
+    "1 chupito de Licor de Anís",
+    "medio (ralladura) de Limón",
+    "Aceite de girasol o de orujo de oliva (para freír)",
+    "Azúcar y canela para decorar (opcional)"
+  ],
+  "pasos": [
+    "Empezamos preparando el corazón de la masa: la calabaza. La pelamos, la troceamos y la cocemos en agua hirviendo hasta que esté bien tierna. Una vez lista, la escurrimos a conciencia para eliminar el agua sobrante y la trituramos hasta obtener un puré fino y sedoso. Dejamos que pierda el calor fuerte.",
+    "Para que las tortitas queden ligeras y con aire, separamos las yemas de las claras. En un bol limpio, montamos las claras a punto de nieve (hasta que estén firmes) y las reservamos.",
+    "En otro recipiente más grande, mezclamos las yemas con el azúcar, la leche, el licor de anís y la ralladura de limón. Batimos bien hasta que todo esté integrado.",
+    "Es el momento de añadir nuestro puré de calabaza a la mezcla de las yemas. Removemos con suavidad para que el color dorado de la calabaza bañe toda la base.",
+    "Incorporamos la harina poco a poco, tamizándola si es posible para evitar grumos, hasta conseguir una masa homogénea y sin rastro de harina seca.",
+    "Por último, añadimos las claras a punto de nieve que teníamos reservadas. Hazlo con movimientos envolventes, de abajo hacia arriba, para no perder el aire que hemos atrapado; esto hará que las tortitas sean mucho más esponjosas.",
+    "Ponemos una sartén al fuego con un fondo de aceite. El secreto de estas tortillas es que no deben nadar en aceite como un buñuelo, solo lo justo para cubrir el fondo. Cuando el aceite esté bien caliente, vertemos un cazo de masa.",
+    "Cocinamos la tortita aproximadamente un minuto por cada lado, hasta que veas que tiene un color dorado precioso. Al sacarlas, las dejamos reposar un momento sobre papel absorbente para retirar el exceso de aceite.",
+    "Sírvelas recién hechas, solas o con un poquito de azúcar espolvoreado por encima para disfrutar de todo su aroma."
+  ],
+  "origen": "Tradicional",
+  "recomendaciones": "El licor de anís es opcional, pero le da ese aroma inconfundible a los postres de sartén de toda la vida.",
+  "variantes": [
+    "Puedes servirlas con un hilo de miel de caña por encima.",
+    "Si prefieres un toque más cítrico, añade también ralladura de naranja."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "25min",
+  "comensales": 6,
+  "observaciones": "Una variante de las tortillas de Carnaval que, gracias a la calabaza, adquieren una textura mucho más cremosa y un sabor dulce muy equilibrado.",
+  "ocasion": [
+    "Merienda",
+    "Postre",
+    "Carnaval"
+  ]
+}

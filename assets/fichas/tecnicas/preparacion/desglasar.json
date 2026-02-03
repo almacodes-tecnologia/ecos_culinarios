@@ -1,0 +1,19 @@
+{
+  "id": "desglasar",
+  "nombre": "Desglasar",
+  "categoria": "preparacion",
+  "descripcion": "Técnica que consiste en añadir un líquido (vino, caldo, agua o zumo) a una sartén o cacerola donde se ha cocinado previamente una proteína. El líquido ayuda a desprender los sedimentos caramelizados y jugos concentrados que quedan adheridos al fondo (la suca), integrándolos en una salsa con un sabor profundo y complejo.",
+  "imagen": "desglasar.webp",
+  "ingredientesRecomendados": [
+    "Vino blanco o tinto",
+    "Caldo de ave o res",
+    "Coñac o brandy",
+    "Vinagre de manzana",
+    "Zumo de cítricos"
+  ],
+  "precauciones": [
+    "Asegúrate de que la sartén esté muy caliente al añadir el líquido para que el choque térmico facilite el desprendimiento de los jugos.",
+    "Si utilizas alcohol de alta graduación, retira la sartén del fuego por un momento para evitar llamaradas accidentales.",
+    "Usa una espátula de madera o silicona para raspar el fondo sin dañar el revestimiento de la sartén mientras el líquido hierve."
+  ]
+}

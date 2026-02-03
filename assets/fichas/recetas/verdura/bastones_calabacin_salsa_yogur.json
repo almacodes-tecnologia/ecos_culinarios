@@ -1,0 +1,40 @@
+{
+  "id": "bastones_calabacin_salsa_yogur",
+  "nombre": "Bastones de Calabacín Crujientes con Salsa de Yogur",
+  "estilo": "Saludable y Crujiente",
+  "categoria": "Verdura",
+  "imagen": "bastones_calabacin_salsa_yogur.webp",
+  "ingredientes": [
+    "1 calabacín",
+    "1 huevo",
+    "Pan rallado",
+    "Ajo o cebolla en polvo",
+    "Perejil",
+    "Yogur griego",
+    "El zumo de medio limón",
+  ],
+  "pasos": [
+    "Corta el calabacín en bastones de un tamaño similar.",
+    "En un plato, mezcla el pan rallado con el ajo en polvo y el perejil para crear la mezcla de rebozado.",
+    "En otro plato, bate el huevo. Pasa cada bastón de calabacín primero por el huevo y luego por la mezcla de pan rallado, asegurándote de que queden bien cubiertos.",
+    "Hornea los bastones en la freidora de aire a 200 °C durante 8-10 minutos, o en el horno a la misma temperatura durante 10-15 minutos, hasta que estén dorados y crujientes.",
+    "Mientras se cocinan los bastones, prepara la salsa. Mezcla en un bol el yogur griego o de soja con el chorrito de zumo de limón, el ajo o cebolla en polvo y el perejil. Remueve bien hasta obtener una salsa homogénea.",
+    "Sirve los bastones de calabacín calientes, acompañados de la salsa de yogur fría para mojar."
+  ],
+  "origen": "Casero",
+  "recomendaciones": "Puedes añadir otras especias a la mezcla de pan rallado, como pimentón dulce, orégano o un toque de queso rallado para un sabor más intenso.",
+  "variantes": [
+    "Para una opción vegana, sustituye el huevo por una mezcla de 2 cucharadas de harina de garbanzos y 3 de agua.",
+    "La salsa de yogur se puede personalizar con otras hierbas frescas como eneldo o menta."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "20min",
+  "comensales": 2,
+  "observaciones": "Una alternativa deliciosa y saludable a las patatas fritas. Son muy fáciles de hacer, con un exterior crujiente y un interior tierno, y la salsa de yogur les da un toque fresco y ligero.",
+  "ocasion": [
+    "Entrante",
+    "Aperitivo",
+    "Guarnición"
+  ],
+  "conservacion": "Pueden guardarse en la nevera en un recipiente hermético de 1 a 2 días. Para recalentarlos, es mejor usar el horno o la freidora de aire para que recuperen la textura crujiente."
+}

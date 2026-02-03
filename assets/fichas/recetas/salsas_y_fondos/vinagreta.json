@@ -1,0 +1,23 @@
+{
+  "id": "vinagreta",
+  "nombre": "Vinagreta",
+  "estilo": "Básica",
+  "categoria": "Salsas y fondos",
+  "imagen": "vinagreta.webp",
+  "ingredientes": [
+    "100 ml de Vinagre",
+    "300 ml de Aceite"
+  ],
+  "pasos": [
+    "La clave está en la proporción y la mezcla. Vierte el vinagre (el que más te guste: de vino, de Jerez, de manzana...) y el aceite de oliva virgen extra en una botella con cierre hermético. Una proporción clásica es tres partes de aceite por una de vinagre, pero puedes ajustarla a tu gusto personal.",
+    "Una vez que tengas los ingredientes dentro, simplemente tapa la botella y agita enérgicamente durante unos segundos."
+  ],
+  "origen": "Internacional / Básica",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Muy Fácil",
+  "duracion_aproximada": "2min",
+  "comensales": 0,
+  "observaciones": "Una vinagreta clásica, sencilla y rápida de preparar, ideal para aliñar ensaladas, verduras y dar un toque fresco a multitud de platos.",
+  "ocasion": ["Condimento / Acompañamiento"]
+}

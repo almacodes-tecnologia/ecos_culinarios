@@ -1,0 +1,32 @@
+{
+  "id": "tortitas",
+  "nombre": "Tortitas",
+  "estilo": "Clásico",
+  "categoria": "Postres",
+  "imagen": "tortitas.webp",
+  "ingredientes": [
+    "200 ml de Leche",
+    "175 gr de Harina",
+    "2 de Huevos",
+    "25 gr de Azúcar",
+    "75 gr de Mantequilla",
+    "15 gr de Gasificante"
+  ],
+  "pasos": [
+    "Empieza por tamizar la harina. Luego, en un bol, bate todos los demás ingredientes con una varilla hasta obtener una masa homogénea. Al final, añade la mantequilla fundida y se integra bien. Hay que dejar reposar la masa en frío durante al menos 1 hora.",
+    "Calienta una sartén antiadherente o una plancha a fuego medio-alto. Engrásala ligeramente con una pequeña nuez de mantequilla.",
+    "Cuando la sartén esté bien caliente, vierte medio cazo sopero por tortita, aunque cantidad dependerá del tamaño que busques.",
+    "Deja que se cocine por un lado. Cuando empiecen a aparecer burbujas en la superficie y los bordes se vean ligeramente cocidos, es la señal para darle la vuelta. Con la ayuda de una espátula, voltea la tortita con cuidado.",
+    "Cocina por el otro lado hasta que esté igualmente dorada. Retira de la sartén y repite el proceso con el resto de la masa."
+  ],
+  "origen": "Americana",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 20min",
+  "comensales": 4,
+  "observaciones": "Un clásico del desayuno americano, estas tortitas caseras son esponjosas y deliciosas. Perfectas para acompañar con sirope, frutas, nata o cualquier topping que te apetezca.",
+  "ocasion": [
+    "Desayuno / Merienda"
+  ]
+}

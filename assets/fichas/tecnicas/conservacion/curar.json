@@ -1,0 +1,19 @@
+{
+  "id": "curar",
+  "nombre": "Curar",
+  "categoria": "conservacion",
+  "descripcion": "Técnica de conservación y saborización que consiste en someter un alimento (carne, pescado o yemas) a una mezcla de sal y, opcionalmente, azúcar, especias o nitritos. El proceso extrae la humedad del alimento mediante ósmosis, inhibiendo el crecimiento de microorganismos y concentrando intensamente su sabor y firmeza.",
+  "imagen": "curar.webp",
+  "ingredientesRecomendados": [
+    "Salmón (para Gravlax)",
+    "Panceta o tocino",
+    "Yemas de huevo",
+    "Magret de pato",
+    "Lomo de pescado blanco"
+  ],
+  "precauciones": [
+    "Controla estrictamente los tiempos; un exceso de tiempo en sal puede dejar el alimento incomestible por su salinidad.",
+    "Lava y seca muy bien el alimento después del tiempo de curado para retirar el exceso de sal antes de consumirlo o dejarlo secar.",
+    "Realiza siempre este proceso en refrigeración para evitar que el alimento se deteriore antes de que la sal complete su acción protectora."
+  ]
+}

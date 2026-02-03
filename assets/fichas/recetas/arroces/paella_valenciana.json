@@ -1,0 +1,39 @@
+{
+  "id": "paella_valenciana",
+  "nombre": "Paella Valenciana",
+  "estilo": "Tradicional",
+  "categoria": "Arroces",
+  "imagen": "paella_valenciana.webp",
+  "ingredientes": [
+    "120ml de Aceite de oliva",
+    "600gr de Pollo",
+    "400gr de Conejo",
+    "1 cucharadita de Pimentón dulce",
+    "2 Tomates maduros rallados",
+    "Cebolla",
+    "2 litros de Agua",
+    "1 sobre de Cúrcuma",
+    "400gr de Arroz",
+    "Sal"
+  ],
+  "pasos": [
+    "Comenzamos calentando el aceite de oliva en la paella a fuego medio-alto. Una vez el aceite está listo, incorporamos el pollo y el conejo, previamente sazonados con sal. Es fundamental que doren de manera uniforme, ya que este paso es la base de todo el sabor.",
+    "Reducimos ligeramente el fuego y añadimos la cebolla picada. La pochamos hasta que esté transparente. En este punto, incorporamos rápidamente el pimentón dulce, lo rehogamos apenas unos segundos (es crucial que no se queme, pues amargaría) y, de inmediato, vertemos el tomate rallado. Cocinamos el conjunto, removiendo con frecuencia, hasta obtener un sofrito concentrado.",
+    "Ahora viene la fase del caldo inicial. Añadimos una cantidad de agua equivalente al triple del volumen de arroz que utilizaremos. Dejamos que este caldo hierva y se reduzca con la carne y el sofrito. El objetivo es que, al final de esta primera cocción, el nivel del líquido se iguale aproximadamente al volumen del arroz que vamos a añadir.",
+    "Una vez alcanzado ese punto, incorporamos la cantidad de agua restante, que debe ser equivalente a la medida inicial de arroz. Esto asegura que el arroz tendrá el líquido preciso para cocinarse a la perfección, logrando una textura melosa.",
+    "Es el momento de dar color y ajustar el sabor. Añadimos la cúrcuma y rectificamos el punto de sal. Es aconsejable probar el caldo para asegurarnos de que está a nuestro gusto.",
+    "Distribuimos el arroz de manera uniforme por toda la superficie de la paella, asegurándonos de que quede bien repartido para una cocción homogénea.",
+    "Subimos el fuego a potencia alta y cocinamos durante los primeros 5 minutos. Observarás cómo el caldo hierve con vigor y el arroz comienza a absorberlo.",
+    "Transcurridos los 5 minutos, reducimos la potencia a fuego medio-bajo y continuamos la cocción hasta alcanzar el minuto 17 del tiempo total del arroz. Durante esta fase, es importante evitar remover el arroz en exceso.",
+    "Si eres de los que aprecian el socarrat —esa capa dorada y ligeramente crujiente en el fondo—, sube el fuego al máximo durante el último minuto o dos. Presta atención, escucharás un ligero crepitar, señal de que el socarrat se está formando.",
+    "Cuando notes ese sonido característico, retiramos la paella del fuego y la cubrimos con un paño limpio o papel de aluminio. La dejamos reposar durante unos 5 a 10 minutos. Este reposo final es esencial para que el arroz termine de asentarse y adquiera su textura melosa ideal."
+  ],
+  "origen": "Valenciana",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "1h 00min",
+  "comensales": 4,
+  "observaciones": "La auténtica y tradicional Paella Valenciana, con sus sabores clásicos de pollo, conejo y las verduras de la huerta. Un plato emblemático de la gastronomía española.",
+  "ocasion": ["Comida Familiar / Celebración"]
+}

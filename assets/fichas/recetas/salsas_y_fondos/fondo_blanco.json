@@ -1,0 +1,32 @@
+{
+  "id": "fondo_blanco",
+  "nombre": "Fondo blanco",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "fondo_blanco.webp",
+  "ingredientes": [
+    "5 l de Agua",
+    "2 kg de Carcasas de ave",
+    "1 kg de Huesos de ternera",
+    "300 gr de Cebollas",
+    "400 gr de Zanahorias",
+    "300 gr de Puerros"
+  ],
+  "pasos": [
+    "Para empezar, desangra las carcasas. Ponlas en un bol con agua fría y déjalas unos minutos.",
+    "Una vez listas, introduce las carcasas de ave y los huesos de ternera en una olla grande. Cúbrelos con agua fría.",
+    "Limpia y trocea el puerro, las zanahorias y la cebolla. Añade estas verduras a la olla junto a la carne y los huesos.",
+    "Lleva la olla a fuego medio.",
+    "Desespuma y desengrasa frecuentemente durante la cocción.",
+    "Deja que el fondo se cocine a fuego muy suave durante 3 horas, aunque cuanto más tiempo, más sabor.",
+    "Pasadas las 3 horas, o cuando el fondo tenga el sabor y aroma que buscas, retira la olla del fuego. Con cuidado, cuela el fondo."
+  ],
+  "origen": "Bases Culinarias",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "3h 00min",
+  "comensales": 0,
+  "observaciones": "Un fondo básico y esencial en la cocina, ideal como base para sopas, salsas, arroces y guisos, aportando un sabor profundo y limpio.",
+  "ocasion": ["Base de Cocina"]
+}

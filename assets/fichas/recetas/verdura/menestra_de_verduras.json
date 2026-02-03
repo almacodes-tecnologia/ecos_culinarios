@@ -1,0 +1,40 @@
+{
+  "id": "menestra_de_verduras",
+  "nombre": "Menestra de Verduras Tradicional",
+  "estilo": "Tradicional",
+  "categoria": "Vegetariano",
+  "imagen": "menestra_de_verduras.webp",
+  "ingredientes": [
+    "0.5 unidad de Coliflor",
+    "2 unidades de Zanahoria",
+    "200 g de Judías verdes planas",
+    "2 unidades de Acelgas (hoja y penca)",
+    "200 g de Espinaca fresca",
+    "4 unidades de Alcachofa",
+    "Al gusto de Aceite de oliva virgen extra",
+    "Al gusto de Sal",
+    "Al gusto de Pimienta negra molida",
+    "50 g de Harina de trigo",
+    "2 unidades de Huevo",
+    "1 unidad de Cebolla pequeña",
+    "100 ml de Agua"
+  ],
+  "pasos": [
+    "Empieza preparando las alcachofas: córtalas por la mitad a lo largo y cuécelas en un recipiente con abundante agua salada durante unos 25 minutos. Luego, escúrrelas y deja que se enfríen. Una vez frías, retira y desecha las hojas más duras y el extremo superior de cada mitad, y corta los tallos en trozos. Resérvalas.",
+    "Mientras, prepara el resto de las verduras: separa la coliflor en ramilletes. Retira los extremos de las judías verdes planas, córtalas por la mitad a lo largo y luego en trozos de unos cuatro centímetros. Pela las zanahorias y córtalas en discos. Limpia las acelgas, separando las hojas de las pencas. Retira los hilos de las pencas y córtalas en trozos de unos dos centímetros.",
+    "Cuece la coliflor, las judías verdes, las zanahorias y las pencas de acelga durante unos 15-20 minutos. El objetivo es que queden casi hechas, pero aún ligeramente al dente. Es importante ir comprobando el punto de cada verdura y retirarlas si es necesario, ya que cada una tiene su tiempo de cocción óptimo.",
+    "En una cacerola con un poco de agua, cuece las espinacas y las hojas de acelga troceadas hasta que estén tiernas. Escúrrelas muy bien, presionando para eliminar todo el exceso de agua, y pícalas un poco. Salpimienta a tu gusto. Forma pequeñas bolitas con esta mezcla y pásalas por harina de trigo y luego por huevo batido para rebozarlas. Fríe estas bolitas en una sartén con aceite de oliva virgen extra hasta que estén doradas. Retíralas y colócalas sobre papel de cocina para que escurran el exceso de aceite.",
+    "De manera similar, y después de salpimentarlos, reboza los ramilletes de coliflor y las pencas de acelga que cociste. Fríelos en aceite hasta que estén dorados y resérvalos también sobre papel absorbente.",
+    "En una sartén amplia (o la misma cacerola donde cocinaste las verduras al vapor), calienta un poco de aceite de oliva. Sofríe la cebolla pequeña picada finamente hasta que esté transparente.",
+    "Incorpora a la sartén todas las verduras que no estén rebozadas (las alcachofas cocidas, las judías verdes y las zanahorias cocidas). Remueve bien y salpimienta. Añade los 100 ml de agua y cocina a fuego medio, removiendo ocasionalmente, hasta que todos los sabores se mezclen y la salsa espese ligeramente.",
+    "Finalmente, agrega las verduras rebozadas (las bolitas de espinaca, la coliflor y las pencas de acelga fritas) a la menestra. Dale un último hervor suave para que todo se caliente por igual y sirve inmediatamente para disfrutar de este plato completo."
+  ],
+  "origen": "Tradicional Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 30min",
+  "comensales": 4,
+  "observaciones": "Una menestra de verduras tradicional, colorida y reconfortante, que celebra la riqueza de la huerta. Este plato combina diferentes texturas y sabores, con algunas verduras rebozadas para un toque especial, todo en una suave base que realza su frescura.",
+  "ocasion": ["Comida diaria / Saludable / Vegetariano"]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "salteado",
+  "nombre": "Salteado",
+  "categoria": "coccion",
+  "descripcion": "Cocinar alimentos rápidamente en una sartén con poca grasa a fuego alto. Los alimentos se remueven constantemente para que se cocinen de forma uniforme y se doren.",
+  "imagen": "salteado.webp",
+  "ingredientesRecomendados": [
+    "Tiras de pollo o ternera",
+    "Verduras (pimientos, cebolla)",
+    "Setas"
+  ],
+  "precauciones": [
+    "Usar una sartén de fondo ancho y calentar bien el aceite antes de añadir los ingredientes.",
+    "No sobrecargar la sartén para que los alimentos se doren y no se cuezan al vapor."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fondo_oscuro",
+  "nombre": "Fondo oscuro",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "fondo_oscuro.webp",
+  "ingredientes": [
+    "5 l de Agua",
+    "3 kg de Huesos de ternera",
+    "500 ml de Vino tinto",
+    "350 gr de Tomates",
+    "300 gr de Cebollas",
+    "200 gr de Puerros",
+    "350 gr de Zanahorias"
+  ],
+  "pasos": [
+    "Comienza precalentando el horno a 180°C.",
+    "Coloca los huesos en una bandeja de horno y tuéstalos durante 30 a 40 minutos.",
+    "Mientras los huesos se tuestan, puedes ir preparando tu bresa de verduras: corta en trozos grandes zanahoria, cebolla y puerro. Pasado el tiempo de tostado de los huesos, añade estas verduras a la misma bandeja con los huesos y tuéstalos juntos durante 25 minutos más. Las verduras también deben dorarse.",
+    "Una vez tostados, pasa los huesos y la bresa de verduras a una olla grande. Cúbrelos con agua fría.",
+    "Pon la olla a fuego medio.",
+    "Mientras tanto, regresa a la bandeja donde tostaste los huesos y las verduras. Habrán quedado jugos caramelizados pegados al fondo. Vierte un chorro de vino tinto en la bandeja y lleva a fuego suave o a la placa del horno para desglasar. Raspa con una cuchara de madera todos esos jugos pegados, disolviéndolos en el vino. Este líquido lleno de sabor se añade directamente a la olla donde tienes los huesos y la bresa.",
+    "Deja que el fondo se cocine a fuego suave durante un período prolongado, de 4 a 10 horas. Cuanto más tiempo lo dejes, más concentrado y profundo será el sabor. Durante este proceso, es crucial desespumar la superficie con frecuencia.",
+    "Finalmente, cuando el fondo haya alcanzado el sabor deseado, retira la olla del fuego. Con cuidado, cuela el fondo."
+  ],
+  "origen": "Bases Culinarias",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "6h 00min",
+  "comensales": 0,
+  "observaciones": "Un fondo oscuro de ternera, rico y concentrado, ideal para dar profundidad de sabor a salsas, guisos, estofados y otros platos complejos de la alta cocina.",
+  "ocasion": ["Base de Cocina"]
+}

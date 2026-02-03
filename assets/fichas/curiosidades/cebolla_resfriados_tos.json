@@ -1,0 +1,29 @@
+{
+    "id": "cebolla_resfriados_tos",
+    "titulo": "La cebolla: un remedio casero contra resfriados y tos",
+    "categoria": "Tradición y remedios",
+    "descripcion": [
+      "Se cree que colocar cebolla cortada cerca durante la noche ayuda a aliviar la congestión y la tos, debido a los compuestos sulfurados que contiene.",
+      "Aunque no sustituye la atención médica, es un remedio popular en muchas culturas para calmar síntomas leves de resfriado y gripe."
+    ],
+    "fecha_aproximada": "Tradición ancestral",
+    "origen": "Varias culturas alrededor del mundo",
+    "nota_divertida": "El fuerte aroma de la cebolla parece ‘absorber’ parte de la congestión, y muchas abuelas lo recomiendan como truco casero.",
+    "datos_adicionales": {
+      "uso_actual": "Se utiliza en el hogar como complemento a tratamientos para resfriados y tos leve.",
+      "materiales": [
+        "cebolla fresca"
+      ],
+      "funcionamiento": "Los compuestos sulfurados liberados al cortar la cebolla pueden tener efectos antibacterianos y aromáticos que calman la congestión.",
+      "relacionados": [
+        "remedios_caseros",
+        "tratamientos_tradicionales",
+        "alimentacion_y_salud"
+      ]
+    },
+    "referencias": [
+      "Estudios sobre propiedades de la cebolla",
+      "Recetarios de medicina tradicional"
+    ]
+  }
+  

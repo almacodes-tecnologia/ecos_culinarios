@@ -1,0 +1,31 @@
+{
+  "id": "pan_casero_rustico",
+  "nombre": "Pan casero rústico",
+  "estilo": "Tradicional",
+  "categoria": "Panadería",
+  "imagen": "pan_casero_rustico.webp",
+  "ingredientes": [
+    "500g de harina de trigo",
+    "10g de sal",
+    "300ml de agua",
+    "5g de levadura seca"
+  ],
+  "pasos": [
+    "Mezclar todos los ingredientes en un bol.",
+    "Amasar durante 10 minutos hasta obtener una masa homogénea.",
+    "Dejar reposar la masa durante 1 hora cubierta con un paño.",
+    "Formar el pan y dejar levar otra hora.",
+    "Hornear a 220°C durante 35 minutos."
+  ],
+  "origen": "Mediterráneo",
+  "recomendaciones": "",
+  "variantes": [
+    "Se puede preparar con harina integral.",
+    "Añadir semillas de sésamo para decorar."
+  ],
+  "dificultad": "Media",
+  "duracion_aproximada": "3 horas",
+  "comensales": 6,
+  "observaciones": "Ideal para hacer en horno convencional. Para mejor corteza, vaporizar agua al principio de la cocción.",
+  "ocasion": ["cumpleaños", "celebraciones", "snack"]
+}

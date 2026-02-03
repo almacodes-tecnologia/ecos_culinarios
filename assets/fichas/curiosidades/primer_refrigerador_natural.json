@@ -1,0 +1,31 @@
+{
+    "id": "primer_refrigerador_natural",
+    "titulo": "El primer refrigerador natural",
+    "categoria": "Curiosidades del mundo",
+    "descripcion": [
+      "Antes de la invención de la refrigeración moderna, las civilizaciones antiguas usaban hielo y nieve para conservar alimentos y bebidas.",
+      "Se excavaban pozos de hielo o se almacenaba nieve en sótanos y cámaras subterráneas para mantener los alimentos frescos durante meses."
+    ],
+    "fecha_aproximada": "Antigüedad",
+    "origen": "Varias civilizaciones, incluyendo China, Persia y Europa",
+    "nota_divertida": "Algunos palacios imperiales tenían habitaciones especiales llamadas 'neveras' llenas de nieve traída de las montañas.",
+    "datos_adicionales": {
+      "uso_actual": "Hoy se usa principalmente como referencia histórica o en técnicas de conservación tradicionales en algunos lugares.",
+      "materiales": [
+        "hielo",
+        "nieve",
+        "sótanos o pozos"
+      ],
+      "funcionamiento": "El hielo y la nieve absorbían el calor y reducían la temperatura de los alimentos, retrasando la descomposición.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Estudios históricos sobre conservación de alimentos",
+      "Arqueología de técnicas de refrigeración antiguas"
+    ]
+  }
+  

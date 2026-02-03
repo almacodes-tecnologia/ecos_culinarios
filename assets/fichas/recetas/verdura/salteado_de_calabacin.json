@@ -1,0 +1,32 @@
+{
+  "id": "salteado_de_calabacin",
+  "nombre": "Salteado de Calabacín con Almendras y Eneldo",
+  "estilo": "Casero",
+  "categoria": "Verdura",
+  "imagen": "salteado_de_calabacin.webp",
+  "ingredientes": [
+    "2 unidades de Calabacín medianos",
+    "2 unidades de Cebolleta",
+    "3 unidades de Dientes de ajo",
+    "50 g de Almendra laminada o en bastones",
+    "10 g de Eneldo fresco o seco",
+    "Cantidad necesaria de Aceite de oliva virgen extra",
+    "Al gusto de Pimienta negra molida",
+    "Al gusto de Sal"
+  ],
+  "pasos": [
+    "Comienza lavando y secando los calabacines. Córtalos en medias lunas de aproximadamente 4-5 mm de grosor. Pela y lamina finamente los dientes de ajo. Corta las cebolletas en juliana fina.",
+    "En una sartén y sin añadir aceite, tuesta las almendras laminadas o en bastones a fuego medio. Remueve constantemente. Una vez que adquieran un ligero color dorado, retíralas de la sartén y resérvelo.",
+    "Calienta un poco de aceite en la misma sartén. Añade los ajos laminados y dóralos ligeramente. A continuación, incorpora la cebolleta cortada en juliana junto con una pizca de sal. Sofríe a fuego medio-bajo, hasta que la cebolleta se reduzca, se vuelva transparente.",
+    "Una vez lista la cebolleta, añade los calabacines a la sartén. Salpimenta al gusto. Saltea a fuego medio-alto durante no más de 10 minutos.",
+    "Finalmente, incorpora las almendras tostadas y el eneldo fresco o seco al salteado. Remueve para integrar todos los ingredientes y, si fuera necesario, ajusta el punto de sal o pimienta."
+  ],
+  "origen": "Casero",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "25min",
+  "comensales": 4,
+  "observaciones": "Un salteado de calabacín fresco y ligero, realzado con el dulzor de la cebolleta, el aroma del ajo y el toque crujiente de las almendras. Un plato rápido y saludable, perfecto como guarnición o cena ligera.",
+  "ocasion": ["Comida diaria / Guarnición / Cena ligera / Saludable"]
+}

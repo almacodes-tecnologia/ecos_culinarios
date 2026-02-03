@@ -1,0 +1,19 @@
+{
+  "id": "gratinar",
+  "nombre": "Gratinar",
+  "categoria": "coccion",
+  "descripcion": "Técnica de acabado que utiliza calor seco e intenso aplicado directamente sobre la parte superior de un plato. El objetivo es formar una costra dorada, crujiente y aromática mediante la caramelización de grasas o azúcares, transformando la textura de la capa superficial mientras el interior se mantiene jugoso.",
+  "imagen": "gratinar.webp",
+  "ingredientesRecomendados": [
+    "Quesos rallados (Emmental, Parmesano, Mozzarella)",
+    "Salsa Bechamel",
+    "Pan rallado con mantequilla o hierbas",
+    "Alioli (para pescados)",
+    "Azúcar (para cremas dulces o postres)"
+  ],
+  "precauciones": [
+    "Vigila el horno constantemente; el paso del dorado perfecto al quemado ocurre en cuestión de segundos debido a la intensidad del calor.",
+    "Asegúrate de que el recipiente sea apto para altas temperaturas y resistente a la función de 'grill' del horno.",
+    "Para un resultado uniforme, distribuye los ingredientes del gratinado de forma nivelada por toda la superficie del plato."
+  ]
+}

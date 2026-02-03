@@ -1,0 +1,19 @@
+{
+  "id": "infusionar",
+  "nombre": "Infusionar",
+  "categoria": "preparacion",
+  "descripcion": "Técnica que consiste en extraer las esencias, aromas y sabores de ingredientes sólidos (hierbas, especias, frutas o raíces) sumergiéndolos en un líquido caliente, pero sin que este llegue a hervir de forma prolongada. Este método permite capturar matices delicados que se perderían con una cocción agresiva.",
+  "imagen": "infusionar.webp",
+  "ingredientesRecomendados": [
+    "Leche o nata (con vainilla o canela)",
+    "Aceite de oliva (con ajos, guindilla o romero)",
+    "Agua (para tés y tisanas)",
+    "Almíbares (con pieles de cítricos)",
+    "Caldos (con hierbas frescas al final)"
+  ],
+  "precauciones": [
+    "No permitas que el líquido hierva violentamente con los ingredientes dentro, ya que esto puede extraer sabores amargos o quemar los aceites esenciales.",
+    "Controla el tiempo de contacto; si se deja demasiado tiempo, algunas especias (como el clavo o el anís) pueden dominar por completo el sabor del plato.",
+    "Si infusionas aceites caseros con ingredientes frescos (como ajo), consérvalos en la nevera y consúmelos pronto para evitar riesgos alimentarios."
+  ]
+}

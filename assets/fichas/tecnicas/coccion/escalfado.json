@@ -1,0 +1,17 @@
+{
+  "id": "escalfado",
+  "nombre": "Escalfado",
+  "categoria": "coccion",
+  "descripcion": "Cocinar un alimento sumergiéndolo suavemente en un líquido (agua, caldo, leche) a una temperatura constante y baja, justo por debajo del punto de ebullición. Es ideal para alimentos delicados.",
+  "imagen": "escalfado.webp",
+  "ingredientesRecomendados": [
+    "Huevos",
+    "Pechuga de pollo",
+    "Pescado (salmón)",
+    "Frutas (peras)"
+  ],
+  "precauciones": [
+    "Mantén la temperatura del líquido baja y sin que hierva de forma vigorosa.",
+    "No agites el líquido para no dañar los alimentos."
+  ]
+}

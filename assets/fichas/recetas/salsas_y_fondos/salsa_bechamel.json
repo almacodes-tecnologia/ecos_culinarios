@@ -1,0 +1,29 @@
+{
+  "id": "salsa_bechamel",
+  "nombre": "Salsa bechamel",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "salsa_bechamel.webp",
+  "ingredientes": [
+    "120 gr de Mantequilla",
+    "120 gr de Harina blanca",
+    "1 litro de Leche",
+    "al gusto de Sal",
+    "al gusto de Pimienta"
+  ],
+  "pasos": [
+    "Comienza por fundir la mantequilla en una olla a fuego medio.",
+    "Una vez fundida, añade la harina. Remueve enérgicamente durante un minuto aproximadamente para cocinar la harina y formar un roux blanco.",
+    "Calienta la leche en otro cazo. No es necesario que hierva, solo que esté bien caliente.",
+    "Vuelve a calentar el roux ligeramente y, de una sola vez, vierte la leche caliente sobre él y removiendo constantemente.",
+    "Sazona la bechamel con sal y pimienta negra al gusto. Continúa removiendo a fuego medio hasta que la salsa empiece a hervir suavemente y veas cómo cuaja y espesa hasta alcanzar la consistencia deseada."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "10min",
+  "comensales": 0,
+  "observaciones": "Una de las salsas madre de la cocina francesa, la bechamel es cremosa y suave, ideal para gratinar, cubrir lasañas, croquetas y multitud de platos.",
+  "ocasion": ["Base de Cocina / Condimento"]
+}

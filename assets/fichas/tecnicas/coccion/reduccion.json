@@ -1,0 +1,19 @@
+{
+  "id": "reduccion",
+  "nombre": "Reducción",
+  "categoria": "preparacion",
+  "descripcion": "Proceso de espesamiento y concentración de sabores de un líquido (caldos, salsas, jugos o vinos) mediante una ebullición lenta y controlada. Al evaporarse el agua, los azúcares, proteínas y aromas se concentran, dando como resultado un líquido más denso, brillante y con un sabor mucho más intenso.",
+  "imagen": "reduccion.webp",
+  "ingredientesRecomendados": [
+    "Vino tinto o blanco",
+    "Caldo de carne (para obtener un fondo oscuro)",
+    "Vinagre balsámico",
+    "Nata o cremas",
+    "Salsas de frutas"
+  ],
+  "precauciones": [
+    "Vigila el punto de sal; al reducirse el líquido, la sal se concentra y el resultado puede quedar excesivamente salado si se saló al principio.",
+    "Utiliza un fuego medio-bajo y constante; una ebullición demasiado violenta puede quemar los azúcares en los bordes del cazo y dar un sabor amargo.",
+    "Ten en cuenta que la salsa espesará aún más al enfriarse, por lo que debes retirarla del fuego justo antes de alcanzar la densidad deseada."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "patatas_huecas",
+  "nombre": "Patatas Huecas",
+  "estilo": "Casero",
+  "categoria": "Patatas",
+  "imagen": "patatas_huecas.webp",
+  "ingredientes": [
+    "500 gr de Puré de patatas",
+    "Cantidad necesaria de Harina de trigo",
+    "1 unidad de Huevo",
+    "Sal al gusto",
+    "Perejil fresco, picado al gusto",
+    "Cantidad necesaria de Aceite para freír"
+  ],
+  "pasos": [
+    "Prepara un puré de patatas y sazónalo con sal y perejil picado. Es crucial que el puré esté completamente frío antes de mezclarlo con el resto de ingredientes.",
+    "En un bol amplio, añade al puré de patatas el huevo y la harina. La cantidad de harina dependerá de la consistencia del puré; añade poco a poco hasta que la masa sea maleable y no se pegue en exceso a las manos.",
+    "Con la masa lista, forma pequeñas bolitas o la forma deseada para las patatas. No es necesario que queden 'huecas' en este paso, la cocción les dará esa característica.",
+    "Calienta abundante aceite en una sartén a fuego medio-alto. Una vez el aceite esté caliente, introduce las patatas en tandas, evitando sobrecargar la sartén.",
+    "Fríe las patatas hasta que estén doradas y crujientes por fuera, y cocidas por dentro. Al morderlas, deberían tener una textura suave en el interior.",
+    "Retira las patatas fritas y colócalas sobre papel absorbente para eliminar el exceso de aceite. Sirve inmediatamente."
+  ],
+  "origen": "Casero / Tradicional",
+  "recomendaciones": null,
+  "variantes": ["Quedan también muy bien, si una vez cocida la patata, en lugar de hacer un puré tradicional, las aplastamos con el tenedor."],
+  "dificultad": "Media",
+  "duracion_aproximada": "45min",
+  "comensales": 4,
+  "observaciones": "Una forma original y deliciosa de disfrutar las patatas, estas 'patatas huecas' son crujientes por fuera y suaves por dentro. Perfectas como guarnición o aperitivo.",
+  "ocasion": ["Aperitivo / Guarnición / Cena informal"]
+}

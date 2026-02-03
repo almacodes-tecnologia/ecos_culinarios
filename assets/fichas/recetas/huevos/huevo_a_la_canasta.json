@@ -1,0 +1,34 @@
+{
+  "id": "huevo_a_la_canasta",
+  "nombre": "Huevo a la Canasta",
+  "estilo": "Práctico / Clásico",
+  "categoria": "Huevo",
+  "imagen": "huevo_a_la_canasta.webp",
+  "ingredientes": [
+    "1 Rebanada de pan de molde grueso",
+    "1 Huevo",
+    "15 g de Mantequilla",
+    "Sal",
+    "Pimienta negra"
+  ],
+  "pasos": [
+    "Utiliza un cortador circular o un vaso pequeño para presionar el centro de la rebanada de pan y extraer un círculo de miga, dejando un hueco en la pieza principal.",
+    "Calienta una sartén a fuego medio y añade la mantequilla. Una vez derretida, coloca tanto la rebanada agujereada como el círculo de miga para que se doren.",
+    "Añade el huevo con cuidado, vertiéndolo directamente en el centro.",
+    "Condimenta con sal y pimienta al gusto. Cocina durante unos minutos, hasta que la base del pan esté tostada y la clara del huevo empiece a verse blanca y cuajada. Se recomienda tapar la sarten para que el huevo se cocine perfectamente.",
+    "Con una espátula ancha, da la vuelta con cuidado a la rebanada de pan (y al círculo de miga) para cocinar el otro lado.",
+    "Cocina por 1 o 2 minutos adicionales dependiendo de qué tan líquida prefieras la yema, retira del fuego y sirve inmediatamente."
+  ],
+  "origen": "Internacional",
+  "recomendaciones": "Usa el pequeño círculo de pan tostado para mojar la yema del huevo una vez servido.",
+  "variantes": [
+    "Con queso parmesano espolvoreado en los bordes",
+    "Con una loncha de bacon crujiente por encima",
+    "Versión con pan integral o de semillas"
+  ],
+  "dificultad": "Baja",
+  "duracion_aproximada": "10min",
+  "comensales": 1,
+  "observaciones": "Un plato icónico y sencillo donde el pan se tuesta en mantequilla al mismo tiempo que el huevo se cocina en su interior. Es visualmente muy atractivo y perfecto para niños y adultos.",
+  "ocasion": ["Desayuno / Brunch / Cena"]
+}

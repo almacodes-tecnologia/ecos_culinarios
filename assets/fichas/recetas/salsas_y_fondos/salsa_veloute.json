@@ -1,0 +1,31 @@
+{
+  "id": "salsa_veloute",
+  "nombre": "Salsa velouté (semi ligera)",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "salsa_veloute.webp",
+  "ingredientes": [
+    "50 gr de Mantequilla",
+    "50 gr de Harina blanca",
+    "500 ml de Fondo de marisco",
+    "al gusto de Sal",
+    "al gusto de Pimienta blanca",
+    "al gusto de Nuez moscada"
+  ],
+  "pasos": [
+    "Comienza por fundir la mantequilla en una olla.",
+    "Una vez fundida, añade la harina. Remueve energicamente, hasta obtener un roux rubio.",
+    "Retira el roux del fuego y déjalo atemperar ligeramente. Luego, vuelve a calentarlo a fuego suave justo antes de añadir el líquido.",
+    "Vierte el fondo de marisco y disuelve el roux enérgicamente.",
+    "Sazona la velouté con sal, pimienta negra y dale un toque de nuez moscada.",
+    "Continúa calentando la salsa a fuego suave, removiendo constantemente, hasta que obtenga la textura deseada. Debe ser una salsa fina y homogénea, que nape el dorso de una cuchara."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "15min",
+  "comensales": 0,
+  "observaciones": "Una de las salsas madre clásicas de la cocina francesa, esta velouté ligera a base de fondo de marisco es perfecta para acompañar pescados, mariscos y verduras, aportando suavidad y sabor.",
+  "ocasion": ["Condimento / Base de Cocina"]
+}

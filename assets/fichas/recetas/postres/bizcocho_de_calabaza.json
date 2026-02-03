@@ -1,0 +1,43 @@
+{
+  "id": "bizcocho_de_calabaza",
+  "nombre": "Bizcocho de Calabaza",
+  "estilo": "Casera",
+  "categoria": "Postres",
+  "imagen": "bizcocho_de_calabaza.webp",
+  "ingredientes": [
+    "3 de Huevos",
+    "1 de Yogur natural",
+    "3 medidas de yogur de Harina",
+    "2 medidas de yogur de Azúcar",
+    "1 medidas de yogur de Aceite de oliva",
+    "1 sobre (16 gr) de Levadura",
+    "para huntar el molde de Mantequilla",
+    "300 gr de Calabaza",
+    "medio (ralladura) de Limón",
+    "al gusto de Jengibre fresco"
+  ],
+  "pasos": [
+    "Las calabazas son a veces complicadas de manejar porque son muy duras, sobre todo su piel, pero aquí tienes el truco definitivo! Parte los 300 gr de calabaza en 2 o 3 partes, colócalos en un recipiente con tapadera (o que puedas cubrir con papel film) e introduce en el microondas durante 3 minutos.",
+    "Saca la calabaza del microondas, y con cuidado de no quemarte, verás lo facilísimo que es quitarle la piel, ya que estará blandita e incluso tirando de ella la podrás sacar prácticamente entera. Pela la calabaza, córtala en trocitos y vuélvela a introducir al microondas en ese recipiente tapado durante 5 minutos. Si al cabo de ese tiempo no está totalmente blanda y tierna, vuelve a introducir unos minutos más.",
+    "Aplasta la calabaza con un tenedor o cualquier otra herramienta como si fuera puré en caso de que te guste así, o desmenúzala un poquito si prefieres encontrar trozos más grandes dentro del bizcocho.",
+    "Vacía el yogur en un pequeño bol para poder utilizar su recipiente desde el primer momento.",
+    "Precalienta el horno a 180º durante estos 1o minutos que vas a dedicar aproximadamente a elaborar la masa.",
+    "En un bol grande, añade las dos medidas de azúcar y los huevos, y bátelos enérgitamente, mejor con unas varillas o una cuchara.",
+    "Añade el aceite y el yogur, y sigue batiendo para que la mezcla quede homogénea, sin grumos. Ralla muy finita la piel de medio limón y añádela.",
+    "Ahora, sitúa un colador justo encima del bol y ve añadiendo las medidas de levadura y harina, de forma que pasen por el colador. A este proceso se le llama tamizado, y permite que estos alimentos secos se añadan a la mezcla sin grumos ni apelmazamientos, viene genial para que todo se mezcle bien. Termina de mezclarlo todo, que queden perfectamente integrados todos los alimentos.",
+    "Pela el jengibre fresco y rállalo, e incorpóralo junto con el puré de calabaza a la mezcla del bizcocho, y remueve suavemente.",
+    "Forra el molde con papel de horno o úntalo con un poquito de mantequilla, impregnando la base y las paredes, y vierte la masa en el molde. Si quieres que te quede tan finito como a nosotros, deberás utilizar dos moldes y dividir la masa entre ellos.",
+    "Coloca la bandeja en el horno, a una altura media, y mantén esa temperatura de 180º durante unos 25 minutos. Este es el verdadero truco, no dejarlo más de 25 minutos en el horno, para que las paredes apenas se doren, y el interior esté muy muy jugoso incluso días después.",
+    "Haz la prueba del palillo: pincha con un palillo el bizcocho, y si sale sin restos pegados, es que está listo. Apaga el horno, saca el bizcocho y déjalo reposar al menos 10-15 minutos antes de desmoldarlo."
+  ],
+  "origen": "Internacional / Casera",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "45min",
+  "comensales": 8,
+  "observaciones": "Un bizcocho increíblemente jugoso y aromático, perfecto para el otoño. La calabaza le aporta una textura suave y un dulzor natural, complementado con el toque cítrico del limón y el punto especiado del jengibre.",
+  "ocasion": [
+    "Desayuno / Merienda / Postre"
+  ]
+}

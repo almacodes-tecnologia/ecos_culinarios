@@ -1,0 +1,34 @@
+{
+  "id": "carrilleras_guisadas",
+  "nombre": "Carrilleras Guisadas",
+  "estilo": "Tradicional",
+  "categoria": "Carnes",
+  "imagen": "carrilleras_guisadas.webp",
+  "ingredientes": [
+    "4 Carrilleras",
+    "Sal",
+    "Harina",
+    "1/4 de Cebolla",
+    "1 Tomate",
+    "1/2 vaso de Vino tinto",
+    "Agua",
+    "Cantidad necesaria de Aceite de oliva"
+  ],
+  "pasos": [
+    "Comienza por salar las carrilleras y pásalas ligeramente por harina. Calienta un poco de aceite en una sartén y márcalas por todos sus lados, hasta que estén doradas. Este sellado es clave para que los jugos se queden dentro. Una vez marcadas, pásalas a una olla.",
+    "En la misma sartén donde has marcado las carrilleras, aprovecha el aceite y los jugos para sofreír un cuarto de cebolla finamente picada y un tomate pelado y troceado. Cocina a fuego suave hasta que la cebolla esté transparente y el tomate haya soltado su jugo.",
+    "Cuando el sofrito esté listo, incorpóralo a la olla junto con las carrilleras.",
+    "Vierte medio vaso de vino tinto y luego añade agua hasta cubrir completamente las carrilleras. El líquido debe cubrirlas bien para que se cocinen de forma uniforme y queden jugosas.",
+    "Cocinar al a fuego medio durante 1 hora o 1 hora y media.",
+    "Durante la cocción, si observas que el líquido se reduce demasiado y las carrilleras no están completamente sumergidas, puedes añadir un poco más de agua caliente.",
+    "Continúa la cocción durante 30 minutos más, o hasta que las carrilleras estén tan blandas que puedas desmenuzarlas fácilmente con un tenedor."
+  ],
+  "origen": "Tradicional Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "2h 30min",
+  "comensales": 4,
+  "observaciones": "Un plato tradicional de carrilleras guisadas, tiernas y melosas, cocinadas a fuego lento en su propia salsa. Perfectas para una comida reconfortante.",
+  "ocasion": ["Comida Especial / Fin de Semana"]
+}

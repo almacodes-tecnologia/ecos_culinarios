@@ -1,0 +1,16 @@
+{
+  "id": "corte_mirepoix",
+  "nombre": "Corte Mirepoix",
+  "categoria": "corte",
+  "descripcion": "Corte de vegetales en dados medianos (aprox. 1-2 cm), usado principalmente como base aromática para caldos, sopas y estofados.",
+  "imagen": "corte_mirepoix.webp",
+  "ingredientesRecomendados": [
+    "Cebolla",
+    "Zanahoria",
+    "Apio"
+  ],
+  "precauciones": [
+    "La proporción clásica es 2 partes de cebolla por 1 de zanahoria y 1 de apio.",
+    "No es necesario que los dados sean perfectos, pero sí uniformes."
+  ]
+}

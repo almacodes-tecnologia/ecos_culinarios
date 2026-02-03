@@ -1,0 +1,32 @@
+{
+    "id": "cerveza_mas_antigua",
+    "titulo": "La cerveza más antigua del mundo",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "Se han encontrado restos de cerveza de hace más de 5000 años en Mesopotamia, considerada una de las primeras bebidas alcohólicas de la humanidad.",
+      "La cerveza era consumida como alimento, bebida ritual y pago a trabajadores en la antigüedad."
+    ],
+    "fecha_aproximada": "Alrededor del 3000 a.C.",
+    "origen": "Mesopotamia (actual Irak)",
+    "nota_divertida": "En algunos templos, la cerveza se ofrecía a los dioses y se utilizaba como forma de salario, ¡el primer 'pago líquido' de la historia!",
+    "datos_adicionales": {
+      "uso_actual": "La cerveza sigue siendo una bebida popular y culturalmente significativa en todo el mundo.",
+      "materiales": [
+        "cebada",
+        "trigo",
+        "agua",
+        "levadura"
+      ],
+      "funcionamiento": "Se obtiene por fermentación alcohólica de cereales malteados, proceso descubierto hace milenios.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Investigaciones arqueológicas sobre cerveza antigua",
+      "Libros de historia de bebidas"
+    ]
+  }
+  

@@ -1,0 +1,35 @@
+{
+  "id": "lentejas_con_jamon",
+  "nombre": "Lentejas con jamon",
+  "estilo": "Tradicional",
+  "categoria": "Legumbres",
+  "imagen": "lentejas_con_jamon.webp",
+  "ingredientes": [
+    "Lentejas",
+    "Agua",
+    "2 rodajas de Cebolla",
+    "Ajos",
+    "Tacos de jamón serrano",
+    "Aceite",
+    "Sal",
+    "1/4 (520) de Pastilla Avecrem",
+    "1 cucharada de Arroz"
+  ],
+  "pasos": [
+    "Para empezar, lava las lentejas, al menos tres veces. Esto ayuda a eliminar impurezas y asegura una cocción más limpia. Una vez lavadas, ponlas en una olla de fondo grueso.",
+    "Cubre las lentejas con agua (aproximadamente hasta la mitad de la olla).",
+    "Añade a la olla dos rodajas de cebolla, unos dientes de ajo pelados, unos tacos de jamón y un chorro de aceite de oliva.",
+    "Lleva la olla a fuego medio y cocina unos 40 minutos.",
+    "Añade sal al gusto y un cuarto de pastilla de Avecrem (o tu caldo concentrado).",
+    "Incorpora dos cucharadas de arroz. Añade más agua si es necesario.",
+    "Continúa la cocción a fuego suave, removiendo suavemente cada 5 minutos para evitar que las lentejas se peguen al fondo de la olla. Cocina durante 20 minutos."
+  ],
+  "origen": "Tradicional Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "1h 00min",
+  "comensales": 2,
+  "observaciones": "Un plato casero y nutritivo, estas lentejas con jamón son un clásico reconfortante de la cocina tradicional, perfectas para un día frío.",
+  "ocasion": ["Comida Diaria / Invierno"]
+}

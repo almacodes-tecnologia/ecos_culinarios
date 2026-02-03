@@ -1,0 +1,18 @@
+{
+  "id": "filetear",
+  "nombre": "Filetear",
+  "categoria": "corte",
+  "descripcion": "Técnica que consiste en cortar piezas de carne, pescado o aves en láminas o filetes de grosor uniforme. El objetivo es separar la proteína del hueso o espina de forma limpia y precisa, siguiendo las fibras del alimento para garantizar una textura tierna tras la cocción.",
+  "imagen": "filetear.webp",
+  "ingredientesRecomendados": [
+    "Pescados enteros (lenguado, salmón, dorada)",
+    "Pechuga de pollo o pavo",
+    "Lomo de ternera o cerdo",
+    "Grandes piezas de carne para carpaccio"
+  ],
+  "precauciones": [
+    "Es imprescindible el uso de un cuchillo fileteador: de hoja larga, delgada y, en el caso del pescado, flexible.",
+    "Mantén siempre la mano que sujeta el alimento plana y por encima de la trayectoria del cuchillo para evitar cortes.",
+    "Realiza movimientos largos y fluidos en lugar de cortes tipo 'sierra' para no desgarrar la carne."
+  ]
+}

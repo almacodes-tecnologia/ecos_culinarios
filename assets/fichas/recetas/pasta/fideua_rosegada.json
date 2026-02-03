@@ -1,0 +1,36 @@
+{
+  "id": "fideua_rosegada",
+  "nombre": "Fideua Rosegada",
+  "estilo": "Tradicional",
+  "categoria": "Pasta",
+  "imagen": "fideua_rosegada.webp",
+  "ingredientes": [
+    "450 gr de Fideos especiales fideua",
+    "740 gr de Caldo de pescado",
+    "100 gr de Salsa de tomate",
+    "100 gr de Sepia",
+    "80 gr de Gambas",
+    "80 gr de Langostinos",
+    "225 gr de Cigala",
+    "100 gr de Almejas",
+    "100 gr de Mejillón",
+    "120 gr de Aceite de oliva"
+  ],
+  "pasos": [
+    "Comienza calentando el aceite de oliva en tu paellera.",
+    "Una vez el aceite esté caliente, añade la sepia limpia y troceada. Rehógala bien hasta que esté tierna y haya soltado todos sus jugos.",
+    "A continuación, incorpora la salsa de tomate a la paellera y sofríe el conjunto junto con la sepia. Deja que el tomate se cocine y se concentre.",
+    "Añade los fideos directamente al sofrito y tuéstalos. Remueve constantemente hasta que adquieran un color dorado intenso.",
+    "Una vez los fideos estén bien tostados, vierte el caldo. Deja que hierva y luego cocina durante unos 15 minutos.",
+    "A mitad de la cocción de los fideos, o cuando queden unos 5 minutos, añade el resto de los alimentos.",
+    "Introduce la paellera en el horno precalentado a 180°C y cocina durante unos 5 minutos."
+  ],
+  "origen": "Valenciana",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "35min",
+  "comensales": 4,
+  "observaciones": "Una versión auténtica de la fideuá valenciana con un toque 'rosegat' o tostado en el fondo, repleta de sabor a marisco y con fideos crujientes. Un plato festivo y delicioso.",
+  "ocasion": ["Comida Familiar / Celebración"]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sellado",
+  "nombre": "Sellado",
+  "categoria": "coccion",
+  "descripcion": "Técnica que consiste en cocinar la superficie de un alimento (generalmente carne) a una temperatura muy alta en poco tiempo. El objetivo es provocar la Reacción de Maillard para crear una costra dorada y sabrosa que potencia el aroma y el sabor, sin cocinar el interior de la pieza.",
+  "imagen": "sellado.webp",
+  "ingredientesRecomendados": [
+    "Chuletón o filetes de ternera",
+    "Pechugas de pato (magret)",
+    "Atún o salmón",
+    "Vieiras",
+    "Solomillo de cerdo"
+  ],
+  "precauciones": [
+    "Asegúrate de que la sartén o plancha esté extremadamente caliente antes de añadir el alimento.",
+    "Seca bien la superficie del alimento con papel de cocina; la humedad crea vapor e impide que se forme la costra crujiente.",
+    "No amontones demasiadas piezas a la vez, ya que esto bajará la temperatura de la sartén y el alimento soltará jugos en lugar de sellarse."
+  ]
+}

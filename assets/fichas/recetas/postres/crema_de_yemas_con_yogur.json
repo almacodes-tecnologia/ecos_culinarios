@@ -1,0 +1,40 @@
+{
+  "id": "crema_de_yemas_con_yogur",
+  "nombre": "Crema de Yemas y Yogur",
+  "estilo": "Capricho Dulce",
+  "categoria": "Postres",
+  "imagen": "crema_yemas_yogur.webp",
+  "ingredientes": [
+    "2 Yemas de huevo",
+    "60 gr de Azúcar",
+    "50 gr de Harina",
+    "1 Yogur natural",
+    "media cucharadita de Levadura química (opcional)"
+  ],
+  "pasos": [
+    "En un bol, batimos las dos yemas con el azúcar con energía hasta que la mezcla blanquee y adquiera una textura cremosa.",
+    "Añadimos el yogur natural a la crema de yemas y mezclamos bien hasta que esté completamente integrado.",
+    "Incorporamos la harina (y la levadura si decides usarla) poco a poco, mezclando con suavidad para evitar grumos hasta obtener una masa homogénea.",
+    "Preparamos el baño maría: colocamos el bol sobre un cazo con agua caliente (que tenga burbujas suaves, pero que no llegue a hervir fuerte). El calor debe ser constante pero indirecto.",
+    "Cocinamos la mezcla removiendo sin parar, prestando especial atención al fondo del bol para que no se pegue. El proceso tardará entre 8 y 12 minutos.",
+    "Sabrás que está lista (normalmente a los 5-6 minutos de calor) cuando la crema espese, cubra la cuchara y, al pasar el dedo por el dorso de la misma, el surco quede marcado perfectamente.",
+    "Si ves que espesa demasiado rápido o temes que cuaje, retira el bol del calor unos 10-15 segundos mientras sigues removiendo, y luego vuelve a colocarlo.",
+    "Una vez fuera del fuego, deja que se asiente. Si no la vas a consumir al momento, puedes taparla con papel film 'a piel' (tocando la superficie) para evitar que se forme costra.",
+    "Si prefieres la versión horneada para una textura más densa tipo bizcocho húmedo, vierte la masa en un molde y hornea a 170 °C durante 20-25 minutos."
+  ],
+  "origen": "Tradicional",
+  "recomendaciones": "El punto ideal es consumirla templada, unos 10-15 minutos después del baño maría, cuando el sabor de la yema es más intenso y el yogur aporta su máximo equilibrio.",
+  "variantes": [
+    "Fría de nevera: Déjala reposar 2 horas para una textura más firme y refrescante.",
+    "Si al enfriarse queda demasiado densa, añade una o dos cucharadas de yogur extra y remueve bien para recuperar la cremosidad."
+  ],
+  "dificultad": "Media",
+  "duracion_approx": "15min",
+  "comensales": 2,
+  "observaciones": "Es fundamental no dejar que la mezcla hierva durante el baño maría para evitar que la yema cuaje y aparezcan grumos indeseados.",
+  "ocasion": [
+    "Merienda",
+    "Postre",
+    "Capricho"
+  ]
+}

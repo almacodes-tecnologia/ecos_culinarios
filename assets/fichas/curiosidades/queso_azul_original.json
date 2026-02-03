@@ -1,0 +1,30 @@
+{
+    "id": "queso_azul_original",
+    "titulo": "El queso azul: un accidente delicioso",
+    "categoria": "Curiosidades del mundo",
+    "descripcion": [
+      "El queso azul surgió por casualidad al dejar leche expuesta a mohos naturales en cuevas de Europa.",
+      "El moho genera vetas azules que le dan su sabor intenso y aroma característico, apreciado en la gastronomía desde hace siglos."
+    ],
+    "fecha_aproximada": "Edad Media",
+    "origen": "Europa (Francia e Italia principalmente)",
+    "nota_divertida": "El primer queso azul pudo haber sido simplemente un error de almacenamiento en cuevas húmedas, ¡pero qué error tan sabroso!",
+    "datos_adicionales": {
+      "uso_actual": "Se utiliza en ensaladas, salsas y aperitivos gourmet en todo el mundo.",
+      "materiales": [
+        "leche de vaca, oveja o cabra",
+        "moho Penicillium"
+      ],
+      "funcionamiento": "El moho se introduce en la leche o el queso y genera vetas azules durante la maduración, aportando sabor y aroma únicos.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Estudios sobre quesos tradicionales europeos",
+      "Libros de historia de la gastronomía"
+    ]
+  }
+  

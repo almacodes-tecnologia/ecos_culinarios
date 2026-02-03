@@ -1,0 +1,36 @@
+{
+  "id": "paella_mixta",
+  "nombre": "Paella Mixta",
+  "estilo": "Tradicional",
+  "categoria": "Arroces",
+  "imagen": "paella_mixta.webp",
+  "ingredientes": [
+    "Medio vaso de Arroz",
+    "2 Tomates",
+    "100 gramos de Calabacin",
+    "100 gramos de Cebolla",
+    "Una pizca de Azafrán o cúrcuma",
+    "1/4 pastilla de Avecrem (opcional)",
+    "Una pizca de Pimentón dulce",
+    "2 Muslos de pollo deshuesado",
+    "6 Costillas",
+    "Una pizca de Sal"
+  ],
+  "pasos": [
+    "Comienza por sazonar con sal las costillas y los muslos de pollo deshuesados. Calienta un buen chorro de aceite en tu paella o sartén grande a fuego alto y dora la carne por todos sus lados. La clave es conseguir un buen sellado que aporte sabor. Una vez dorada, retira la carne y resérvala.",
+    "Mientras la carne se dora, aprovecha para pelar los tomates, el calabacín y la cebolla. Pícalos muy finos; cuanto más pequeños, mejor se integrarán en el sofrito y menos notarás su textura final.",
+    "En la misma paella donde doraste la carne, y aprovechando los jugos que ha dejado, sofríe las verduras picadas a fuego lento. Este paso es fundamental para que queden tiernas y liberen todo su dulzor, creando la base de sabor de nuestro arroz.",
+    "Cuando las verduras estén bien pochadas y transparentes, incorpora la carne que tenías reservada al sofrito. Remueve bien para que la carne se impregne de los aromas de las verduras y se caliente nuevamente.",
+    "Añade el arroz a la paella y remueve un par de minutos para que se nacare y absorba los sabores. Luego, vierte el agua, calculando siempre el doble de volumen que de arroz. En este punto, añade también la sal (prueba el caldo para ajustar), el azafrán o la cúrcuma para el color y el aroma, y la pastilla de Avecrem si quieres usarla.",
+    "Cocina la paella a fuego medio durante 15 minutos. Es importante que la vigiles y remuevas de vez en cuando, para evitar que el arroz se pegue al fondo y para que suelte su almidón, lo que le dará una textura perfecta. Si durante la cocción notas que el arroz se seca demasiado o prefieres una paella más jugosa, no dudes en añadir un poco más de agua caliente.",
+    "Añade el pimentón asegurándote de remover bien para que quede perfectamente integrado. Dejar cociendo 5 minutos más."
+  ],
+  "origen": "Mediterránea",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "40min",
+  "comensales": 2,
+  "observaciones": "Una deliciosa paella mixta, con la combinación perfecta de carne, verdura y el toque tradicional del arroz seco. Un clásico para disfrutar en cualquier momento.",
+  "ocasion": ["Comida Diaria"]
+}

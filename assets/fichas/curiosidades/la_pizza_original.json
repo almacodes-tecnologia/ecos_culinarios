@@ -1,0 +1,33 @@
+{
+    "id": "la_pizza_original",
+    "titulo": "La pizza: del pan plano napolitano a la fama mundial",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "La pizza comenzó como un pan plano sencillo en Nápoles, cubierto con aceite, ajo y hierbas, consumido principalmente por la clase trabajadora.",
+      "La adición de tomate y queso llegó después, consolidando la receta clásica que hoy conocemos como pizza napolitana."
+    ],
+    "fecha_aproximada": "Siglo XVIII",
+    "origen": "Nápoles, Italia",
+    "nota_divertida": "El nombre 'pizza' apareció por primera vez en documentos italianos en 997, ¡y no llevaba ni salsa de tomate ni queso!",
+    "datos_adicionales": {
+      "uso_actual": "La pizza es uno de los platos más populares del mundo, con miles de variantes regionales y locales.",
+      "materiales": [
+        "masa de harina",
+        "tomate",
+        "queso",
+        "aceite de oliva",
+        "hierbas"
+      ],
+      "funcionamiento": "Se prepara extendiendo la masa, agregando ingredientes y horneando a alta temperatura para obtener un pan crujiente con cobertura sabrosa.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Libros de historia de la gastronomía italiana",
+      "Archivos históricos de Nápoles"
+    ]
+  }
+  

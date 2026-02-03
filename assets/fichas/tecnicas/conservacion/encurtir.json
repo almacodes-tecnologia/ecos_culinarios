@@ -1,0 +1,19 @@
+{
+  "id": "encurtir",
+  "nombre": "Encurtir",
+  "categoria": "conservacion",
+  "descripcion": "Proceso de preservación de alimentos sumergiéndolos en una solución ácida, generalmente vinagre, junto con sal y especias. Esta técnica no solo prolonga la vida útil del ingrediente, sino que transforma su textura (volviéndola más crujiente) y su sabor, aportando notas ácidas y aromáticas que equilibran platos grasos.",
+  "imagen": "encurtir.webp",
+  "ingredientesRecomendados": [
+    "Cebolla morada",
+    "Pepinillos",
+    "Rabanitos",
+    "Zanahorias",
+    "Chiles o guindillas"
+  ],
+  "precauciones": [
+    "Utiliza siempre recipientes de vidrio previamente esterilizados para evitar la proliferación de bacterias.",
+    "Asegúrate de que la proporción de vinagre y sal sea la adecuada para garantizar la seguridad alimentaria del conservante.",
+    "Mantén los frascos en un lugar fresco y oscuro, o en la nevera si el encurtido es de consumo rápido (encurtido 'de nevera')."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "torneado",
+  "nombre": "Torneado",
+  "categoria": "corte",
+  "descripcion": "Técnica de corte clásica de la cocina francesa que consiste en dar una forma ovalada y regular a las hortalizas (similar a un pequeño balón de rugby). Tradicionalmente, se deben conseguir 7 caras iguales y extremos puntiagudos, lo que permite una cocción uniforme y una presentación de alta cocina.",
+  "imagen": "torneado.webp",
+  "ingredientesRecomendados": [
+    "Patatas",
+    "Zanahorias",
+    "Calabacines",
+    "Nabos",
+    "Alcachofas (el fondo)"
+  ],
+  "precauciones": [
+    "Utiliza un cuchillo puntilla (cuchillo pequeño de oficio) con la hoja ligeramente curva si es posible.",
+    "Requiere mucha práctica para que todas las piezas tengan el mismo tamaño y forma para una cocción simultánea.",
+    "Genera bastante desperdicio de producto; se recomienda guardar los recortes para purés, cremas o caldos."
+  ]
+}

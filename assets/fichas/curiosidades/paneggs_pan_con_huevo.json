@@ -1,0 +1,32 @@
+{
+    "id": "paneggs_pan_con_huevo",
+    "titulo": "Paneggs: pan con huevo dentro",
+    "categoria": "Curiosidades del mundo",
+    "descripcion": [
+      "Durante la Edad Media, se elaboraba un pan especial que contenía un huevo cocido dentro, conocido como Paneggs.",
+      "Esta técnica permitía conservar el huevo durante más tiempo y transportarlo fácilmente."
+    ],
+    "fecha_aproximada": "Edad Media",
+    "origen": "Europa",
+    "nota_divertida": "Era tan práctico que los viajeros lo llevaban como un alimento portátil y nutritivo para largas jornadas.",
+    "datos_adicionales": {
+      "uso_actual": "Hoy se encuentra principalmente en festivales históricos o recetas tradicionales europeas.",
+      "materiales": [
+        "harina",
+        "huevo",
+        "agua",
+        "levadura"
+      ],
+      "funcionamiento": "Se prepara colocando un huevo cocido dentro de la masa antes de hornear, asegurando que el huevo quede cocido y protegido.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Libros de historia de la gastronomía europea",
+      "Recetas medievales documentadas"
+    ]
+  }
+  

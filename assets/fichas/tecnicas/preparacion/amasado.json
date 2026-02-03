@@ -1,0 +1,19 @@
+{
+  "id": "amasado",
+  "nombre": "Amasado",
+  "categoria": "preparacion",
+  "descripcion": "Técnica fundamental en panadería y repostería que consiste en trabajar una mezcla de harina y líquido (agua, leche o huevos). Este proceso permite desarrollar la red de gluten, lo que otorga elasticidad y estructura a la masa, permitiendo que esta retenga el gas producido durante la fermentación y resulte en una textura esponjosa.",
+  "imagen": "amasado.webp",
+  "ingredientesRecomendados": [
+    "Harina de trigo (fuerza o panificable)",
+    "Masa para pizza",
+    "Pan artesanal",
+    "Pasta fresca",
+    "Bollería (brioche, roscón)"
+  ],
+  "precauciones": [
+    "Evita añadir harina en exceso durante el proceso; una masa demasiado seca resultará en un producto final pesado y duro.",
+    "Respeta los tiempos de reposo (autólisis); el descanso permite que las fibras de gluten se relajen y la masa sea más fácil de manejar.",
+    "Si usas amasadora mecánica, vigila la temperatura de la masa, ya que la fricción excesiva puede calentar la levadura y arruinar la fermentación."
+  ]
+}

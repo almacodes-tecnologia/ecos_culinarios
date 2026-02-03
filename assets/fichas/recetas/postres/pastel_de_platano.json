@@ -1,0 +1,32 @@
+{
+  "id": "pastel_de_platano",
+  "nombre": "Pastel de Plátano",
+  "estilo": "Saludable",
+  "categoria": "Postres",
+  "imagen": "pastel_de_platano.webp",
+  "ingredientes": [
+    "300 g de yogur natural sin azúcar",
+    "3 huevos",
+    "3 plátanos maduros"
+  ],
+  "pasos": [
+    "Precalienta el horno a 180°C (con calor arriba y abajo).",
+    "En un bol grande, pela y trocea los plátanos. Machácalos con un tenedor hasta obtener un puré.",
+    "Añade los huevos y el yogur al bol con el plátano. Bate toda la mezcla con unas varillas manuales o eléctricas hasta que quede una masa homogénea y sin grumos. No es necesario batir en exceso, solo lo justo para integrar los ingredientes.",
+    "Vierte la mezcla en un molde cubierto con papel de hornear.",
+    "Hornea el pastel durante 45 minutos. Para comprobar si está hecho, puedes insertar un palillo en el centro; si sale limpio, está listo.",
+    "Saca el pastel del horno y déjalo enfriar en el molde durante unos 10 minutos antes de desmoldarlo y pasarlo a una rejilla. Sirve tibio o frío."
+  ],
+  "origen": "Casero",
+  "recomendaciones": "Puedes espolvorear canela, cacao en polvo o chips de chocolate por encima antes de hornear para darle un extra de sabor.",
+  "variantes": [
+    "Si quieres darle otro toque, puedes añadir una cobertura de crema de cacahuetes sobre el plato cuando enfríe.",
+    "Se puede usar yogur azucarado o griego si se quiere que sea más dulce.",
+    "Para un toque crujiente, agrega nueces o avellanas picadas a la masa."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "55min",
+  "comensales": 4,
+  "observaciones": "Un pastel increíblemente fácil de preparar, ideal para aquellos que buscan una opción sin azúcar añadido y con el dulzor natural de los plátanos. Perfecto para desayunos o meriendas rápidas y saludables.",
+  "ocasion": ["Postre", "Desayuno", "Merienda"]
+}

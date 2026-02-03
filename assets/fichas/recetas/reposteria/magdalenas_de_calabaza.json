@@ -1,0 +1,42 @@
+{
+  "id": "magdalenas_de_calabaza",
+  "nombre": "Magdalenas de Calabaza",
+  "estilo": "Tradicional",
+  "categoria": "Repostería",
+  "imagen": "magdalenas_de_calabaza.webp",
+  "ingredientes": [
+    "200 gr de Calabaza (ya pelada)",
+    "200 gr de Azúcar blanca",
+    "2 de Huevos grandes",
+    "140 gr de Aceite de oliva (sabor suave)",
+    "200 gr de Harina de repostería",
+    "1 cucharadita de Canela en polvo",
+    "1 sobre de Gasificante (o levadura química)",
+    "un poco de Azúcar extra para espolvorear"
+  ],
+  "pasos": [
+    "Comenzamos preparando el alma de nuestras magdalenas: la calabaza. Pelamos y troceamos la pieza en dados grandes. Los llevamos a una cacerola con agua hirviendo y cocemos con paciencia hasta que, al pincharla, sintamos que está tierna pero que aún mantiene su forma, sin deshacerse.",
+    "Una vez cocida, la escurrimos bien y dejamos que repose unos minutos para que pierda el exceso de humedad. Este paso es vital para que la masa no quede demasiado pesada.",
+    "En un bol amplio, batimos con energía los huevos y el azúcar. Te recomiendo usar varillas y dedicarle unos minutos hasta que la mezcla blanquee y adquiera una textura cremosa y aireada.",
+    "Es el momento de unir sabores: añadimos el aceite de oliva suave y los trozos de calabaza que teníamos reservados. Trituramos todo el conjunto hasta lograr una crema fina y homogénea.",
+    "Para que nuestras magdalenas suban hermosas, tamizamos la harina junto con la canela y el gasificante sobre la mezcla anterior. Removemos con suavidad, lo justo para integrar los secos sin castigar demasiado la masa.",
+    "Con el horno ya precalentado a 220° (calor arriba y abajo), repartimos la masa en los moldes. Un truco de casa: deja siempre un dedo de margen sin llenar para que puedan crecer sin desbordarse. Si te gusta el toque crujiente, espolvorea un poco de azúcar por encima antes de hornear.",
+    "Metemos la bandeja y, durante los primeros 5 minutos, mantenemos el calor fuerte para que den el 'estirón'. Pasado ese tiempo, bajamos la temperatura a 180° y dejamos que terminen de dorarse durante unos 12 minutos más.",
+    "Antes de sacarlas, haz la prueba del palillo en el centro de una magdalena; si sale limpio, el fuego ha hecho su trabajo. Déjalas enfriar sobre una rejilla para que la base no se humedezca y mantengan su esponjosidad."
+  ],
+  "origen": "Casera / Tradicional",
+  "recomendaciones": "Si no tienes gasificante de repostería (los típicos sobres blancos y morados), puedes usar un sobre de levadura química tradicional de 16gr.",
+  "variantes": [
+    "Puedes añadir unas pepitas de chocolate a la masa para un contraste dulce.",
+    "Prueba a sustituir la canela por una pizca de nuez moscada si prefieres un aroma más terroso."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "40min",
+  "comensales": 6,
+  "observaciones": "Estas magdalenas son el ejemplo perfecto de cómo la verdura aporta una humedad y un color dorado increíble a la bollería casera. Ideales para mojar en leche o café.",
+  "ocasion": [
+    "Desayuno",
+    "Merienda",
+    "Acompañamiento"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blanqueado",
+  "nombre": "Blanquear",
+  "categoria": "coccion",
+  "descripcion": "Técnica de cocción de corta duración en un líquido hirviendo (agua o aceite), seguida inmediatamente por un choque térmico en agua con hielo. Su objetivo es precocinar, ablandar, fijar el color vibrante de los vegetales o eliminar impurezas y sabores fuertes en carnes y huesos.",
+  "imagen": "blanqueado.webp",
+  "ingredientesRecomendados": [
+    "Verduras verdes (judías verdes, espárragos, brócoli)",
+    "Hojas para ensalada o wraps (col, acelgas)",
+    "Frutos secos (almendras, para pelarlas fácilmente)",
+    "Huesos de carne (para limpiar caldos)",
+    "Tomates (para quitarles la piel)"
+  ],
+  "precauciones": [
+    "El paso por el agua con hielo es obligatorio para detener la cocción residual (cocción por inercia).",
+    "No añadas demasiada cantidad de alimento al agua a la vez para que la temperatura no baje del punto de ebullición.",
+    "Si blanqueas vegetales, añade una buena cantidad de sal al agua para ayudar a mantener la clorofila y el color verde intenso."
+  ]
+}

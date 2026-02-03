@@ -1,0 +1,40 @@
+{
+  "id": "risotto_con_boletus",
+  "nombre": "Risotto con boletus",
+  "estilo": "Tradicional",
+  "categoria": "Arroces",
+  "imagen": "risotto_con_boletus.webp",
+  "ingredientes": [
+    "350 gr de Arroz",
+    "1 diente de Ajo triturado",
+    "15 ml de Aceite de oliva",
+    "20 gr de Cebolla",
+    "250 gr de Boletus",
+    "1.5 litros de Fondo de ave",
+    "Sal al gusto",
+    "50 gr de Vino blanco",
+    "80 gr de Mantequilla",
+    "45 gr de Queso Parmesano",
+    "Perejil"
+  ],
+  "pasos": [
+    "Lo primero es limpiar los boletus con delicadeza y cortarlos en juliana. En una sartén, se calienta un poco de aceite de oliva y se saltean junto a unos dientes de ajo laminados hasta que se doren ligeramente y suelten todo su aroma. Una vez listos, se retira y se reserva.",
+    "En una cazuela amplia y de fondo grueso (ideal para arroces), hay que poner un buen chorro de aceite de oliva y rehogar la cebolla finamente picada a fuego suave. La idea es que quede transparente y dulce, sin coger color.",
+    "Una vez la cebolla está en su punto, hay que añadir el arroz. Es importante salpimentar en este momento y remover bien, para que cada grano se impregne del aceite y del sofrito. A esta técnica se la llama 'nacrar' el arroz, y es fundamental para que quede suelto y cremoso a la vez.",
+    "Subir un poco el fuego y añadir el vino blanco. Hay que remover constantemente, dejando que el alcohol se evapore por completo.",
+    "Ahora comienza la magia del risotto. Se añade un cucharón del fondo de ave bien caliente y se remueve sin parar. La clave está en no dejar de remover, porque así el arroz va soltando poco a poco su almidón, que es lo que le dará esa textura melosa tan característica.",
+    "Continuar vertiendo el fondo caliente poco a poco, a medida que el arroz lo vaya pidiendo. Esto suele llevar unos 12 o 14 minutos. No hay prisa, el secreto está en la paciencia y el movimiento constante.",
+    "Cuando el arroz está casi en su punto (lo probarás y notarás que le falta un pelín para estar tierno), se incorporan los boletus reservados. Remueve con un poco más de fondo durante 2 minutos adicionales, permitiendo que sus sabores se integren.",
+    "Al minuto 17 (más o menos, dejar guiarte por la textura), se retira la cazuela del fuego. Es importante que el arroz aún tenga una consistencia ligeramente fluida, no debe estar seco.",
+    "El toque final es la 'mantecatura'. Fuera del fuego, se añade una nuez de mantequilla fría y un generoso puñado de queso Parmesano recién rallado. Se remueve enérgicamente hasta que la mantequilla y el queso se integren por completo, creando esa cremosidad irresistible.",
+    "Justo antes de servir, se espolvorea el perejil recien picado por encima. Su frescura contrasta a la perfección con la riqueza del risotto."
+  ],
+  "origen": "Italiana",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "40min",
+  "comensales": 3,
+  "observaciones": "Un clásico italiano cremoso y aromático, con el sabor intenso de los boletus y la suavidad del arroz. Un plato ideal para los amantes de las setas.",
+  "ocasion": ["Comida Especial / Cena"]
+}

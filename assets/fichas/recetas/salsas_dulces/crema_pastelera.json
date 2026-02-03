@@ -1,0 +1,34 @@
+{
+  "id": "crema_pastelera",
+  "nombre": "Crema pastelera",
+  "estilo": "Tradicional",
+  "categoria": "Salsas dulces",
+  "imagen": "crema_pastelera.webp",
+  "ingredientes": [
+    "1 litro de Leche",
+    "250 gr de Azúcar",
+    "8 de Yemas de huevo",
+    "50 gr de Harina",
+    "50 gr de Maicena",
+    "al gusto de Mantequilla",
+    "1 de Canela en rama"
+  ],
+  "pasos": [
+    "Hervir la leche con la canela en una olla.",
+    "Mezclar las yemas, harina, maicena y azúcar en un bol.",
+    "Retirar la leche hervida y añadirla al bol en chorro fino, removiendo constantemente.",
+    "Pasar la mezcla por un colador a la cazuela.",
+    "Llevar a ebullición, removiendo constantemente.",
+    "Retirar del fuego y dejar enfriar."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "20min",
+  "comensales": 6,
+  "observaciones": "Una crema clásica y versátil de la repostería, espesa y aromática, perfecta para rellenar tartas, pasteles, buñuelos o como base para otros postres.",
+  "ocasion": [
+    "Postre / Base de Repostería"
+  ]
+}

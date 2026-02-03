@@ -1,0 +1,19 @@
+{
+  "id": "montar",
+  "nombre": "Montar",
+  "categoria": "preparacion",
+  "descripcion": "Técnica que consiste en batir enérgicamente un ingrediente o mezcla para introducir burbujas de aire, aumentando su volumen y dándole una textura ligera, firme o espumosa. Se basa en la capacidad de ciertas proteínas o grasas para retener el aire en su estructura.",
+  "imagen": "montar.webp",
+  "ingredientesRecomendados": [
+    "Claras de huevo (Merengue)",
+    "Nata para montar (mínimo 35% grasa)",
+    "Yemas de huevo (para Sabayón)",
+    "Mantequilla (para pomada)",
+    "Aquafaba (sustituto vegano)"
+  ],
+  "precauciones": [
+    "Para la nata, el recipiente y el ingrediente deben estar muy fríos; de lo contrario, la grasa se separará y se hará mantequilla.",
+    "Para las claras, el bol debe estar libre de cualquier rastro de grasa o yema, ya que esto impediría que suban.",
+    "No sobrebatir: una vez alcanzado el punto de 'picos firmes', deja de batir para no romper la estructura."
+  ]
+}

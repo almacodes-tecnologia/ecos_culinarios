@@ -1,0 +1,31 @@
+{
+  "id": "salmorejo_cordobes",
+  "nombre": "Salmorejo cordobes",
+  "estilo": "Tradicional",
+  "categoria": "Sopas",
+  "imagen": "salmorejo_cordobes.webp",
+  "ingredientes": [
+    "1 Kg de Tomates",
+    "200 gramos de Miga de pan",
+    "1 Diente de ajo",
+    "100 gramos de Jamón",
+    "2 Huevos",
+    "100 ml de Aceite de oliva",
+    "Una pizca de Sal",
+    "Una pizca de Perejil"
+  ],
+  "pasos": [
+    "Para empezar, pon los huevos en una cazuela con agua y cuécelos durante 10 minutos a partir del momento en que el agua empiece a hervir. Una vez cocidos, retíralos del fuego, déjalos enfriar completamente y resérvalos. Los usaremos para la guarnición.",
+    "Lava bien los tomates, córtalos en trozos y colócalos en una jarra o recipiente alto apto para batidora. Tritúralos a fondo con la batidora eléctrica hasta obtener un puré fino. Para conseguir esa textura sedosa que caracteriza al salmorejo, cuélalo a través de un colador fino para eliminar cualquier resto de piel y pepitas. Vierte el puré resultante de nuevo en la jarra.",
+    "Ahora, trocea la miga de pan e incorpórala al puré de tomate. Añade el diente de ajo picado, una pizca de sal y unos 100 ml de aceite de oliva. Tritura todo de nuevo con la batidora hasta conseguir una crema completamente homogénea y sin grumos. Enfría el salmorejo en el frigorífico durante al menos una hora antes de servir.",
+    "Justo antes de emplatar, pela los huevos cocidos y pícalos en daditos pequeños. Pica también el jamón ibérico en taquitos menudos. Sirve el salmorejo bien frío en cuencos individuales y decora con los trocitos de huevo duro, el jamón y unas hojitas frescas de perejil."
+  ],
+  "origen": "Cordobesa (España)",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "20min",
+  "comensales": 4,
+  "observaciones": "Un clásico de la gastronomía cordobesa, el salmorejo es una crema fría de tomate, pan, ajo y aceite de oliva, densa y refrescante, ideal para los días calurosos.",
+  "ocasion": ["Verano / Entrante"]
+}

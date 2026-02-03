@@ -1,0 +1,32 @@
+{
+    "id": "utensilios_cocina_antiguos",
+    "titulo": "Utensilios de cocina más antiguos",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "Desde piedras para moler hasta los primeros hornos de barro, los utensilios de cocina han evolucionado durante milenios.",
+      "Estos objetos permitieron a las primeras civilizaciones procesar alimentos, cocinar y conservar ingredientes de manera más eficiente."
+    ],
+    "fecha_aproximada": "Prehistoria y antigüedad",
+    "origen": "Varias culturas alrededor del mundo",
+    "nota_divertida": "Algunas piedras para moler aún se conservan como piezas arqueológicas, ¡la cocina más antigua que puedes tocar!",
+    "datos_adicionales": {
+      "uso_actual": "Algunos utensilios antiguos se siguen usando en técnicas tradicionales y en la cocina experimental moderna.",
+      "materiales": [
+        "piedra",
+        "madera",
+        "barro",
+        "metal"
+      ],
+      "funcionamiento": "Molían, trituraban, mezclaban o cocían alimentos, facilitando la preparación de platos básicos y complejos.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Investigaciones arqueológicas sobre utensilios de cocina",
+      "Libros de historia de la gastronomía"
+    ]
+  }
+  

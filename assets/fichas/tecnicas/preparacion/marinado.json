@@ -1,0 +1,17 @@
+{
+  "id": "marinado",
+  "nombre": "Marinado",
+  "categoria": "preparacion",
+  "descripcion": "Técnica que consiste en sumergir un alimento en una mezcla líquida (marinada) para ablandarlo y darle un sabor más profundo antes de la cocción.",
+  "imagen": "marinado.webp",
+  "ingredientesRecomendados": [
+    "Pollo",
+    "Carne de ternera",
+    "Pescado (salmón)",
+    "Tofu"
+  ],
+  "precauciones": [
+    "Marinar siempre en el frigorífico para evitar el crecimiento de bacterias.",
+    "No usar la marinada sobrante para hacer una salsa si ha estado en contacto con carne cruda."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "te_expansion_global",
+    "titulo": "El té: de China al mundo",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "El té se originó en China hace más de 4000 años y su consumo se expandió primero por Asia y luego a Europa y el resto del mundo.",
+      "El té influyó en el comercio, la cultura social y las ceremonias en múltiples civilizaciones a lo largo de los siglos."
+    ],
+    "fecha_aproximada": "Desde el 2000 a.C. hasta la actualidad",
+    "origen": "China",
+    "nota_divertida": "En Inglaterra, el té llegó a ser tan importante que causó guerras comerciales por su control y tributación.",
+    "datos_adicionales": {
+      "uso_actual": "Se bebe en infusión en casi todos los continentes, en múltiples variedades y sabores.",
+      "materiales": [
+        "hojas de té",
+        "agua"
+      ],
+      "funcionamiento": "Se extraen compuestos aromáticos y saborizantes de las hojas mediante infusión en agua caliente.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Libros sobre historia del té",
+      "Estudios sobre comercio y cultura del té"
+    ]
+  }
+  

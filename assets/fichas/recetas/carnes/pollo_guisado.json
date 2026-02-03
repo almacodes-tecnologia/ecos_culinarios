@@ -1,0 +1,39 @@
+{
+  "id": "pollo_guisado",
+  "nombre": "Pollo Guisado",
+  "estilo": "Tradicional",
+  "categoria": "Carnes",
+  "imagen": "pollo_guisado.webp",
+  "ingredientes": [
+    "8 Muslos de pollo",
+    "1/2 Cebolla",
+    "Tomate de guisar",
+    "Aceite",
+    "1/2 vaso pequeño de Coñac",
+    "Agua",
+    "1/2 Pastilla Avecrem",
+    "2 Ajos",
+    "Tacos de jamón",
+    "1 cucharada de Arroz",
+    "Sal"
+  ],
+  "pasos": [
+    "Para empezar, lava bien los muslos de pollo y sazónalos generosamente con sal.",
+    "En una olla de buen tamaño, calienta un poco de aceite y sofríe la cebolla bien picada, junto con el tomate de guisar troceado. Deja que se cocinen a fuego medio hasta que la cebolla esté transparente y el tomate haya soltado todo su jugo, formando un sofrito bien concentrado.",
+    "Incorpora los muslos de pollo a la olla con el sofrito. Cocínalos unos minutos, dándoles la vuelta de vez en cuando, hasta que se pochen ligeramente y empiecen a tomar color.",
+    "Vierte medio vaso pequeño de coñac y deja que evapore el alcohol por completo.",
+    "Una vez el coñac se haya evaporado, tapa la olla y cocina durante 2 o 3 minutos más.",
+    "Ahora, añade agua hasta cubrir el pollo (aproximadamente la mitad de la olla) y desmenuza media pastilla de Avecrem (o tu caldo concentrado favorito).",
+    "Incorpora también dos dientes de ajo pelados, unos tacos de jamón y un chorrito extra de aceite (si lo consideras necesario).",
+    "Si buscas un guiso más completo y espeso, puedes añadir una cucharada de arroz en este punto. Si lo haces, ten en cuenta que el arroz absorberá líquido, así que tendrás que añadir un poco más de agua (o caldo) hasta que el pollo esté bien cubierto.",
+    "Cocina a fuego medio, removiendo suavemente cada 5 minutos para asegurarte de que el pollo y el arroz (si lo has añadido) no se peguen al fondo de la olla. Continúa la cocción hasta que el pollo esté tierno y la salsa haya espesado a tu gusto. El tiempo variará según el tipo de olla, pero la clave es que la carne se deshaga fácilmente."
+  ],
+  "origen": "Tradicional Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "65min",
+  "comensales": 4,
+  "observaciones": "Un clásico reconfortante de la cocina casera, este pollo guisado es tierno y sabroso, cocinado en una rica salsa con un toque de coñac. Ideal para una comida familiar.",
+  "ocasion": ["Comida Diaria / Familiar"]
+}

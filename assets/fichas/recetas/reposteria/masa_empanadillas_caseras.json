@@ -1,0 +1,32 @@
+{
+  "id": "masa_empanadillas_caseras",
+  "nombre": "Masa de Empanadillas Caseras",
+  "estilo": "Tradicional",
+  "categoria": "Reposteria",
+  "imagen": "masa_empanadillas_caseras.webp",
+  "ingredientes": [
+    "450 g (aprox. 4 tazas) de Harina de trigo común (sin leudante)",
+    "200 ml (aprox. 1 taza) de Agua",
+    "50 g (aprox. 1/4 de taza) de Mantequilla o aceite",
+    "1 unidad de Huevo",
+    "5 g (aprox. 1 cucharadita) de Sal",
+    "Al gusto (ej. jamón, bacon, mozzarella, tomate) de Ingredientes para el relleno"
+  ],
+  "pasos": [
+    "En un cazo, lleva a fuego el agua junto con la mantequilla (o aceite) y la sal. Calienta hasta que la mantequilla se derrita por completo. Retira el cazo del fuego.",
+    "En un bol grande, vierte toda la harina. Añade el agua caliente de golpe y mezcla bien con una cuchara hasta que se integre. A continuación, incorpora el huevo y sigue mezclando hasta que la masa empiece a tomar cuerpo. Cuando te resulte difícil trabajarla con la cuchara, pásala a una superficie limpia (como el mármol).",
+    "Espolvorea un poco de harina sobre el mármol y trabaja la masa con las manos. Amasa durante unos minutos hasta obtener una masa lisa y uniforme. Forma una bola, colócala en un recipiente y cúbrela con un trapo limpio. Déjala reposar a temperatura ambiente durante aproximadamente 10 minutos.",
+    "Mientras la masa reposa, prepara los ingredientes para el relleno. Aunque la receta del relleno no se detalla aquí, puedes usar una combinación clásica de tomate, queso mozzarella, jamón y bacon, o los ingredientes de tu preferencia.",
+    "Una vez la masa haya reposado, córtala en pequeñas porciones. Con cada porción, forma bolitas. Luego, presiona cada bolita con las manos para aplanarla ligeramente y, con la ayuda de un rodillo, extiéndelas hasta obtener círculos finos, del tamaño deseado para tus empanadillas.",
+    "Rellena cada disco de masa. Coloca una cucharada de tomate triturado, una porción de queso mozzarella, jamón y bacon (o tu relleno elegido) en una mitad del círculo. Dobla la masa sobre el relleno para formar una media luna y cierra los bordes. Utiliza un tenedor para sellar bien todo el contorno, presionando firmemente.",
+    "Finalmente, cocina las empanadillas. Si eliges hornearlas, colócalas en una bandeja de horno y píntalas con huevo batido para darles un brillo dorado. Introduce la bandeja en el horno precalentado a 220°C durante unos 10 minutos, o hasta que estén doradas. Si prefieres freírlas, calienta abundante aceite en una sartén. Fríe las empanadillas en tandas hasta que estén doraditas por ambos lados. Retíralas a un plato cubierto con papel absorbente para eliminar el exceso de aceite."
+  ],
+  "origen": "Casero / Tradicional",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "45min",
+  "comensales": 10,
+  "observaciones": "Prepara unas empanadillas caseras irresistibles con esta masa fácil y versátil. Crujientes por fuera y tiernas por dentro, perfectas para rellenar con tus ingredientes favoritos, ya sean dulces o salados. Una receta que te animará a dejar de lado las compradas.",
+  "ocasion": ["Aperitivo / Merienda / Comida rápida"]
+}

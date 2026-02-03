@@ -1,0 +1,18 @@
+{
+  "id": "fritura_profunda",
+  "nombre": "Fritura Profunda",
+  "categoria": "coccion",
+  "descripcion": "Técnica de cocción rápida que consiste en sumergir los alimentos por completo en una gran cantidad de aceite caliente, creando una capa crujiente por fuera.",
+  "imagen": "fritura_profunda.webp",
+  "ingredientesRecomendados": [
+    "Patatas",
+    "Croquetas",
+    "Pollo frito",
+    "Aros de cebolla"
+  ],
+  "precauciones": [
+    "Asegurarse de que el aceite no humee, ya que eso indica que se ha quemado.",
+    "No llenar la sartén para evitar que la temperatura del aceite baje drásticamente.",
+    "Secar bien los alimentos antes de freírlos para evitar salpicaduras peligrosas."
+  ]
+}

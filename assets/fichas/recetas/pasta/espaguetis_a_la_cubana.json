@@ -1,0 +1,37 @@
+{
+  "id": "espagueti_a_la_cubana",
+  "nombre": "Espagueti a la cubana",
+  "estilo": "Fusión",
+  "categoria": "Pastas",
+  "imagen": "espaguetis_a_la_cubana.webp",
+  "ingredientes": [
+    "200g de Espagueti",
+    "4 rodajas de Queso cheddar",
+    "2 Huevos",
+    "1/2 Cebolla pequeña",
+    "1/2 vaso de Tomate triturado",
+    "Aceite de oliva",
+    "Orégano seco",
+    "Sal"
+  ],
+  "pasos": [
+    "Pica la media cebolla muy fina. Calienta un poco de aceite de oliva en una sartén y póchala a fuego bajo hasta que esté transparente.",
+    "Añade el tomate triturado y deja que se fría a fuego suave durante unos 20 minutos, removiendo de vez en cuando. Agrega sal al gusto.",
+    "Mientras se hace la salsa, cuece el espagueti en agua hirviendo con sal siguiendo las instrucciones del paquete. Una vez listo, escurre la pasta.",
+    "En un plato, sirve la pasta y mézclala con la salsa de tomate. Coloca las 4 rodajas de queso cheddar encima de la pasta, formando un cuadrado o una base.",
+    "En una sartén aparte, calienta aceite para freír los huevos. Fríelos asegurándote de que la yema quede poco cocinada para que esté líquida.",
+    "Coloca un huevo frito justo encima del queso y espolvorea orégano por encima de todo el plato. Si quieres, puedes servir el segundo huevo en otro plato."
+  ],
+  "origen": "Variación de la receta original",
+  "recomendaciones": "Puedes ajustar la cantidad de ingredientes según tus preferencias. Sirve el plato recién hecho para que el queso se derrita ligeramente con el calor de la pasta.",
+  "variantes": [
+    "Añadir ajo picado muy fino junto con la cebolla en el sofrito.",
+    "Usar tomates naturales para hacer el tomate frito en lugar de tomate triturado de bote.",
+    "Usar tomate frito comprado para ahorrar tiempo."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "30 min",
+  "comensales": 2,
+  "observaciones": "Una versión diferente y deliciosa de la clásica receta, añadiendo queso cheddar y un toque de orégano. La yema líquida del huevo frito es perfecta para mezclarla con los espaguetis.",
+  "ocasion": ["Comida diaria", "Comida rápida"]
+}

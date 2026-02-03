@@ -1,0 +1,17 @@
+{
+  "id": "corte_brunoise",
+  "nombre": "Corte Brunoise",
+  "categoria": "corte",
+  "descripcion": "Técnica de corte en dados muy pequeños y uniformes (2-3 mm). Se utiliza para guarniciones, rellenos o para bases de salsas y sopas.",
+  "imagen": "corte_brunoise.webp",
+  "ingredientesRecomendados": [
+    "Cebolla",
+    "Puerro",
+    "Ajo",
+    "Zanahoria"
+  ],
+  "precauciones": [
+    "Asegúrate de que los cortes sean uniformes para una cocción homogénea.",
+    "Usa la punta del cuchillo para mayor precisión."
+  ]
+}

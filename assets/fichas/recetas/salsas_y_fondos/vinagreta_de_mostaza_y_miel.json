@@ -1,0 +1,27 @@
+{
+  "id": "vinagreta_de_mostaza_y_miel",
+  "nombre": "Vinagreta de mostaza y miel",
+  "estilo": "Contemporánea",
+  "categoria": "Salsas y fondos",
+  "imagen": "vinagreta_de_mostaza_y_miel.webp",
+  "ingredientes": [
+    "1 cucharada de Mostaza",
+    "1 cucharada de Miel",
+    "al gusto de Sal",
+    "50 ml de Vinagre",
+    "150 ml de Aceite de oliva"
+  ],
+  "pasos": [
+    "En un bol, combina la mostaza y la miel.",
+    "Añade el vinagre (de sidra, de vino blanco, de manzana... elige tu favorito) y bate enérgicamente para integrar bien estos primeros ingredientes.",
+    "Ahora, el paso clave: sin dejar de batir, incorpora el aceite de oliva virgen extra muy lentamente, en un hilo fino y constante. Sigue batiendo hasta que la vinagreta emulsione y adquiera una textura ligeramente espesa y cremosa."
+  ],
+  "origen": "Internacional / Contemporánea",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Muy Fácil",
+  "duracion_aproximada": "5min",
+  "comensales": 0,
+  "observaciones": "Una vinagreta dulce y ácida, ideal para dar un toque especial a ensaladas, verduras a la plancha o como aderezo para carnes blancas. Fácil de hacer y llena de sabor.",
+  "ocasion": ["Condimento / Acompañamiento"]
+}

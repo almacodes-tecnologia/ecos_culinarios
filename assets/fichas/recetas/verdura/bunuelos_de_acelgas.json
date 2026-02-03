@@ -1,0 +1,34 @@
+{
+  "id": "bunuelos_de_acelgas",
+  "nombre": "Buñuelos de Acelgas",
+  "estilo": "Tradicional",
+  "categoria": "Verdura",
+  "imagen": "bunuelos_de_acelgas.webp",
+  "ingredientes": [
+    "200 g de Acelgas (hojas)",
+    "25 g de Bacon",
+    "1 unidad de Cebolla pequeña o cebolleta",
+    "50 g de Harina de trigo",
+    "2 g (1/2 cucharadita) de Levadura química",
+    "1 unidad de Huevo",
+    "Al gusto de Sal",
+    "Cantidad necesaria de Aceite de oliva para freír"
+  ],
+  "pasos": [
+    "Primero, cuece las hojas de acelga hasta que estén bien tiernas. Una vez cocidas, escúrrelas bien. Luego, pícalas finamente.",
+    "Pica la cebolla pequeña (o cebolleta) muy fina y el bacon en trozos pequeños. En una sartén, sofríe el bacon hasta que quede crujiente. Retíralo de la sartén y usa esa misma grasa para pochar la cebolla hasta que esté tierna y transparente.",
+    "En un bol grande, mezcla las acelgas picadas, la harina de trigo, la levadura química, la cebolla pochada y el bacon crujiente.",
+    "Ahora, añade el huevo a la mezcla y remueve todo hasta obtener una masa homogénea. Sazona con sal al gusto.",
+    "Calienta aceite de oliva en una sartén. Con las manos ligeramente enharinadas o con la ayuda de dos cucharas, forma pequeñas bolitas con la masa.",
+    "Fríe los buñuelos en el aceite bien caliente, por tandas, hasta que estén dorados y crujientes por todos los lados.",
+    "Retíralos de la sartén y colócalos sobre papel absorbente de cocina para eliminar el exceso de grasa. Sirve los buñuelos calientes"
+  ],
+  "origen": "Casero / Tradicional",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "40min",
+  "comensales": 4,
+  "observaciones": "Estos buñuelos de acelgas son un bocado delicioso y una forma fantástica de disfrutar de las verduras. Crujientes por fuera y suaves por dentro, con un toque de bacon y cebolla, son perfectos como aperitivo o guarnición.",
+  "ocasion": ["Aperitivo / Guarnición / Cena informal"]
+}

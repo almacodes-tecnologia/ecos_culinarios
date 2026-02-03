@@ -1,0 +1,35 @@
+{
+  "id": "crepes",
+  "nombre": "Crepes",
+  "estilo": "Tradicional",
+  "categoria": "Postres",
+  "imagen": "crepes.webp",
+  "ingredientes": [
+    "250 gr de Leche",
+    "100 gr de Harina",
+    "120 gr de Huevo",
+    "25 gr de Mantequilla",
+    "25 gr (si son dulces) de Azúcar",
+    "una pizca (si son saladas) de Sal"
+  ],
+  "pasos": [
+    "Pon todos los ingredientes en un bol amplio. Mezcla todo con una varilla con energía, asegurándote de que no queden grumos.",
+    "Añade la mantequilla fundida a la mezcla. Incorpora y remueve bien hasta que esté completamente integrada en la masa.",
+    "Engrasar ligeramente una sartén mediana con un poco de mantequilla.",
+    "Cuando la sartén esté bien caliente, vierte un poco más de la mitad de un cazo sopero de masa en el centro.",
+    "Inmediatamente, inclina y mueve la sartén en todas direcciones para que la masa se extienda y se reparta uniformemente por toda la base, formando una capa fina.",
+    "Deja que se dore por un lado y dale la vuelta con una espátula.",
+    "Cocina por el otro lado hasta que esté dorada también. Una vez lista, retírala de la sartén y colócala en un plato. Repite el proceso con el resto de la masa.",
+    "Truco: Si tienes pensado usar las crêpes para rellenos salados, puedes hacerlas un poco más gruesas. Solo tienes que echar un poco más de masa en la sartén y no extenderla tanto."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "25min",
+  "comensales": 4,
+  "observaciones": "Versátiles y deliciosas, estas crepes caseras son perfectas tanto para rellenos dulces como salados. Su masa fina y flexible las convierte en la base ideal para cualquier combinación que imagines.",
+  "ocasion": [
+    "Desayuno / Merienda / Postre"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flambear",
+  "nombre": "Flambear",
+  "categoria": "coccion",
+  "descripcion": "Técnica que consiste en añadir una bebida alcohólica de alta graduación a una preparación en una sartén caliente y prenderle fuego. El objetivo es evaporar el alcohol rápidamente, dejando en el plato únicamente el aroma y la esencia concentrada del licor utilizado.",
+  "imagen": "flambear.webp",
+  "ingredientesRecomendados": [
+    "Coñac o Brandy",
+    "Ron (para postres o plátanos)",
+    "Whisky (para carnes)",
+    "Grand Marnier",
+    "Vino de Jerez (en reducciones)"
+  ],
+  "precauciones": [
+    "Apaga siempre la campana extractora antes de flambear para evitar que las llamas sean succionadas por los filtros de grasa.",
+    "Ten siempre a mano una tapa por si necesitas sofocar el fuego de forma inmediata.",
+    "No viertas el licor directamente desde la botella; usa un recipiente pequeño para evitar que la llama suba por el chorro hasta la botella."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "horneado",
+  "nombre": "Horneado",
+  "categoria": "coccion",
+  "descripcion": "Cocinar alimentos por medio de calor seco en un horno. Es un método versátil, ideal para pasteles, pan, carnes y verduras asadas, creando una textura dorada y crujiente.",
+  "imagen": "horneado.webp",
+  "ingredientesRecomendados": [
+    "Pasteles y bizcochos",
+    "Pan",
+    "Verduras (patatas, calabacín)",
+    "Carne (pollo, cerdo)"
+  ],
+  "precauciones": [
+    "Precalentar el horno a la temperatura adecuada.",
+    "Usar guantes de horno al manipular los recipientes calientes.",
+    "Evitar abrir el horno con demasiada frecuencia para no afectar la cocción."
+  ]
+}

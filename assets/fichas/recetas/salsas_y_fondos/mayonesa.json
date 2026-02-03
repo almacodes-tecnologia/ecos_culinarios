@@ -1,0 +1,26 @@
+{
+  "id": "mayonesa",
+  "nombre": "Mayonesa",
+  "estilo": "Básico",
+  "categoria": "Salsas y fondos",
+  "imagen": "mayonesa.webp",
+  "ingredientes": [
+    "0.4 litros de Aceite",
+    "2 Yemas de huevo",
+    "al gusto de Vinagre",
+    "al gusto de Sal"
+  ],
+  "pasos": [
+    "Pon las yemas de huevo en un bol.",
+    "Añade una pizca de sal y unas gotas de vinagre (o zumo de limón, que también funciona muy bien y le da un toque fresco).",
+    "Ahora viene la clave: empieza a batir enérgicamente con unas varillas (manuales o eléctricas, lo que prefieras). Mientras bates sin parar, incorpora el aceite en un hilo muy fino, casi gota a gota al principio. Conforme la mezcla vaya espesando y emulsionando, podrás ir aumentando ligeramente el flujo del aceite. La paciencia es fundamental en este paso. Continúa batiendo e incorporando aceite hasta que obtengas la textura deseada."
+  ],
+  "origen": "Francesa",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media",
+  "duracion_aproximada": "5min",
+  "comensales": 0,
+  "observaciones": "Una emulsión clásica y versátil, la mayonesa casera es el acompañamiento perfecto para infinidad de platos, desde pescados y mariscos hasta patatas y sándwiches.",
+  "ocasion": ["Condimento / Base de Cocina"]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "origen_del_curry",
+  "titulo": "El origen del Curry y la palabra 'curry'",
+  "categoria": "Historia culinaria",
+  "descripcion": [
+    "El 'curry' no es una especia en sí misma, sino un término acuñado por los británicos durante la época colonial para referirse a la mezcla de especias variadas que encontraban en la India.",
+    "Cada región de la India tiene su propia mezcla de especias, conocidas como 'masalas', por lo que el sabor del curry puede variar enormemente."
+  ],
+  "fecha_aproximada": "Periodo colonial británico (siglos XVII-XIX)",
+  "origen": "India (popularizado en Occidente por los británicos)",
+  "datos_adicionales": {
+    "uso_actual": "El curry en polvo o las mezclas de especias de curry se usan a nivel global. Existen cientos de platos de curry diferentes en la cocina india y de otros países asiáticos.",
+    "materiales": [
+      "cúrcuma",
+      "cilantro",
+      "comino",
+      "jengibre",
+      "pimienta negra"
+    ],
+    "funcionamiento": "El sabor característico se logra al tostar y moler una combinación de especias para crear un perfil de sabor complejo y aromático.",
+    "relacionados": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "referencias": [
+    "Fuentes históricas y gastronómicas sobre el Imperio Británico en la India"
+  ]
+}

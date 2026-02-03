@@ -1,0 +1,34 @@
+{
+  "id": "quesada_pasiega",
+  "nombre": "Quesada Pasiega",
+  "estilo": "Tradicional",
+  "categoria": "Postres",
+  "imagen": "quesada_pasiega.webp",
+  "ingredientes": [
+    "1 kg de Cuajada",
+    "300 gr de Azúcar",
+    "100 gr de Harina",
+    "2 de Huevos",
+    "100 gr de Mantequilla",
+    "Una pizca de Sal",
+    "Una pizca de Ralladura de limón",
+    "Una pizca de Canela en polvo"
+  ],
+  "pasos": [
+    "En un bol grande, combina la cuajada, el azúcar, la harina, los huevos, la mantequilla (derretida), una pizca de sal, una pizca de ralladura de limón y una pizca de canela en polvo.",
+    "Bate todos los ingredientes.",
+    "Vierte la mezcla en un molde apto para horno.",
+    "Hornea hasta que la cuajada esté firme y cuajada.",
+    "Una vez cuajada, retira del horno y deja enfriar completamente antes de desmoldar."
+  ],
+  "origen": "Cantabria (España)",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "50min",
+  "comensales": 8,
+  "observaciones": "Un postre tradicional de Cantabria, la quesada pasiega es un pastel cremoso y ligeramente ácido, con una textura suave que se funde en la boca. Perfecta para un café o como broche de oro para cualquier comida.",
+  "ocasion": [
+    "Postre / Merienda / Tradicional"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tomates_venenosos",
+  "titulo": "Cuando el tomate era considerado un veneno en Europa",
+  "categoria": "Historia culinaria",
+  "descripcion": [
+    "Cuando el tomate llegó a Europa tras el contacto con América en el siglo XVI, fue recibido con desconfianza. Durante siglos se creyó que era venenoso y solo se cultivaba como planta ornamental.",
+    "El origen de esta creencia no se debía a que el tomate fuese tóxico, sino a que su acidez reaccionaba con platos de peltre usados por la aristocracia, liberando plomo y causando envenenamientos. La población común, que usaba vajilla de madera, lo consumía sin problemas."
+  ],
+  "fecha_aproximada": "Siglos XVI-XVIII",
+  "origen": "Europa (tras la llegada desde América)",
+  "datos_adicionales": {
+    "uso_actual": "Hoy es uno de los ingredientes más utilizados en la gastronomía mundial, especialmente en la dieta mediterránea.",
+    "materiales": [
+      "planta de tomate",
+      "ácidos orgánicos naturales"
+    ],
+    "funcionamiento": "Su acidez reaccionaba con el peltre liberando plomo, lo que originó el mito de su toxicidad.",
+    "relacionados": [
+      "historia_de_alimentos",
+      "dieta_mediterranea",
+      "solanaceas"
+    ]
+  },
+  "referencias": [
+    "Investigaciones históricas sobre la alimentación en Europa",
+    "Estudios sobre utensilios de cocina en la Edad Moderna"
+  ]
+}

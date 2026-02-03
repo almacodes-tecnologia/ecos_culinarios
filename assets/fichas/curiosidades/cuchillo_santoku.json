@@ -1,0 +1,31 @@
+{
+  "id": "cuchillo_santoku",
+  "titulo": "El cuchillo Santoku y sus 'tres virtudes'",
+  "categoria": "Utensilios",
+  "descripcion": [
+    "El cuchillo Santoku es una herramienta de cocina japonesa versátil, conocida como el cuchillo de 'las tres virtudes': cortar carne, pescado y verduras.",
+    "Su hoja es más ancha que la de un cuchillo de chef occidental, lo que lo hace ideal para el movimiento de 'corte y empuje'."
+  ],
+  "fecha_aproximada": "Mediados del siglo XX",
+  "origen": "Japón",
+  "nota_divertida": "Su nombre 'Santoku' significa literalmente 'tres virtudes' o 'tres usos', algo muy directo y práctico.",
+  "datos_adicionales": {
+    "uso_actual": "Es uno de los cuchillos de cocina más populares en todo el mundo por su versatilidad y eficiencia.",
+    "materiales": [
+      "acero inoxidable",
+      "acero al carbono",
+      "madera",
+      "resina (para el mango)"
+    ],
+    "funcionamiento": "Su diseño de hoja plana y curva en la punta permite un corte preciso, y sus alvéolos evitan que los alimentos se peguen al cuchillo.",
+    "relacionados": [
+      "",
+      "",
+      ""
+    ]
+  },
+  "referencias": [
+    "Revistas especializadas en cocina",
+    "Fabricantes de cuchillos japoneses"
+  ]
+}

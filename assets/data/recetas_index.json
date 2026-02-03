@@ -1,0 +1,457 @@
+[
+  {
+    "id": "pan_casero_rustico",
+    "nombre": "Pan casero rústico",
+    "estilo": "Fuego Lento",
+    "categoria": "Panadería",
+    "imagen": "pan_casero_rustico.webp"
+  },
+  {
+    "id": "arroz_caldoso",
+    "nombre": "Arroz caldoso",
+    "estilo": "De Cuchara",
+    "categoria": "Arroces",
+    "imagen": "arroz_caldoso.webp"
+  },
+  {
+    "id": "arroz_meloso_longaniza_graus",
+    "nombre": "Arroz meloso con longaniza de Graus",
+    "estilo": "De Siempre",
+    "categoria": "Arroces",
+    "imagen": "arroz_meloso_longaniza_graus.webp"
+  },
+  {
+    "id": "crema_inglesa",
+    "nombre": "Crema inglesa",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_dulces",
+    "imagen": "crema_inglesa.webp"
+  },
+  {
+    "id": "paella_mixta",
+    "nombre": "Paella mixta",
+    "estilo": "Para Compartir",
+    "categoria": "Arroces",
+    "imagen": "paella_mixta.webp"
+  },
+  {
+    "id": "mousse_de_frambuesa",
+    "nombre": "Mousse de frambuesa",
+    "estilo": "Capricho Dulce",
+    "categoria": "Postres",
+    "imagen": "mousse_de_frambuesa.webp"
+  },
+  {
+    "id": "paella_valenciana",
+    "nombre": "Paella Valenciana",
+    "estilo": "Para Compartir",
+    "categoria": "Arroces",
+    "imagen": "paella_valenciana.webp"
+  },
+  {
+    "id": "quesada_pasiega",
+    "nombre": "Quesada Pasiega",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "quesada_pasiega.webp"
+  },
+  {
+    "id": "rancho",
+    "nombre": "Rancho",
+    "estilo": "De Cuchara",
+    "categoria": "Arroces",
+    "imagen": "rancho.webp"
+  },
+  {
+    "id": "crema_pastelera",
+    "nombre": "Crema pastelera",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_dulces",
+    "imagen": "crema_pastelera.webp"
+  },
+  {
+    "id": "risotto_con_boletus",
+    "nombre": "Risotto con boletus",
+    "estilo": "De Siempre",
+    "categoria": "Arroces",
+    "imagen": "risotto_con_boletus.webp"
+  },
+  {
+    "id": "huevos_al_salmorrejo",
+    "nombre": "Huevos al Salmorrejo",
+    "estilo": "De Siempre",
+    "categoria": "Huevos",
+    "imagen": "huevos_al_salmorrejo.webp"
+  },
+  {
+    "id": "cruasanes_caseros",
+    "nombre": "Cruasanes caseros",
+    "estilo": "Fuego Lento",
+    "categoria": "Reposteria",
+    "imagen": "cruasanes_caseros.webp"
+  },
+  {
+    "id": "fabada_de_judias",
+    "nombre": "Frabada de judias",
+    "estilo": "De Cuchara",
+    "categoria": "Legumbres",
+    "imagen": "fabada_de_judias.webp"
+  },
+  {
+    "id": "tortitas",
+    "nombre": "Tortitas",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "tortitas.webp"
+  },
+  {
+    "id": "lentejas_con_jamon",
+    "nombre": "Lentejas con jamon",
+    "estilo": "De Cuchara",
+    "categoria": "Legumbres",
+    "imagen": "lentejas_con_jamon.webp"
+  },
+  {
+    "id": "pastel_de_platano",
+    "nombre": "Pastel de Plátano",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "pastel_de_platano.webp"
+  },
+  {
+    "id": "ensalada_cesar",
+    "nombre": "Ensalada César",
+    "estilo": "De Siempre",
+    "categoria": "Ensaladas",
+    "imagen": "ensalada_cesar.webp"
+  },
+  {
+    "id": "patatas_huecas",
+    "nombre": "Patatas huecas",
+    "estilo": "Para Picar",
+    "categoria": "Patatas",
+    "imagen": "patatas_huecas.webp"
+  },
+  {
+    "id": "spaghetti_carbonara",
+    "nombre": "Spaghetti carbonara",
+    "estilo": "De Siempre",
+    "categoria": "Pasta",
+    "imagen": "spaghetti_carbonara.webp"
+  },
+  {
+    "id": "fideua_rosegada",
+    "nombre": "Fideua rosegada",
+    "estilo": "De Siempre",
+    "categoria": "Pasta",
+    "imagen": "fideua_rosegada.webp"
+  },
+  {
+    "id": "salmorejo_cordobes",
+    "nombre": "Salmorejo cordobes",
+    "estilo": "Para Picar",
+    "categoria": "Sopas",
+    "imagen": "salmorejo_cordobes.webp"
+  },
+  {
+    "id": "sopa_cebolla",
+    "nombre": "Sopa de Cebolla Tradicional",
+    "estilo": "De Siempre",
+    "categoria": "Sopas",
+    "imagen": "sopa_cebolla.webp"
+  },
+  {
+    "id": "trufas_de_chocolate",
+    "nombre": "Trufas de chocolate",
+    "estilo": "Capricho Dulce",
+    "categoria": "Postres",
+    "imagen": "trufas_de_chocolate.webp"
+  },
+  {
+    "id": "sopa_de_pescado",
+    "nombre": "Sopa de Pescado",
+    "estilo": "Ocasiones Especiales",
+    "categoria": "Sopas",
+    "imagen": "sopa_de_pescado.webp"
+  },
+  {
+    "id": "albondigas_al_curry",
+    "nombre": "Albóndigas al curry",
+    "estilo": "De Siempre",
+    "categoria": "Carnes",
+    "imagen": "albondigas_al_curry.webp"
+  },
+  {
+    "id": "ratatouille",
+    "nombre": "Ratatouille",
+    "estilo": "Fuego Lento",
+    "categoria": "Verdura",
+    "imagen": "ratatouille.webp"
+  },
+  {
+    "id": "carrilleras_guisadas",
+    "nombre": "Carrilleras guisadas",
+    "estilo": "Fuego Lento",
+    "categoria": "Carnes",
+    "imagen": "carrilleras_guisadas.webp"
+  },
+  {
+    "id": "salsa_de_chocolate",
+    "nombre": "Salsa de chocolate",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_dulces",
+    "imagen": "salsa_de_chocolate.webp"
+  },
+  {
+    "id": "musaka_griega",
+    "nombre": "Musaka Griega",
+    "estilo": "Fuego Lento",
+    "categoria": "Verdura",
+    "imagen": "musaka_griega.webp"
+  },
+  {
+    "id": "codornices_escabechadas",
+    "nombre": "Codornices escabechadas",
+    "estilo": "Fuego Lento",
+    "categoria": "Carnes",
+    "imagen": "codornices_escabechadas.webp"
+  },
+  {
+    "id": "pollo_guisado",
+    "nombre": "Pollo guisado",
+    "estilo": "De Siempre",
+    "categoria": "Carnes",
+    "imagen": "pollo_guisado.webp"
+  },
+  {
+    "id": "menestra_de_verduras",
+    "nombre": "Menestra de Verduras Tradicional",
+    "estilo": "De Siempre",
+    "categoria": "Verdura",
+    "imagen": "menestra_de_verduras.webp"
+  },
+  {
+    "id": "pollo_al_chilindron",
+    "nombre": "Pollo al Chilindrón",
+    "estilo": "De Siempre",
+    "categoria": "Carnes",
+    "imagen": "pollo_al_chilindron.webp"
+  },
+  {
+    "id": "masa_empanadillas_caseras",
+    "nombre": "Masa de empanadillas casera",
+    "estilo": "Esenciales",
+    "categoria": "Reposteria",
+    "imagen": "masa_empanadillas_caseras.webp"
+  },
+  {
+    "id": "langostinos_panko_con_mahonesa_de_albahaca",
+    "nombre": "Langostinos Panko con mahonesa de albahaca",
+    "estilo": "Para Picar",
+    "categoria": "Pescados",
+    "imagen": "langostinos_panko.webp"
+  },
+  {
+    "id": "suquet_de_rape_con_gambas",
+    "nombre": "Suquet de rape con gambas",
+    "estilo": "Ocasiones Especiales",
+    "categoria": "Pescados",
+    "imagen": "suquet_de_rape_con_gambas.webp"
+  },
+  {
+    "id": "fondo_blanco",
+    "nombre": "Fondo blanco",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "fondo_blanco.webp"
+  },
+  {
+    "id": "fondo_oscuro",
+    "nombre": "Fondo oscuro",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "fondo_oscuro.webp"
+  },
+  {
+    "id": "salsa_de_caramelo_o_toffee",
+    "nombre": "Salsa de caramelo (Toffee)",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_dulces",
+    "imagen": "toffee.webp"
+  },
+  {
+    "id": "fumet",
+    "nombre": "Fumet",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "fumet.webp"
+  },
+  {
+    "id": "mayonesa",
+    "nombre": "Mayonesa",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "mayonesa.webp"
+  },
+  {
+    "id": "flores_de_manzana_con_crema_inglesa",
+    "nombre": "Flores de manzana con crema Inglesa",
+    "estilo": "Capricho Dulce",
+    "categoria": "Postres",
+    "imagen": "flores_de_manzana.webp"
+  },
+  {
+    "id": "crepes",
+    "nombre": "Crepes",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "crepes.webp"
+  },
+  {
+    "id": "salsa_bechamel",
+    "nombre": "Salsa bechamel",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "salsa_bechamel.webp"
+  },
+  {
+    "id": "salsa_holandesa",
+    "nombre": "Salsa holandesa",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "salsa_holandesa.webp"
+  },
+  {
+    "id": "salsa_veloute",
+    "nombre": "Salsa veloute",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "salsa_veloute.webp"
+  },
+  {
+    "id": "salsa_verde",
+    "nombre": "Salsa verde",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "salsa_verde.webp"
+  },
+  {
+    "id": "sofrito",
+    "nombre": "Sofrito",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "sofrito.webp"
+  },
+  {
+    "id": "vinagreta_de_mostaza_y_miel",
+    "nombre": "Vinagreta de mostaza y miel",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "vinagreta_de_mostaza_y_miel.webp"
+  },
+  {
+    "id": "berenjenas_a_la_siciliana",
+    "nombre": "Berenjenas a la Siciliana",
+    "estilo": "De Siempre",
+    "categoria": "Verdura",
+    "imagen": "berenjenas_a_la_siciliana.webp"
+  },
+  {
+    "id": "bizcocho_de_calabaza",
+    "nombre": "Bizcocho de calabaza",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "bizcocho_de_calabaza.webp"
+  },
+  {
+    "id": "bunuelos_de_acelgas",
+    "nombre": "Buñuelos de acelgas",
+    "estilo": "Para Picar",
+    "categoria": "Verdura",
+    "imagen": "bunuelos_de_acelgas.webp"
+  },
+  {
+    "id": "salteado_de_calabacin",
+    "nombre": "Salteado de Calabacín con Almendras y Eneldo",
+    "estilo": "De Siempre",
+    "categoria": "Verdura",
+    "imagen": "salteado_de_calabacin.webp"
+  },
+  {
+    "id": "vinagreta",
+    "nombre": "Vinagreta",
+    "estilo": "Esenciales",
+    "categoria": "Salsas_y_fondos",
+    "imagen": "vinagreta.webp"
+  },
+  {
+    "id": "Espaguetis_a_la_cubana",
+    "nombre": "Espaguetis a la cubana",
+    "estilo": "De Siempre",
+    "categoria": "Pasta",
+    "imagen": "espaguetis_a_la_cubana.webp"
+  },
+  {
+    "id": "bastones_calabacin_salsa_yogur",
+    "nombre": "Bastones de Calabacín Crujientes con Salsa de Yogur",
+    "estilo": "Para Picar",
+    "categoria": "Verdura",
+    "imagen": "bastones_calabacin_salsa_yogur.webp"
+  },
+  {
+    "id": "magdalenas_manzana_cacahuete",
+    "nombre": "Magdalenas de Manzana y Crema de Cacahuete",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "magdalenas_manzana_cacahuete.webp"
+  },
+  {
+    "id": "tarta_de_queso_al_horno",
+    "nombre": "Tarta de Queso al Horno",
+    "estilo": "Capricho Dulce",
+    "categoria": "Postres",
+    "imagen": "tarta_de_queso_al_horno.webp"
+  },
+  {
+    "id": "magdalenas_de_calabaza",
+    "nombre": "Magdalenas de Calabaza",
+    "estilo": "Para el Café",
+    "categoria": "Reposteria",
+    "imagen": "magdalenas_de_calabaza.webp"
+  },
+  {
+    "id": "tortitas_de_calabaza",
+    "nombre": "Tortitas de Calabaza",
+    "estilo": "Para el Café",
+    "categoria": "Postres",
+    "imagen": "tortitas_de_calabaza.webp"
+  },
+  {
+    "id": "flan_de_turron_jijona",
+    "nombre": "Flan de Turrón de Jijona",
+    "estilo": "Ocasiones Especiales",
+    "categoria": "Postres",
+    "imagen": "flan_de_turron_jijona.webp"
+  },
+  {
+    "id": "crema_de_yemas_con_yogur",
+    "nombre": "Crema de Yemas y Yogur",
+    "estilo": "Capricho Dulce",
+    "categoria": "postres",
+    "imagen": "crema_yemas_yogur.webp"
+  },
+  {
+    "id": "huevo_a_la_canasta",
+    "nombre": "Huevo a la Canasta",
+    "estilo": "Cena rápida",
+    "categoria": "huevos",
+    "imagen": "huevo_a_la_canasta.webp"
+  },
+  {
+    "id": "costillas_guisadas",
+    "nombre": "Costillas Guisadas",
+    "estilo": "De Siempre",
+    "categoria": "carnes",
+    "imagen": "costillas_guisadas.webp"
+  }
+]

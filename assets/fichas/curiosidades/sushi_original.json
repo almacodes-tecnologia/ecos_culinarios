@@ -1,0 +1,32 @@
+{
+    "id": "sushi_original",
+    "titulo": "El sushi original: conservación de pescado fermentado",
+    "categoria": "Historia culinaria",
+    "descripcion": [
+      "El sushi comenzó como una técnica de conservación de pescado en Japón y el sudeste asiático, fermentando el pescado con arroz.",
+      "El arroz fermentado permitía que el pescado se mantuviera comestible durante más tiempo, y originalmente no se consumía junto al arroz."
+    ],
+    "fecha_aproximada": "Siglos VIII-X",
+    "origen": "Japón y el sudeste asiático",
+    "nota_divertida": "El sushi moderno que conocemos, con pescado crudo sobre arroz fresco, es relativamente reciente, de hace unos 200 años.",
+    "datos_adicionales": {
+      "uso_actual": "Hoy el sushi es un plato internacional, servido fresco y con múltiples variedades de ingredientes.",
+      "materiales": [
+        "arroz",
+        "pescado",
+        "sal",
+        "algas"
+      ],
+      "funcionamiento": "El pescado se fermentaba con arroz y sal para conservarlo; el proceso de fermentación genera sabores ácidos y complejos.",
+      "relacionados": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "referencias": [
+      "Libros sobre historia del sushi",
+      "Investigaciones sobre fermentación de alimentos"
+    ]
+  }
+  

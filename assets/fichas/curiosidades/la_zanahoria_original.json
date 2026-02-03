@@ -1,0 +1,29 @@
+{
+  "id": "la_zanahoria_original",
+  "titulo": "Las zanahorias no siempre fueron naranjas",
+  "categoria": "Curiosidades del mundo",
+  "descripcion": [
+    "Aunque hoy la asociamos con el color naranja, las zanahorias originales eran blancas, moradas o amarillas.",
+    "La variedad naranja que conocemos fue cultivada por agricultores holandeses en el siglo XVII en honor a la Casa de Orange, la dinastía real de los Países Bajos."
+  ],
+  "fecha_aproximada": "Siglo XVII",
+  "origen": "Países Bajos",
+  "nota_divertida": "Las zanahorias naranjas se hicieron populares no solo por su color, sino también por su sabor dulce y atractivo visual, conquistando Europa.",
+  "datos_adicionales": {
+    "uso_actual": "La zanahoria naranja es la más popular a nivel global por su alto contenido en betacaroteno y su sabor dulce.",
+    "materiales": [
+      "raíz de zanahoria",
+      "pigmentos naturales"
+    ],
+    "funcionamiento": "El color naranja se debe a la alta concentración de carotenos, un tipo de antioxidante natural. Las zanahorias originales carecían de este gen o lo tenían en menor medida.",
+    "relacionados": [
+      "horticultura",
+      "betacaroteno",
+      "cultivo_de_vegetales"
+    ]
+  },
+  "referencias": [
+    "Fuentes históricas sobre la horticultura",
+    "Estudios genéticos sobre las plantas"
+  ]
+}

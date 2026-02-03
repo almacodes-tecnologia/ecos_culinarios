@@ -1,0 +1,28 @@
+{
+  "id": "historia_pimienta_negra",
+  "titulo": "La pimienta negra, tan valiosa como el oro en el pasado",
+  "categoria": "Historia culinaria",
+  "descripcion": [
+    "La pimienta negra, hoy una especia común, fue una de las mercancías más valiosas de la antigüedad, considerada 'oro negro'.",
+    "Su control por parte de comerciantes árabes, indios y, más tarde, venecianos, fue una de las principales motivaciones para la exploración de nuevas rutas comerciales."
+  ],
+  "fecha_aproximada": "Antigüedad y Edad Media",
+  "origen": "Región de la costa de Malabar, India",
+  "nota_divertida": "En la Edad Media, la pimienta era tan valiosa que se usaba incluso como moneda o pago de tributos.",
+  "datos_adicionales": {
+    "uso_actual": "Es la especia más comercializada a nivel mundial, presente en cocinas de todo el planeta.",
+    "materiales": [
+      "fruto de la planta 'Piper nigrum'"
+    ],
+    "funcionamiento": "Su sabor picante y su aroma único se deben a la piperina, un compuesto químico presente en su fruto.",
+    "relacionados": [
+      "ruta_de_las_especias",
+      "mercado_historico",
+      "piperina"
+    ]
+  },
+  "referencias": [
+    "Libros de historia de las especias",
+    "Estudios sobre comercio en la antigüedad"
+  ]
+}

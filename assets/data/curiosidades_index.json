@@ -1,0 +1,170 @@
+[
+  {
+    "id": "molino_de_piedra",
+    "titulo": "Molino de piedra tradicional",
+    "categoria": "Utensilios",
+    "imagen": "molino_de_piedra.webp"
+  },
+  {
+    "id": "aji_mas_picante",
+    "titulo": "El chile más picante del mundo y su escala",
+    "categoria": "Ciencia de los alimentos",
+    "imagen": "aji_mas_picante.webp"
+  },
+  {
+    "id": "sabor_umami",
+    "titulo": "Umami: el quinto sabor que lo cambia todo",
+    "categoria": "Ciencia de los alimentos",
+    "imagen": "sabor_umami.webp"
+  },
+  {
+    "id": "la_zanahoria_original",
+    "titulo": "Las zanahorias no siempre fueron naranjas",
+    "categoria": "Curiosidades del mundo",
+    "imagen": "la_zanahoria_original.webp"
+  },
+  {
+    "id": "te_expansion_global",
+    "titulo": "El té: de la medicina china a la bebida global",
+    "categoria": "Historia culinaria",
+    "imagen": "te_expansion_global.webp"
+  },
+  {
+    "id": "origen_chocolate",
+    "titulo": "El chocolate, un tesoro amargo de la antigüedad",
+    "categoria": "Historia culinaria",
+    "imagen": "origen_chocolate.webp"
+  },
+  {
+    "id": "miel_eterna",
+    "titulo": "La miel: el alimento que nunca caduca",
+    "categoria": "Ciencia de los alimentos",
+    "imagen": "miel_eterna.webp"
+  },
+  {
+    "id": "trufa_busqueda",
+    "titulo": "La búsqueda de la trufa: cerdos y perros especializados",
+    "categoria": "Curiosidades del mundo",
+    "imagen": "trufa_busqueda.webp"
+  },
+  {
+    "id": "cuchillo_santoku",
+    "titulo": "El cuchillo Santoku y sus 'tres virtudes'",
+    "categoria": "Utensilios",
+    "imagen": "cuchillo_santoku.webp"
+  },
+  {
+    "id": "cebolla_resfriados_tos",
+    "titulo": "La cebolla: remedio casero contra resfriados y tos",
+    "categoria": "Medicina natural",
+    "imagen": "cebolla_resfriados_tos.webp"
+  },
+  {
+    "id": "origen_del_curry",
+    "titulo": "Origen del Curry: de la especia a la mezcla",
+    "categoria": "Historia culinaria",
+    "imagen": "origen_del_curry.webp"
+  },
+  {
+    "id": "queso_azul_original",
+    "titulo": "Queso azul: el moho que transforma el sabor",
+    "categoria": "Ciencia de los alimentos",
+    "imagen": "queso_azul_original.webp"
+  },
+  {
+    "id": "historia_pimienta_negra",
+    "titulo": "La pimienta negra, tan valiosa como el oro en el pasado",
+    "categoria": "Historia culinaria",
+    "imagen": "historia_pimienta_negra.webp"
+  },
+  {
+    "id": "aceite_de_oliva_milenario",
+    "titulo": "El aceite de oliva: el oro líquido milenario",
+    "categoria": "Historia culinaria",
+    "imagen": "aceite_de_oliva_milenario.webp"
+  },
+  {
+    "id": "chocolate_como_moneda",
+    "titulo": "El cacao usado como moneda en las culturas prehispánicas",
+    "categoria": "Historia culinaria",
+    "imagen": "chocolate_como_moneda.webp"
+  },
+  {
+    "id": "la_pizza_original",
+    "titulo": "La pizza original: comida callejera simple",
+    "categoria": "Historia culinaria",
+    "imagen": "la_pizza_original.webp"
+  },
+  {
+    "id": "sal_mas_cara_del_mundo",
+    "titulo": "La sal más cara del mundo y su recolección",
+    "categoria": "Curiosidades del mundo",
+    "imagen": "sal_mas_cara_del_mundo.webp"
+  },
+  {
+    "id": "utensilios_cocina_antiguos",
+    "titulo": "Los utensilios de cocina más antiguos de la historia",
+    "categoria": "Utensilios",
+    "imagen": "utensilios_cocina_antiguos.webp"
+  },
+  {
+    "id": "paneggs_pan_con_huevo",
+    "titulo": "Pan con huevo (Pannekoeken): origen europeo",
+    "categoria": "Historia culinaria",
+    "imagen": "paneggs_pan_con_huevo.webp"
+  },
+  {
+    "id": "tomates_venenosos",
+    "titulo": "Cuando el tomate fue considerado un veneno en Europa",
+    "categoria": "Historia culinaria",
+    "imagen": "tomates_venenosos.webp"
+  },
+  {
+    "id": "trufa_el_diamante_negro",
+    "titulo": "Trufa: 'El diamante negro' de la gastronomía",
+    "categoria": "Curiosidades del mundo",
+    "imagen": "trufa_el_diamante_negro.webp"
+  },
+  {
+    "id": "cerveza_mas_antigua",
+    "titulo": "La cerveza: una de las bebidas más antiguas de la humanidad",
+    "categoria": "Historia culinaria",
+    "imagen": "cerveza_mas_antigua.webp"
+  },
+  {
+    "id": "primer_refrigerador_natural",
+    "titulo": "El primer refrigerador natural: el uso de la nieve",
+    "categoria": "Utensilios",
+    "imagen": "primer_refrigerador_natural.webp"
+  },
+  {
+    "id": "postres_antiguos_hielo",
+    "titulo": "El hielo: lujo para postres de la realeza antigua",
+    "categoria": "Historia culinaria",
+    "imagen": "postres_antiguos_hielo.webp"
+  },
+  {
+    "id": "sushi_original",
+    "titulo": "El sushi original: pescado conservado en arroz fermentado",
+    "categoria": "Historia culinaria",
+    "imagen": "sushi_original.webp"
+  },
+  {
+    "id": "el_origen_del_ketchup",
+    "titulo": "El Ketchup: de salsa de pescado fermentado a dulce condimento",
+    "categoria": "Historia culinaria",
+    "imagen": "el_origen_del_ketchup.webp"
+  },
+  {
+    "id": "vinagre_como_medicina",
+    "titulo": "El vinagre: usos medicinales desde Hipócrates",
+    "categoria": "Medicina natural",
+    "imagen": "vinagre_como_medicina.webp"
+  },
+  {
+    "id": "vino_mas_antiguo",
+    "titulo": "El vino más antiguo del mundo y su descubrimiento",
+    "categoria": "Historia culinaria",
+    "imagen": "vino_mas_antiguo.webp"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "cruasanes_caseros",
+  "nombre": "Cruasanes Caseros con Masa de Hojaldre",
+  "estilo": "Francés",
+  "categoria": "Repostería",
+  "imagen": "cruasanes_caseros.webp",
+  "ingredientes": [
+    "500 g de Harina de fuerza",
+    "150 ml de Agua tibia",
+    "15 g de Levadura fresca de panadero",
+    "50 g de Azúcar",
+    "10 g de Sal",
+    "250 g de Mantequilla fría (para el hojaldrado)",
+    "1 unidad de Huevo (para pintar)",
+    "Relleno (opcional) al gusto (chocolate, queso, mermelada, etc.)"
+  ],
+  "pasos": [
+    "Prepara la masa base: En un bol grande, mezcla la harina de fuerza con la sal. En un recipiente aparte, disuelve la levadura fresca de panadero en el agua tibia, y añade el azúcar. Vierte esta mezcla líquida sobre la harina y amasa hasta obtener una masa homogénea. Cubre el bol con un paño húmedo y déjala reposar en un lugar cálido durante unos 30 minutos, o hasta que duplique su tamaño.",
+    "Mientras la masa reposa, prepara la mantequilla para el hojaldrado: Corta la mantequilla fría en láminas o trozos y colócala entre dos papeles de horno. Aplánala con un rodillo hasta formar un cuadrado de aproximadamente 15x15 cm. Guárdala en el frigorífico.",
+    "Una vez que la masa haya levado, estírala sobre una superficie ligeramente enharinada formando un cuadrado de aproximadamente 30x30 cm. Coloca el cuadrado de mantequilla fría en el centro de la masa, girado 45 grados (como un rombo). Dobla las esquinas de la masa hacia el centro, cubriendo completamente la mantequilla, como si fuera un sobre.",
+    "Comienza los pliegues (vueltas simples): Estira la masa con el rodillo para formar un rectángulo largo y delgado. Realiza el primer pliegue doblando un tercio de la masa hacia el centro y luego doblando el tercio restante encima. Envuelve la masa en film transparente y refrigérala durante 20 minutos.",
+    "Repite el proceso de estirado y doblado dos veces más, refrigerando la masa 20 minutos entre cada vuelta. En total, habrás realizado tres pliegues simples.",
+    "Después de la última vuelta y su correspondiente reposo, estira la masa de hojaldre hasta obtener un rectángulo grande y delgado, de aproximadamente 3 mm de grosor.",
+    "Forma los cruasanes: Con un cuchillo afilado o un cortador de pizza, corta triángulos alargados de la masa. En la base más ancha de cada triángulo, puedes colocar el relleno de tu elección (chocolate, queso, jamón y queso, mermelada, etc.). Enrolla cada triángulo desde la base ancha hacia la punta, dándole la forma característica de media luna.",
+    "Coloca los cruasanes en una bandeja de horno cubierta con papel de hornear, dejando suficiente espacio entre ellos. Cubre la bandeja con un paño limpio y déjalos levar en un lugar cálido durante aproximadamente 1 hora, o hasta que dupliquen su tamaño y estén visiblemente hinchados. Este es el segundo levado.",
+    "Justo antes de hornear, bate el huevo restante con un poco de agua o leche. Pinta suavemente la superficie de cada cruasán con esta mezcla para que adquieran un brillo dorado.",
+    "Hornea en el horno precalentado a 200°C (temperatura media-alta) durante unos 15-20 minutos, o hasta que estén bien dorados por fuera y cocidos por dentro.",
+    "Deja enfriar ligeramente los cruasanes sobre una rejilla antes de disfrutar de su textura crujiente y su interior tierno y laminado."
+  ],
+  "origen": "Francesa (Casera)",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Media-Alta",
+  "duracion_aproximada": "3h 00min",
+  "comensales": 6,
+  "observaciones": "Aprende a preparar cruasanes caseros desde cero con su característica masa de hojaldre. Un bocado de repostería francesa, crujiente por fuera y tierno y laminado por dentro, perfecto para el desayuno, la merienda o para rellenar con tus ingredientes favoritos.",
+  "ocasion": ["Desayuno / Merienda / Repostería Especial"]
+}

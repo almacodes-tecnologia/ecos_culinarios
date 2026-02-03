@@ -1,0 +1,28 @@
+{
+  "id": "molino_de_piedra",
+  "titulo": "Molino de piedra tradicional",
+  "categoria": "Utensilios",
+  "descripcion": [
+    "El molino de piedra es un utensilio ancestral utilizado para moler cereales, especias y otros ingredientes.",
+    "Su uso se remonta a miles de años atrás y ha sido clave en diversas culturas para la elaboración de alimentos básicos."
+  ],
+  "fecha_aproximada": "Antigüedad (más de 4000 años)",
+  "origen": "Culturas agrícolas antiguas en Mesopotamia, Egipto y América",
+  "nota_divertida": "Aún hoy, en algunas regiones, los molinos de piedra producen harinas con un sabor más auténtico que las industriales.",
+  "datos_adicionales": {
+    "uso_actual": "En algunas regiones rurales aún se utilizan molinos de piedra para preservar técnicas tradicionales y sabores auténticos.",
+    "materiales": [
+      "piedra",
+      "madera",
+      "metal (ejes)"
+    ],
+    "funcionamiento": "Consiste en dos piedras circulares, una fija y otra que gira encima, que trituran el grano por presión y fricción.",
+    "relacionados": [
+      "molino_de_mano",
+      "molienda_artesanal"
+    ]
+  },
+  "referencias": [
+    "wikipedia.org"
+  ]
+}

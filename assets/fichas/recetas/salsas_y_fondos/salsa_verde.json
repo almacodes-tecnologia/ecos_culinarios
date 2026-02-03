@@ -1,0 +1,28 @@
+{
+  "id": "salsa_verde",
+  "nombre": "Salsa Verde",
+  "estilo": "Tradicional",
+  "categoria": "Técnicas Culinarias",
+  "imagen": "salsa_verde.webp",
+  "ingredientes": [
+    "2 puntas de harina de Aceite",
+    "Ajo",
+    "Perejil",
+    "Agua",
+    "Sal"
+  ],
+  "pasos": [
+    "Comienza calentando el aceite de oliva en una sartén.",
+    "Mientras el aceite se calienta, pica finamente el ajo y el perejil fresco. La cantidad dependerá de lo intenso que te guste el sabor.",
+    "Una vez el aceite esté caliente, añade el ajo y el perejil picados a la sartén. Sofríe a fuego suave hasta que el ajo empiece a dorarse ligeramente.",
+    "Vierte agua al aceite y añade una pizca de sal. Lleva a ebullición y cocina durante unos minutos, removiendo ocasionalmente, hasta que la salsa espese ligeramente."
+  ],
+  "origen": "Mediterránea / Española",
+  "recomendaciones": null,
+  "variantes": [],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "3min",
+  "comensales": 0,
+  "observaciones": "Una salsa fresca y vibrante a base de perejil y ajo, perfecta para realzar el sabor de pescados y mariscos. Rápida y sencilla de preparar.",
+  "ocasion": ["Condimento / Acompañamiento"]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "confitar",
+  "nombre": "Confitar",
+  "categoria": "coccion",
+  "descripcion": "Técnica de cocción lenta que consiste en cocinar un alimento sumergido en materia grasa (aceite, mantequilla o grasa animal) a una temperatura muy baja y constante, generalmente entre 60°C y 90°C. A diferencia de la fritura, el alimento no se dora ni se vuelve crujiente, sino que se ablanda, se vuelve extremadamente jugoso y absorbe los aromas de la grasa.",
+  "imagen": "confitar.webp",
+  "ingredientesRecomendados": [
+    "Bacalao",
+    "Pato (muslos o magret)",
+    "Alcachofas",
+    "Ajos",
+    "Tomates cherry"
+  ],
+  "precauciones": [
+    "Es vital controlar la temperatura con un termómetro; si el aceite empieza a burbujear con fuerza, estarás friendo y no confitando.",
+    "Asegúrate de que el alimento esté completamente cubierto por la grasa para que la cocción sea uniforme.",
+    "Una vez terminado, puedes conservar el alimento en su propia grasa en la nevera, lo que potenciará su sabor con el paso de los días."
+  ]
+}
