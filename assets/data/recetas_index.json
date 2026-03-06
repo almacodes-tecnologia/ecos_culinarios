@@ -1,4 +1,11 @@
 [
+	{
+	  "id": "sopa_de_ajo",
+	  "nombre": "Sopa de Ajo",
+	  "estilo": "De Cuchara",
+	  "categoria": "sopas",
+	  "imagen": "sopa_de_ajo.webp"
+	},
   {
     "id": "pan_casero_rustico",
     "nombre": "Pan casero rústico",

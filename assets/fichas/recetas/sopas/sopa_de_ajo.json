@@ -5,18 +5,34 @@
   "categoria": "Sopas",
   "imagen": "sopa_de_ajo.webp",
   "ingredientes": [
-"Ajo"
+    "3 Dientes de ajo",
+    "1/4 de barra de Pan (preferiblemente del día anterior)",
+    "1 litro de Agua",
+    "2 Huevos",
+    "Aceite de oliva virgen extra",
+    "Sal al gusto"
   ],
   "pasos": [
-"Hacer los ajos y comer al rico rico",
-    "Pendiente hablar con Pili"
+    "Pela los dientes de ajo y ponlos a hervir en una olla con el litro de agua y una pizca de sal.",
+    "Mientras tanto, corta el pan en láminas o rebanadas a lo largo.",
+    "En una sartén con abundante aceite de oliva, fríe el pan hasta que esté bien dorado y crujiente por ambos lados.",
+    "Cuando los ajos lleven hirviendo unos 5 minutos, incorpora el pan frito a la olla conforme lo vayas sacando de la sartén.",
+    "Vierte también el aceite sobrante de freír el pan en la olla para dar sabor y cuerpo a la sopa.",
+    "Deja que todo el conjunto hierva a fuego suave durante otros 5 minutos para que el pan se ablande y suelte el almidón.",
+    "Añade los huevos a la sopa. Puedes echarlos enteros para que se escalfen o batirlos ligeramente antes de incorporarlos si prefieres que queden en hilos.",
+    "Cocina todo junto durante los últimos 5 minutos hasta que el huevo esté cuajado y sirve caliente."
   ],
-  "origen": "Francesa",
-  "recomendaciones": null,
-  "variantes": [],
-  "dificultad": "Fácil",
-  "duracion_aproximada": "1h 5min",
+  "origen": "Española / Castellana",
+  "recomendaciones": "Si quieres un toque más auténtico, puedes añadir una cucharadita de pimentón de la Vera al aceite justo antes de echarlo a la olla.",
+  "variantes": [
+    "Sopa de ajo con jamón",
+    "Sopa de ajo con caldo de pollo en lugar de agua"
+  ],
+  "dificultad": "Baja",
+  "duracion_aproximada": "20min",
   "comensales": 2,
-  "observaciones": "",
-  "ocasion": ["Invierno / Cena Ligera / Entrada"]
+  "observaciones": "Una receta humilde, rápida y muy reconfortante. El secreto está en el buen dorado del pan y la calidad del aceite de oliva.",
+  "ocasion": [
+    "Cena Ligera / Invierno / Receta de Aprovechamiento"
+  ]
 }
