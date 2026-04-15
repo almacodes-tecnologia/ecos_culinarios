@@ -1,0 +1,43 @@
+{
+  "id": "migas_longaniza_huevo_uvas",
+  "nombre": "Migas con Longaniza, Huevo y Uvas",
+  "estilo": "Tradicional de Pastor",
+  "categoria": "Platos Principales",
+  "imagen": "migas_aragonesas.webp",
+  "ingredientes": [
+    "500 gr de Pan de hogaza (del día anterior)",
+    "200 gr de Longaniza",
+    "4 Huevos",
+    "1 racimo de Uvas sin pepitas",
+    "4 dientes de Ajo",
+    "Aceite de oliva virgen extra",
+    "Agua y sal"
+  ],
+  "pasos": [
+    "Corta el pan finamente. Humedécelo salpicando agua con sal por encima, cúbrelo con un paño y deja reposar al menos 30 minutos para que la humedad sea uniforme.",
+    "En una sartén grande, calienta el aceite y sofríe los ajos enteros con un corte. Cuando estén dorados, retíralos.",
+    "Trocea la longaniza y fríela en ese mismo aceite hasta que esté dorada. Retira la longaniza y reserva.",
+    "En el mismo aceite (con todo el sabor de la carne), añade el pan humedecido. Comienza a remover con una espumadera o cuchara de palo de forma constante.",
+    "Cocina a fuego medio durante unos 15-20 minutos, 'picando' el pan y removiendo sin parar hasta que las migas estén sueltas, doradas por fuera y tiernas por dentro.",
+    "Incorpora la longaniza y los ajos a la sartén y mezcla durante un par de minutos para homogeneizar sabores.",
+    "En una sartén aparte, fríe los huevos o prepáralos a la plancha según el gusto.",
+    "Lava las uvas y retíralas del racimo.",
+    "Sirve las migas calientes en un plato, coloca el huevo encima y acompaña con un puñado de uvas."
+  ],
+  "origen": "Tradicional",
+  "recomendaciones": "El contraste térmico y dulce de la uva fría con la miga caliente y salada es la clave del plato. No las saltes juntas; la uva debe ir fresca.",
+  "variantes": [
+    "Con panceta: Añade dados de panceta frita junto a la longaniza para un toque más potente.",
+    "Versión picante: Usa pimentón picante para darles un toque bravo.",
+    "Con chorizo: Puedes sustituir la longaniza por chorizo."
+  ],
+  "dificultad": "Media",
+  "duracion_approx": "45min",
+  "comensales": 4,
+  "observaciones": "Es vital remover constantemente; si te detienes mucho tiempo, el pan se pegará o se quemará en lugar de quedar suelto y crujiente.",
+  "ocasion": [
+    "Almuerzo",
+    "Comida familiar",
+    "Día de campo"
+  ]
+}

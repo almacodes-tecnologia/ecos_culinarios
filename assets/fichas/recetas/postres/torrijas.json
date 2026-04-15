@@ -1,0 +1,44 @@
+{
+  "id": "torrijas",
+  "nombre": "Torrijas",
+  "estilo": "Clásico Casero",
+  "categoria": "Postres",
+  "imagen": "torrijas.webp",
+  "ingredientes": [
+    "1 barra de pan del día anterior (o pan especial para torrijas)",
+    "1 litro de Leche entera",
+    "100 gr de Azúcar",
+    "1 rama de Canela",
+    "Piel de un limón (sin la parte blanca)",
+    "3 Huevos medianos",
+    "Aceite de oliva(para freír)",
+    "Mezcla de azúcar y canela en polvo (para rebozar al final)"
+  ],
+  "pasos": [
+    "En un cazo, calienta la leche con los 100g de azúcar, la rama de canela y la piel del limón. Cuando empiece a hervir, retira del fuego, tapa y deja infusionar hasta que esté tibia.",
+    "Corta el pan en rebanadas de unos 2 o 3 centímetros de grosor.",
+    "Coloca las rebanadas de pan en una fuente honda y vierte la leche infusionada (colada) sobre ellas. Deja que empapen bien durante al menos 30-40 minutos, dándoles la vuelta con cuidado si es necesario.",
+    "Bate los huevos en un plato hondo.",
+    "Pasa cada rebanada de pan empapada por el huevo batido, asegurándote de que queden bien cubiertas pero sin que se rompan.",
+    "Calienta abundante aceite en una sartén a fuego medio-alto. Fríe las torrijas por tandas hasta que estén doradas por ambos lados.",
+    "Retira las torrijas a un plato con papel absorbente para eliminar el exceso de aceite.",
+    "Mientras sigan calientes, rebózalas en la mezcla de azúcar y canela en polvo.",
+    "Deja enfriar a temperatura ambiente antes de servir."
+  ],
+  "origen": "Tradicional",
+  "recomendaciones": "Para que no se rompan, usa un pan con miga densa. Si la leche está muy caliente al mojar el pan, este se deshará; espera siempre a que esté templada.",
+  "variantes": [
+    "Torrijas al vino: Sustituye la leche por vino dulce o tinto rebajado con un poco de agua y azúcar.",
+    "Torrijas de miel: En lugar de azúcar y canela, báñalas en una mezcla de miel calentada con un chorrito de agua.",
+    "Torrijas con chocolate: Puedes añadir una cobertura de chocolate sobre la torrija."
+  ],
+  "dificultad": "Baja",
+  "duracion_approx": "60min",
+  "comensales": 4,
+  "observaciones": "El secreto de una buena torrija es el tiempo de empapado. Deben estar casi a punto de deshacerse antes de pasarlas por el huevo.",
+  "ocasion": [
+    "Semana Santa",
+    "Desayuno",
+    "Merienda"
+  ]
+}

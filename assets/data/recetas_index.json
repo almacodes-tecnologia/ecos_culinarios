@@ -1,4 +1,18 @@
 [
+    {
+	  "id": "migas_con_longaniza",
+	  "nombre": "Migas con Longaniza",
+	  "estilo": "De Siempre",
+	  "categoria": "huevos",
+	  "imagen": "migas_con_longaniza.webp"
+	},
+  {
+	  "id": "torrijas",
+	  "nombre": "Torrijas",
+	  "estilo": "De Siempre",
+	  "categoria": "postres",
+	  "imagen": "torrijas.webp"
+	},
 	{
 	  "id": "sopa_de_ajo",
 	  "nombre": "Sopa de Ajo",
