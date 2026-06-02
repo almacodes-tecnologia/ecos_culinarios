@@ -1,4 +1,11 @@
 [
+	{
+	  "id": "banana_bread",
+	  "nombre": "Banana Bread",
+	  "estilo": "Para el Café",
+	  "categoria": "Postres",
+	  "imagen": "banana_bread.webp"
+	},
     {
 	  "id": "migas_con_longaniza",
 	  "nombre": "Migas con Longaniza",
