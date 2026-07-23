@@ -1,4 +1,11 @@
 [
+{
+  "id": "guisantes_campesinos",
+  "nombre": "Guisantes Campesinos",
+  "estilo": "Casero",
+  "categoria": "legumbres",
+  "imagen": "guisantes_campesinos.webp"
+},
 	{
 	  "id": "banana_bread",
 	  "nombre": "Banana Bread",
