@@ -1,0 +1,45 @@
+{
+  "id": "guisantes_campesinos",
+  "nombre": "Guisantes Campesinos",
+  "estilo": "Casero / Tradicional",
+  "categoria": "Verduras",
+  "imagen": "guisantes_campesinos.webp",
+  "ingredientes": [
+    "250 g de guisantes congelados",
+    "2 patatas medianas",
+    "1/2 cebolla",
+    "1 diente de ajo",
+    "2 cucharadas de arroz",
+    "750 ml de caldo de verduras",
+    "1/2 cucharadita de pimentón dulce",
+    "2 cucharadas de aceite de oliva virgen extra",
+    "Sal (opcional)",
+    "Pimienta negra (opcional)"
+  ],
+  "pasos": [
+    "Pela las patatas y córtalas en dados. Pica finamente la cebolla y el ajo.",
+    "Calienta el aceite de oliva en una cazuela y sofríe la cebolla junto con el ajo durante unos 5 minutos, hasta que la cebolla esté tierna y transparente.",
+    "Añade las patatas y rehógalas durante un par de minutos.",
+    "Incorpora el pimentón dulce y remueve rápidamente para que no llegue a quemarse.",
+    "Vierte el caldo de verduras caliente y cocina durante 10 minutos a fuego medio.",
+    "Añade el arroz y los guisantes congelados. Cocina entre 15 y 20 minutos más, hasta que las patatas, el arroz y los guisantes estén bien tiernos.",
+    "Prueba el caldo y ajusta de sal si fuera necesario. Añade una pizca de pimienta negra recién molida antes de servir si lo deseas."
+  ],
+  "origen": "Cocina casera",
+  "recomendaciones": "Si te gustan los guisantes muy tiernos, prolonga la cocción unos minutos más. Sirve recién hecho acompañado de pan para aprovechar el caldo.",
+  "variantes": [
+    "Sustituir el caldo de verduras por agua con concentrado de caldo.",
+    "Utilizar ajo en polvo en lugar de ajo fresco.",
+    "Añadir unas cucharadas de tomate frito para un sabor más intenso.",
+    "Incorporar un chorrito de vino blanco antes de añadir el caldo.",
+    "Espolvorear perejil fresco picado al servir."
+  ],
+  "dificultad": "Baja",
+  "duracion_aproximada": "35min",
+  "comensales": 2,
+  "observaciones": "Un guiso sencillo elaborado con ingredientes básicos que destaca por su sabor suave y reconfortante. El arroz aporta consistencia al caldo y las patatas hacen del plato una comida completa sin necesidad de carne.",
+  "ocasion": [
+    "Comida",
+    "Cena"
+  ]
+}
