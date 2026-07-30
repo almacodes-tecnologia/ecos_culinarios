@@ -1,5 +1,12 @@
 [
 {
+  "id": "empanada_rustica_de_pollo",
+  "nombre": "Empanada Rústica de Pollo",
+  "estilo": "Casero",
+  "categoria": "Platos Principales",
+  "imagen": "empanada_rustica_pollo.webp"
+},
+{
   "id": "guisantes_campesinos",
   "nombre": "Guisantes Campesinos",
   "estilo": "Casero",
