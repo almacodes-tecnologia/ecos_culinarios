@@ -1,0 +1,51 @@
+{
+  "id": "empanada_rustica_de_pollo",
+  "nombre": "Empanada Rústica de Pollo",
+  "estilo": "Casero",
+  "categoria": "Platos Principales",
+  "imagen": "empanada_rustica_de_pollo.webp",
+  "ingredientes": [
+    "2 láminas de masa de empanada",
+    "400 gr de carne picada de pollo",
+    "1 Cebolla",
+    "1 Pimiento rojo",
+    "1 Pimiento verde",
+    "200 gr de Tomate triturado o frito",
+    "2 Huevos duros (opcional)",
+    "1 Huevo (para pincelar)",
+    "Aceite de oliva virgen extra",
+    "Sal y pimienta negra molida",
+    "1 cucharadita de pimentón dulce (opcional)"
+  ],
+  "pasos": [
+    "Pica finamente la cebolla, el pimiento rojo y el pimiento verde.",
+    "En una sartén grande con un chorro de aceite de oliva, pocha las verduras a fuego medio hasta que estén tiernas.",
+    "Añade la carne picada de pollo salpimentada al gusto y remueve bien, desmenuzándola con una cuchara de palo hasta que cambie de color y esté cocinada.",
+    "Incorpora el tomate triturado y el pimentón dulce si decides usarlo. Cocina a fuego lento durante unos 10-15 minutos hasta que el sofrito quede espeso y sin exceso de líquido. Deja enfriar el relleno.",
+    "Si decides añadir huevo duro, Pícalo en trozos pequeños e incorpóralo al sofrito ya templado.",
+    "Precalienta el horno a 200°C.",
+    "Extiende una de las láminas de masa sobre una bandeja de horno con su propio papel sulfurizado. Vierte el relleno de pollo encima, distribuyéndolo de manera uniforme pero dejando libre todo el borde.",
+    "Coloca la segunda lámina de masa cubriendo el relleno. Sella los bordes doblando y haciendo un repulgo o presionando con los dientes de un tenedor.",
+    "Pincha la superficie de la masa con un tenedor en un par de sitios para que respire durante el horneado, y haz un pequeño orificio central (chimenea) si lo deseas.",
+    "Bate el huevo restante y pincela toda la superficie de la empanada para que quede dorada y brillante.",
+    "Hornea a 200°C durante unos 25-30 minutos, o hasta que la masa esté dorada y crujiente.",
+    "Sácala del horno y déjala templar antes de cortar y servir."
+  ],
+  "origen": "Casero",
+  "recomendaciones": "Es importante que el sofrito esté frío o templado antes de montar la empanada para evitar que la masa se ablande o se rompa antes de entrar al horno.",
+  "variantes": [
+    "Masa casera: Puedes preparar una masa quebrada o masa de empanada casera con harina, aceite, agua y sal en lugar de usar masa comprada.",
+    "Toque picante: Añade un poco de cayena triturada o pimentón picante al sofrito de verduras.",
+    "Con aceitunas: Incorpora unas aceitunas verdes o negras troceadas junto con el huevo duro para darle un toque salado muy mediterráneo."
+  ],
+  "dificultad": "Fácil",
+  "duracion_approx": "50min",
+  "comensales": 4,
+  "observaciones": "Deja reposar la empanada al menos 15 minutos después de hornearla; de esta manera los jugos del interior se asentarán y será mucho más fácil cortarla sin que se desmorone.",
+  "ocasion": [
+    "Cena informal",
+    "Comida familiar",
+    "Excursión",
+    "Merienda-cena"
+  ]
+}
