@@ -1,0 +1,39 @@
+{
+  "id": "bizcocho_sin_huevo",
+  "nombre": "Bizcocho sin huevo esponjoso",
+  "estilo": "Casera",
+  "categoria": "Postres",
+  "imagen": "bizcocho_sin_huevo.webp",
+  "ingredientes": [
+    "250 gramos de harina de trigo",
+    "125 gramos de azúcar",
+    "250 ml de leche",
+    "50 gramos de aceite de oliva virgen extra",
+    "8 gramos de levadura química (polvo de hornear)",
+    "Media cucharadita de extracto de vainilla",
+    "La ralladura de medio limón",
+    "Media cucharadita de canela en polvo"
+  ],
+  "pasos": [
+    "Precalienta el horno a 180 °C con calor arriba y abajo. Aprovecha para engrasar y enharinar un molde de unos 20 cm de diámetro para que luego desmolde sin problemas.",
+    "Busca un bol amplio y mezcla en él la harina de trigo junto con la levadura química y la canela en polvo.",
+    "En otro recipiente aparte, bate el azúcar con la leche, el aceite de oliva virgen extra, el extracto de vainilla y la ralladura de limón hasta que notes que el azúcar se ha disuelto casi por completo.",
+    "Ve incorporando los ingredientes secos poco a poco a la mezcla líquida. Remueve con unas varillas o ayúdate de una espátula de silicona con movimientos suaves hasta conseguir una masa totalmente lisa y sin grumos.",
+    "Vierte la mezcla con cuidado dentro del molde que tenías preparado.",
+    "Mételo al horno y hornea durante unos 50 minutos. Para asegurarte de que está listo, pincha el centro con un palillo: si sale seco, ya lo tienes.",
+    "Saca el bizcocho del horno, déjalo reposar dentro del molde unos 10 minutos y luego pásalo con cuidado a una rejilla para que se enfríe por completo."
+  ],
+  "origen": "Española / Casera",
+  "recomendaciones": "Si te gusta un extra de aroma, puedes añadir unas gotitas más de vainilla o cambiar la ralladura de limón por naranja.",
+  "variantes": [
+    "Puedes usar leche vegetal (como de avena o almendras) si también buscas una opción sin lactosa",
+    "Añade un puñado de pepitas de chocolate a la masa para darle un toque dulce extra"
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "60min",
+  "comensales": 6,
+  "observaciones": "Una receta fantástica, suave y deliciosa, pensada especialmente para quienes tienen intolerancia al huevo pero no quieren renunciar a un buen bizcocho casero.",
+  "ocasion": [
+    "Desayuno / Merienda"
+  ]
+}
