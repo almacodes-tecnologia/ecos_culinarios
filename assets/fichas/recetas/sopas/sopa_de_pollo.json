@@ -1,0 +1,43 @@
+{
+  "id": "sopa_cremosa_de_pollo_y_pasta",
+  "nombre": "Sopa cremosa de pollo con pasta",
+  "estilo": "Casera",
+  "categoria": "Sopas",
+  "imagen": "sopa_cremosa_de_pollo_y_pasta.webp",
+  "ingredientes": [
+    "20 gramos de mantequilla",
+    "1 cebolla",
+    "Sal",
+    "2 puerros",
+    "2 dientes de ajo",
+    "Una pizca de romero seco",
+    "1 litro de caldo de pollo",
+    "2 pechugas de pollo",
+    "250 gramos de pasta corta",
+    "150 mililitros de nata líquida o leche evaporada",
+    "Media taza de queso rallado",
+    "Pimienta negra molida",
+    "Un chorrito de aceite de oliva"
+  ],
+  "pasos": [
+    "En una cacerola grande, derretimos la mantequilla con un chorrito de aceite. Echamos la cebolla picada, los puerros cortados en juliana y una pizca de sal. Tapamos y dejamos cocinar a fuego lento unos 10 minutos hasta que todo esté bien tierno y blandito.",
+    "Añadimos los dientes de ajo picados muy finamente y la pizca de romero seco. Dejamos que se cocinen juntos un par de minutos con cuidado de que no se quemen.",
+    "Vertemos el litro de caldo de pollo.",
+    "Metemos las pechugas de pollo enteras dentro de la cacerola, procurando que queden bien cubiertas por el caldo. Tapamos y dejamos que hierva a fuego lento durante unos 5 minutos.",
+    "Pasados esos 5 minutos, echamos la pasta directamente a la cacerola, volvemos a tapar y dejamos cocinar un poco más, dependerá del tiempo de cocción de la pasta.",
+    "Sacamos las pechugas de pollo y las desmenuzamos fácilmente ayudándonos de dos tenedores cuando podamos.",
+    "Cuando veamos que la pasta está al dente, apartamos la cacerola del fuego.",
+    "Devolvemos el pollo desmenuzado a la sopa, incorporamos la nata líquida (o leche evaporada), el queso rallado y una buena pizca de pimienta negra recién molida. Removemos bien para que quede todo integrado y bien cremoso."
+  ],
+  "origen": "Casera / Española",
+  "recomendaciones": "Es ideal servirla recién hecha para disfrutar de la cremosidad de la pasta y el queso en su punto óptimo.",
+  "variantes": [
+    "Versión al limón: Si te apetece un toque fresco y original, puedes añadir la ralladura y el zumo de medio limón al final, justo antes de retirar del fuego.",
+    "Con hierbas frescas: Si tienes por casa, puedes sustituir el romero seco por dos ramitas de romero fresco picado para intensificar el aroma."
+  ],
+  "dificultad": "Media",
+  "duracion_aproximada": "45 minutos",
+  "comensales": 6,
+  "observaciones": "Una sopa de pollo reconfortante y muy nutritiva, con una textura supersuave y cremosa gracias al toque de la nata y el queso rallado. Económica y perfecta para cualquier día de invierno.",
+  "ocasion": ["Comida Diaria / Invierno / Plato Único"]
+}
