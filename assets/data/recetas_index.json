@@ -1,5 +1,12 @@
 [
 {
+  "id": "noquis_salsa_queso",
+  "nombre": "Ñoquis con salsa cremosa de queso",
+  "estilo": "Casero",
+  "categoria": "patatas",
+  "imagen": "noquis_salsa_queso.webp"
+},
+{
   "id": "empanada_rustica_de_pollo",
   "nombre": "Empanada Rústica de Pollo",
   "estilo": "Casero",
