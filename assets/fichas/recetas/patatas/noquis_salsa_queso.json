@@ -1,0 +1,37 @@
+{
+  "id": "noquis_salsa_queso",
+  "nombre": "Ñoquis con salsa cremosa de queso y caldo de pollo",
+  "estilo": "Casero",
+  "categoria": "Patatas",
+  "imagen": "noquis_salsa_queso.webp",
+  "ingredientes": [
+    "1 paquete de ñoquis comprados (400g - 500g)",
+    "1/2 cebolla picada muy fina",
+    "1/2 pimiento verde picado muy fino",
+    "1 cucharada sopera rasera de harina de trigo",
+    "200 ml de caldo de pollo",
+    "80g - 100g de queso rallado que funda bien (tipo Gouda, Emmental, Cheddar o Mozzarella seca)",
+    "Aceite de oliva virgen extra",
+    "Sal",
+    "Pimienta negra recién molida"
+  ],
+  "pasos": [
+    "En una sartén, pocha la cebolla y el pimiento verde con un chorrito de aceite de oliva y una pizca de sal a fuego medio-bajo hasta que estén bien blandos.",
+    "Añade la cucharada de harina y remueve durante 1 o 2 minutos para que se cocine y pierda el sabor a crudo.",
+    "Vierte el caldo de pollo poco a poco sin dejar de remover con unas varillas o cuchara de madera para que no queden grumos. Deja reducir a fuego suave 3-4 minutos hasta que tome cuerpo y salpimenta al gusto.",
+    "Paralelamente, cuece los ñoquis en abundante agua hirviendo con sal. En cuanto floten en la superficie (1-2 minutos), escúrrelos.",
+    "Apaga el fuego de la salsa, añade el queso rallado y remueve hasta que se funda y quede una textura homogénea y cremosa.",
+    "Incorpora los ñoquis cocidos a la salsa, mezcla suavemente durante 30 segundos y sirve inmediatamente."
+  ],
+  "origen": "Contemporáneo",
+  "recomendaciones": "Utiliza un caldo de pollo de buena calidad para potenciar el sabor de la salsa.",
+  "variantes": [
+    "Se puede añadir una pizca de nuez moscada junto con la pimienta negra.",
+    "Probar con diferentes tipos de queso según la intensidad deseada."
+  ],
+  "dificultad": "Fácil",
+  "duracion_aproximada": "20 minutos",
+  "comensales": 2,
+  "observaciones": "Es fundamental cocer los ñoquis por separado para evitar que suelten almidón en exceso y arruinen la textura de la salsa.",
+  "ocasion": ["cena rápida", "comida diaria", "comfort food"]
+}
